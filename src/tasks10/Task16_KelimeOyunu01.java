@@ -99,6 +99,7 @@ public class Task16_KelimeOyunu01 {
             oyuncu = 2;
         else
             oyuncu = 1;
+
     }
 
 

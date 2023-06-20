@@ -78,5 +78,6 @@ public class Task15_UcusProject02 {
                 break;
         }
         return yonKatsayi;
+
     }
 }

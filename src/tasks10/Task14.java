@@ -1,6 +1,10 @@
 package tasks10;
 
+import java.util.Scanner;
+
 public class Task14 {
+
+    static double toplamKazanc;
 
     public static void main(String[] args) {
 
@@ -27,10 +31,30 @@ public class Task14 {
     toplam = 536.0
     */
 
-
-
+        getUser();
 
     }
 
+    private static void ucretHesapla(double birimUcret, int start, int end, double fazlaMesaiCarpan) {
+        int mesai = end - start;
+        toplamKazanc = (mesai >= 8) ? (8 * birimUcret + ((mesai) - 8) * 40 * fazlaMesaiCarpan) : mesai * birimUcret;
+        System.out.println("ToplamKazanc = " + toplamKazanc);
 
-}
+    }
+
+    private static void getUser() {
+        Scanner input = new Scanner(System.in);
+        System.out.println("Saatlik çalışma ücretini giriniz: ");
+        double birimUcret = input.nextDouble();
+        System.out.println("İşe başlama saati: ");
+        int start = input.nextInt();
+        System.out.println("İşi bitirme saati: ");
+        int end = input.nextInt();
+        System.out.println("Fazla mesai çarpanı: ");
+        double fazlaMesaiCarpan = input.nextDouble();
+
+        ucretHesapla(birimUcret, start, end, fazlaMesaiCarpan);
+    }
+
+
+    }
