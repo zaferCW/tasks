@@ -11,7 +11,8 @@ public class _04_Create_Array_String {
          */
 
         // Kodu aşağıya yazınız..
-
+        String[] eleman = {"new jersey", "new york", "boston", "California"};
+        System.out.println("eleman.length = " + eleman.length);
 
     }
 }

@@ -1,5 +1,7 @@
 package meryem.task12;
 
+import java.util.Arrays;
+
 public class _01_Create_array {
 
     public static void main(String[] args) {
@@ -10,7 +12,8 @@ public class _01_Create_array {
          */
 
         //Kodu aşağıya yazınız.
-
+        String [] dizi={"Apple", "Orange" , "Banana", "Kiwi"};
+        System.out.println("Arrays.toString(dizi) = " + Arrays.toString(dizi));
 
     }
 }
