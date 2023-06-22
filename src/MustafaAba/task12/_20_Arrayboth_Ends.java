@@ -1,5 +1,7 @@
 package MustafaAba.task12;
 
+import java.util.Arrays;
+
 public class _20_Arrayboth_Ends {
 
     public static void main(String[] args) {
@@ -14,6 +16,12 @@ public class _20_Arrayboth_Ends {
       */
         //Kodu aşağıya yazınız..
 
-
+        int[] numArr = {1, 2, 3, 4};
+        int[] newArray = new int[2];
+        newArray[0] = numArr[0];
+        newArray[1] = numArr[numArr.length - 1];
+        System.out.println("newArray = " + Arrays.toString(newArray));
     }
+
+
 }

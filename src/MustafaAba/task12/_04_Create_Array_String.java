@@ -12,6 +12,9 @@ public class _04_Create_Array_String {
 
         // Kodu aşağıya yazınız..
 
+        String [] arr={"new jersey" , "new york", "boston","California"};
+
+        System.out.println("arr.length = " + arr.length);
 
     }
 }

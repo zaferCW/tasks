@@ -1,5 +1,8 @@
 package MustafaAba.task12;
 
+import java.lang.reflect.Array;
+import java.util.Arrays;
+
 public class _06_Array_contains {
 
     public static void main(String[] args) {
@@ -13,6 +16,18 @@ public class _06_Array_contains {
 
         //Kodu aşağıya yazınız..
 
+        String[]arr={"Apple" , "Orange" , "Banana" , "Pineapple"};
+        //System.out.println("Arrays.toString(arr).contains(\"Apple\") = " + Arrays.toString(arr).contains("Apple"));
+
+
+        boolean bb=false;
+        for (int i = 0; i < arr.length; i++) {
+            if (arr[i].contains("Apple")) {
+                bb = true;
+                break;
+            }
+        }
+        System.out.println(bb);
 
     }
 }
