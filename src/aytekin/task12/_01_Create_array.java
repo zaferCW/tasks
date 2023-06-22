@@ -1,4 +1,4 @@
-package task12;
+package aytekin.task12;
 
 public class _01_Create_array {
 
@@ -10,7 +10,7 @@ public class _01_Create_array {
          */
 
         //Kodu aşağıya yazınız.
-        System.out.println("Selam");
+
 
     }
 }
