@@ -12,6 +12,8 @@ public class _04_Create_Array_String {
 
         // Kodu aşağıya yazınız..
 
+        String [] states = {"new jersey" , "new york", "boston","California"};
+        System.out.println("states.length = " + states.length);
 
     }
 }

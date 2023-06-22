@@ -13,6 +13,19 @@ public class _06_Array_contains {
 
         //Kodu aşağıya yazınız..
 
+        String[] fruits = {"Apple", "Orange", "Banana", "Pineapple"};
+        boolean containsApple = false;
+
+        for (int i = 0; i < fruits.length; i++) {
+            if (fruits[i].equals("Apple"))
+                containsApple=true;
+            break;
+        }
+        if (containsApple)
+            System.out.println("the array contains Apple = " + containsApple);
+        else
+            System.out.println("the array does not contain Apple = " + containsApple);
+
 
     }
 }

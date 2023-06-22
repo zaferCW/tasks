@@ -1,5 +1,7 @@
 package Rumeysa.task12;
 
+import java.util.Arrays;
+
 public class _01_Create_array {
 
     public static void main(String[] args) {
@@ -10,6 +12,9 @@ public class _01_Create_array {
          */
 
         //Kodu aşağıya yazınız.
+
+        String[] fruits = {"Apple", "Orange", "Banana", "Kiwi"};
+        System.out.println("(fruits) = " + Arrays.toString(fruits));
 
 
     }
