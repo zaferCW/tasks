@@ -39,7 +39,7 @@ public class _12_Array_no14 {
             if (numArr[i] == 1) b1 = true;
             if (numArr[i] == 4) b4 = true;
         }
-        System.out.println("3. yol: "+(!b1 || !b4));
+        System.out.println("3. yol: "+!(b1 && b4));
 
 
 
