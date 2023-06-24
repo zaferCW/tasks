@@ -14,5 +14,9 @@ public class _18_2d_array2 {
         //Kodu aşağıya yazınız.
 
 
+
+
+
+
     }
 }

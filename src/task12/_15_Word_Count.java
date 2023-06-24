@@ -12,5 +12,6 @@ public class _15_Word_Count {
         //Kodu aşağıya yazınız.
 
 
+
     }
 }
