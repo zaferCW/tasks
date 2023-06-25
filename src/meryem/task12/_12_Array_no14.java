@@ -20,8 +20,48 @@ public class _12_Array_no14 {
 
         // code start here
 
+int [] arr={1,2,3,5};
 
 
+     /*  boolean sahipmi=true;
+        boolean sahipmi1=true;
 
+            for (int i:arr){
+                if (i == 1) {
+                    sahipmi = false;
+                } else if (i == 4) {
+                    sahipmi1 =false;
+                }
+            }
+
+        System.out.println("(sahipmi1 && sahipmi) = " + (sahipmi1 && sahipmi));
+      //  System.out.println("( sahipmi1 &&sahipmi) ? \"false\":\"true\" = " + (sahipmi1 && sahipmi) ? "false" : "true");
+*/
+// 2. yol taha
+        System.out.println("2. calışma");
+        boolean answ = true;
+        for (int x : arr) {
+            if (x == 4) {
+                for (int y : arr) {
+                    if (y == 1) {
+                        answ = false;
+                    }
+
+                }
+            } else if (x == 1) {
+                for (int y : arr) {
+                    if (y == 4) {
+                        answ = false;
+                    }
+                }
+            }
+        }
+        System.out.println(answ);
     }
-}
+    }
+
+
+
+
+
+

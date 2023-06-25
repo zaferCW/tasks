@@ -38,7 +38,7 @@ Sadece 400'e tam olarak bölünebilenlerin artık yıl kabul edilmesinin nedeni,
     }//main sonu
 
     private static boolean artikYil1(int yil) {
-       // return( (yil%4==0 && yil%100!=0 ) || yil%400==0);//true sonuç verir
+
         return (yil % 400 == 0 || (yil % 100 != 0 && yil % 4 == 0));
     }
 

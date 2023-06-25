@@ -12,7 +12,11 @@ public class _20_Arrayboth_Ends {
 
     Sonuç bu şekilde olmalıdır. [1, 4]
       */
-        //Kodu aşağıya yazınız..
+        //Kodu aşağıya yazınız.i
+int [] arr={1, 2, 3, 4};
+        System.out.println("arr = " + arr);
+  int [] arr1={arr[0], arr[arr.length-1]} ;
+        System.out.println("arr1 = " + arr1);
 
 
     }

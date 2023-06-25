@@ -23,5 +23,6 @@ public class Task09 {
 
     private static void saniyeC(int saat) {
         System.out.println(saat+" "+(saat*3600)+" saniye dir");//saati saniyye cevirip prınt ettik
+      //  return (saat*3600);//methodu boolen yapmak gerekiyor
     }
 }

@@ -22,6 +22,7 @@ public class Task01 {
 
         Arrays.sort(arr);//burada array kucukten buyuge siralandi
 
+        System.out.println(Arrays.toString(arr));//burada array kucukten
         for (int i = arr.length-1/*en buyuk eleman en sagda oldugu icin ordan basladik*/; i >=0 ; i--) {
             System.out.print( arr[i]+" ");
         }

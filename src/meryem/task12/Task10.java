@@ -10,10 +10,33 @@ public class Task10 {
 
          */
 
+        int[] arr = {1, 2, -3, 4, -5, -6};
+
+        System.out.println("Orjinal Dizi:");
+        array(arr);
+
+        isaretDegis(arr);
+
+        System.out.println("İşareti Değiştirilmiş Dizi:");
+        array(arr);
+    }
+
+    public static void  isaretDegis (int[] arr) {
+        for (int i = 0; i < arr.length; i++) {
+            arr[i] = arr[i] * -1;
+        }
+    }
+
+    public static void array(int[] arr) {
+        for (int num : arr) {
+            System.out.print(num + " ");
+        }
+        System.out.println();
+    }
 
 
 
     }
 
 
-}
+
