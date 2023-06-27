@@ -1,5 +1,8 @@
 package meryem.Tasks13;
 
+import java.util.ArrayList;
+import java.util.Scanner;
+
 public class _11_prime_numbers {
 
     /*
@@ -16,11 +19,31 @@ public class _11_prime_numbers {
      */
 
     public static void main(String[] args) {
+            Scanner input = new Scanner(System.in);
+            System.out.println("Negatif olmayan bir n sayısı girin: ");
+            int sayi = input.nextInt();
 
+            ArrayList<Integer> numbers = new ArrayList<>();
+
+
+            for (int i = 2; i <= sayi; i++) {//i değişkeni 2'den başlayarak sayi sayısına kadar tüm sayıları kontrol eder.
+                boolean control = true;
+
+                for (int j = 2; j <= Math.sqrt(i); j++) {//Her bir sayı için iç içe bir döngü oluşturulur ve sayının asal olup olmadığını kontrol eder.
+                    if (i % j == 0) {//Bir sayı, 2 ile sqrt(i) (karekök) arasındaki herhangi bir sayıya bölünüyorsa, bu durumda control değişkeni false olarak ayarlanır ve iç içe döngüden çıkılır.
+                        control = false;
+                        break;
+                    }
+                }
+                if (control) {//control değişkeni hala true ise, bu durumda i asal bir sayıdır ve numbers listesine eklenir.
+                    numbers.add(i);
+                }
+
+            }
+            int count = numbers.size();
+            System.out.println("Toplam asal sayı sayısı: " + count);//Son olarak, numbers listesinin boyutu count değişkenine atanır ve bu değer ekrana yazdırılır.
+            System.out.println("Asal sayılar: " + numbers);// numbers listesi de ekrana yazdırılır.
+        }
 
 
     }
-}
-
-
-
