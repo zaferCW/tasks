@@ -1,5 +1,7 @@
 package Tasks13.Tasks13;
 
+import java.util.ArrayList;
+
 public class _01_arraylist1 {
 
     /*
@@ -14,13 +16,27 @@ public class _01_arraylist1 {
         String Orange:
         Count = 2 olmalı. (Orange 2 kez yazılmış)
          */
-
     public static void main(String[] args) {
+        ArrayList<String> arrayList = new ArrayList<>();
+        arrayList.add("Orange");
+        arrayList.add("Kiwi");
+        arrayList.add("Peach");
+        arrayList.add("Banana");
+        arrayList.add("Orange");
 
-
-
-
+        String target = "Orange";
+        int count = getCount(arrayList, target);
+        System.out.println("Count: " + count);
     }
 
+    public static int getCount(ArrayList<String> arrayList, String target) {
+        int count = 0;
 
+        for (String element : arrayList) {
+            if (element.equals(target)) {
+                count++;
+            }
+        }
+        return count;
+    }
 }

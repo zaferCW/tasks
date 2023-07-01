@@ -1,5 +1,7 @@
 package Tasks13.Tasks13;
 
+import java.util.ArrayList;
+
 public class _04_arraylist4 {
 
     /*
@@ -17,12 +19,12 @@ public class _04_arraylist4 {
         cevap: "yellow" , "red" , "yellow" , "red" , "yellow"
      */
 
-    public static void main(String[] args) {
-
-
-
-
-    }
-
 
 }
+
+
+
+
+
+
+
