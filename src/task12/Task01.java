@@ -18,9 +18,9 @@ public class Task01 {
             System.out.println(i+1 +". nci degeri gir");
             arr[i]=input.nextInt();//boyut kadar kullanicindan deger alinarak arr array inin elemanlari atandi
         }
-        System.out.println("seniin istedigin array budur = "+ Arrays.toString(arr));
+        System.out.println("senin istedigin array budur = "+ Arrays.toString(arr));
 
-        Arrays.sort(arr);//burada array kucukten buyuge siralandi
+        Arrays.sort(arr);//burada array kucukten buyuge siralandi.
 
         for (int i = arr.length-1/*en buyuk eleman en sagda oldugu icin ordan basladik*/; i >=0 ; i--) {
             System.out.print( arr[i]+" ");
