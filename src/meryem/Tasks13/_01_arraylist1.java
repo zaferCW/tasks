@@ -1,5 +1,7 @@
 package meryem.Tasks13;
 
+import java.util.ArrayList;
+
 public class _01_arraylist1 {
 
     /*
@@ -17,9 +19,30 @@ public class _01_arraylist1 {
 
     public static void main(String[] args) {
 
+        ArrayList<String> list = new ArrayList<String>();
+        list.add("Orange");
+        list.add("Kiwi");
+        list.add("Peach");
+        list.add("Banana");
+        list.add("Orange");
+        String meyve="Orange";
+       
+        int count =getCount1(list,meyve);
+        System.out.println("count = " + count);
 
 
+    }//main sonu
 
+    private static int getCount1(ArrayList<String> list, String meyve) {
+
+        int count = 0;
+        for(int i = 0; i<list.size(); i++){
+            String eleman=list.get(i);
+            if (eleman.equals(meyve)){
+                count++;
+
+            }
+        }return count;
     }
 
 

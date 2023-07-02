@@ -1,5 +1,9 @@
 package meryem.Tasks13;
 
+import java.util.ArrayList;
+import java.util.List;
+import java.util.Objects;
+
 public class _04_arraylist4 {
 
     /*
@@ -18,11 +22,27 @@ public class _04_arraylist4 {
      */
 
     public static void main(String[] args) {
+        ArrayList <String> list = new ArrayList<>();
+        list=new ArrayList<>(List.of("yellow" , "red" , "blue" , "red" , "blue"));
+        String s1 = "blue";
+        String s2 = "yellow";
+        ArrayList <String> list2 = new ArrayList<String>();
+        list2=changeInArraylist(list, s1, s2);
+        System.out.println("list2 = " + list2);
 
+    }//main son
 
+    private static ArrayList<String> changeInArraylist(ArrayList<String> list, String s1, String s2) {
 
+   for (int i = 0; i < list.size(); i++){
+
+       if (list.get(i).equals(s1)){
+         list.set(i, s2);
+
+       }
+   }return list;
 
     }
 
 
-}
+}//class son
