@@ -2,7 +2,8 @@ package task12;
 
 public class Task15 {
     public static void main(String[] args) {
-        //task-> MDarr  tum elemalarının çarpımını print eden code create edinz
+        //task-> MDarr  tum elemalarının çarpımını print eden code create ediniz..
+
         int [][] arrMD={ {1,2,3 }, { 9,8} };
 
         int carpim=1;
