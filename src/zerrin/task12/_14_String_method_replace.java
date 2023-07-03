@@ -12,9 +12,8 @@ public class _14_String_method_replace {
         Sonuç bu şekilde olmalıdır:
         HellK WKrld
          */
-String[] arr={ "Hello World"};
+        String[] arr = {"Hello World" };
         System.out.println("Hello World".replace("o", "K"));
-
 
 
     }

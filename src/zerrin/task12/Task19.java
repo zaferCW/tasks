@@ -8,9 +8,24 @@ public class Task19 {
         // arr1 = { {1,2}, {3,4,5}, {6} } ve arr2 = { {7,8,9}, {10,11}, {12} }
         int arr1[][]={ {1,2}, {3,4,5}, {6} };
         int arr2[][]={ {7,8,9}, {10,11}, {12} };
-        int sum=0;
+
+        int satir=Math.min(arr1.length,arr2.length);
+        for (int i = 0; i < satir; i++) {
+            int[] icArr1=arr1[i];
+            int[] icArr2=arr2[i];
+
+        int kolon=Math.min(icArr1.length,icArr2.length);
+            int sum=0;
+            for (int j = 0; j < kolon; j++) {
+                sum+=icArr1[j]+icArr2[j];
+            }
+            System.out.println("toplam="+(i+1)+".eleman:"+sum);
 
 
-        System.out.println(sum);
+
+        }
+
+
+
     }
 }

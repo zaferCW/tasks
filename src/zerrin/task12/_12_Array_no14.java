@@ -21,14 +21,22 @@ public class _12_Array_no14 {
          */
 
         // code start here
-        int [] array ={1,2,3,4};
-        boolean birvedortyok = true;
-        for (int i = 0; i < array.length ; i++) {
+        int[] array = {1, 2, 3, 4};
+        boolean birvarmi = false;
+        boolean dortvarmi = false;
 
+        for (int i = 0; i < array.length; i++) {
+            if (array[i] == 1) {
+                birvarmi = true;
+            }
+            if (array[i] == 4) {
+               dortvarmi=true;
 
             }
-
         }
-
-
+      boolean sonuç =!(birvarmi &&dortvarmi);
+        System.out.println("sonuç = " + sonuç);
     }
+
+
+}

@@ -13,6 +13,10 @@ public class _20_Arrayboth_Ends {
     Sonuç bu şekilde olmalıdır. [1, 4]
       */
         //Kodu aşağıya yazınız..
+int []ilkarray={1, 2, 3, 4};
+int [] newarray=new int[2];
+newarray[1]=ilkarray[0];
+
 
 
     }

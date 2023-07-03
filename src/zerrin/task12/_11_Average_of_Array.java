@@ -10,7 +10,7 @@ public class _11_Average_of_Array {
          */
 
         //Kodu aşağıya yazınız.
-        int [] array ={14 , 19 , 5 , 21};
+        int [] array ={12, 14 , 21 ,23 , 10 ,4,5};
         int toplam=0;
 
 
@@ -19,7 +19,7 @@ public class _11_Average_of_Array {
 
         }
         System.out.println("toplam = " + toplam);
-        double ortalama=toplam/array.length;
+        double ortalama=(double) toplam/array.length;
         System.out.println("ortalama = " + ortalama);
     }
 }
