@@ -12,9 +12,12 @@ public class _21_Array_reverse {
          */
 
         //Kodu aşağıya yazınız.
-
-
+        int[] arr = {1, 2, 3};
+        for (int i =arr.length - 1;i >=0; i--) {
+            System.out.print(" "+ arr[i]);
+        }
     }
 }
+
 
 
