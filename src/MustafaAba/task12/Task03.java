@@ -32,7 +32,10 @@ public class Task03 {
         }
         System.out.println("Arrays.toString(newArray) = " + Arrays.toString(newArray));
 
-        //System.arraycopy(arr, 1, newArray, 0, boyut - 1);
+        //2.yol
+        System.arraycopy(arr, 1, newArray, 0, boyut - 1);
+
+        System.out.println("2.yol\nArrays.toString(newArray) = " + Arrays.toString(newArray));
 
     }
 
