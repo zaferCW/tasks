@@ -1,20 +1,66 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="82867c73-8d45-4cdb-9c44-80e8516d85b9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="82867c73-8d45-4cdb-9c44-80e8516d85b9" name="Changes" comment="ilk">
+      <change afterPath="$PROJECT_DIR$/src/hasancln18/abc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hasancln18/task12/Task01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hasancln18/task12/Task02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hasancln18/task12/Task03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hasancln18/task12/Task04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hasancln18/task12/Task05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hasancln18/task12/Task06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hasancln18/task12/Task08.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hasancln18/task12/Task09.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hasancln18/task12/Task10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hasancln18/task12/Task11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hasancln18/task12/Task12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hasancln18/task12/Task13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hasancln18/task12/Task14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hasancln18/task12/Task15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hasancln18/task12/Task16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hasancln18/task12/Task17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hasancln18/task12/Task18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hasancln18/task12/Task19.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hasancln18/task12/_01_Create_array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hasancln18/task12/_02_Create_array2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hasancln18/task12/_03_Create_array3_int.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hasancln18/task12/_04_Create_Array_String.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hasancln18/task12/_05_Array_with_for_if.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hasancln18/task12/_06_Array_contains.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hasancln18/task12/_07_array_max_value.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hasancln18/task12/_08_array_min_value.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hasancln18/task12/_09_array_second_max.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hasancln18/task12/_10_reverse_String.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hasancln18/task12/_11_Average_of_Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hasancln18/task12/_12_Array_no14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hasancln18/task12/_13_Advance_zeroFront.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hasancln18/task12/_14_String_method_replace.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hasancln18/task12/_15_Word_Count.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hasancln18/task12/_16_Advance_Array_get_sum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hasancln18/task12/_17_2d_Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hasancln18/task12/_18_2d_array2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hasancln18/task12/_19_2d_Array_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hasancln18/task12/_20_Arrayboth_Ends.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hasancln18/task12/_21_Array_reverse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Merge.Settings">
+    <option name="BRANCH" value="origin/master" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -32,9 +78,15 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/Q-3442 HASAN/IdeaProjects/tasks/src/hasancln18"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Q-3442 HASAN\IdeaProjects\tasks\src\hasancln18" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -44,6 +96,18 @@
       <option name="presentableId" value="Default" />
       <updated>1687378057423</updated>
     </task>
+    <task id="LOCAL-00001" summary="ilk">
+      <created>1687378363945</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1687378363945</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ilk" />
+    <option name="LAST_COMMIT_MESSAGE" value="ilk" />
   </component>
 </project>
