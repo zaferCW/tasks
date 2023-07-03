@@ -11,7 +11,22 @@ public class Task14 {
                     --> Integer.valueOf()
          */
 
+        String str="aasdd1234";
 
+        rakamlarTopla(str);
+
+    }
+
+    private static void rakamlarTopla(String str) {
+        int toplam=0;
+        for (int i = 0; i < str.length(); i++) {
+               char s=str.charAt(i);
+               if (Character.isDigit(s)){
+                   int rakam=Integer.valueOf(String.valueOf(s));
+                   toplam+=rakam;
+               }
+        }
+        System.out.println("toplam = " + toplam);
     }
 
 
