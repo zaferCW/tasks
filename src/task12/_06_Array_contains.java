@@ -1,5 +1,7 @@
 package task12;
 
+import java.util.Arrays;
+
 public class _06_Array_contains {
 
     public static void main(String[] args) {
@@ -12,6 +14,17 @@ public class _06_Array_contains {
          */
 
         //Kodu aşağıya yazınız..
+
+        String[] elemanlar = {"Apple ", "Orange", "Banana ", "Pineapple"};
+        boolean aitmi = false;
+
+        for (String meyve : elemanlar) {
+            if (meyve.equals("Apple")) {
+                aitmi = true;
+                break;
+            }
+        }
+        System.out.println(aitmi);
 
 
     }

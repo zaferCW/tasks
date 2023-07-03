@@ -10,7 +10,16 @@ public class _14_String_method_replace {
         Sonuç bu şekilde olmalıdır:
         HellK WKrld
          */
+        String originalString = "Hello World";
+        char[] yeniString = originalString.toCharArray();
 
+        for (int i = 0; i < yeniString.length; i++) {
+            if (yeniString[i] == 'o') {
+                yeniString[i] = 'K';
+            }
+        }
+        String sonuc = new String(yeniString);
+        System.out.println(sonuc);
 
     }
 }
