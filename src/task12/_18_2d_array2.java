@@ -1,5 +1,7 @@
 package task12;
 
+import java.lang.reflect.Array;
+
 public class _18_2d_array2 {
 
     public static void main(String[] args) {
@@ -12,6 +14,15 @@ public class _18_2d_array2 {
          */
 
         //Kodu aşağıya yazınız.
+
+        int[][] array = {{5, 2, 1}, {10, 2, 3, 6}, {1, 2}};
+        int toplam = 0;
+        for (int i = 0; i < array.length; i++) {
+            for (int j = 0; j < array[i].length; j++) {
+                toplam += array[i][j];
+            }
+        }
+        System.out.println("Sayilarin toplami= " + toplam);
 
 
     }

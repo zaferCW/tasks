@@ -1,5 +1,7 @@
 package task12;
 
+import java.util.Arrays;
+
 public class _13_Advance_zeroFront {
 
     public static void main(String[] args) {
@@ -13,11 +15,16 @@ public class _13_Advance_zeroFront {
 
    Bu şekilde bir Array oluşturunuz: 1,0,0,1,0
    Sonuç böyle olmalı :  0,0,0,1,1
-
        */
-
         // Kodu aşağıya yazınız..
+        int[] arr = {1, 0, 0, 1, 0};
+        Arrays.sort(arr);
+        System.out.println("Arrays.toString(arr) = " + Arrays.toString(arr));
 
 
     }
 }
+
+
+
+
