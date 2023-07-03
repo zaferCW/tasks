@@ -19,9 +19,25 @@ public class _12_Array_no14 {
          */
 
         // code start here
+        int[] arr = {1, 2, 3, 4};
 
+        boolean answ = true;
+        for (int x : arr) {
+            if (x == 4) {
+                for (int y : arr) {
+                    if (y == 1) {
+                        answ = false;
+                    }
 
-
-
+                }
+            } else if (x == 1) {
+                for (int y : arr) {
+                    if (y == 4) {
+                        answ = false;
+                    }
+                }
+            }
+        }
+        System.out.println(answ);
     }
 }

@@ -2,8 +2,7 @@ package task12;
 
 public class _20_Arrayboth_Ends {
 
-    public static void main(String[] args) {
-
+    public static int[] yapilanYeniArr(int[] array) {
      /*
      Oluşturacağınız int array'ini, length'i(eleman sayısı) 2 olan ve int array'inin(ilk oluşturduğunuz array)
      ilk ve son elementlerini kapsayan yeni array'e return edin.
@@ -14,6 +13,15 @@ public class _20_Arrayboth_Ends {
       */
         //Kodu aşağıya yazınız..
 
+
+        return new int[]{array[0], array[array.length - 1]};
+
+    }
+
+    public static void main(String[] args) {
+        int[] arr = {1, 2, 3, 4};
+        int[] Yeniarr = yapilanYeniArr(arr);
+        System.out.println(java.util.Arrays.toString(Yeniarr));
 
     }
 }

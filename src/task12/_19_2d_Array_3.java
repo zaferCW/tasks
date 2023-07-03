@@ -13,9 +13,17 @@ public class _19_2d_Array_3 {
         Array'i yazdırınız.
 
          */
-
-
-
+        String[][] arr = {{"new jersey", "atlanta", "ohio"},
+                {"Pittsburgh", "ohio", "new york", "ohio"},
+                {"ohio", "new york"}};
+        for (int i = 0; i < arr.length; i++) {
+            for (int j = 0; j < arr[i].length; j++) {
+                if (arr[i][j].equals("ohio")) {
+                    arr[i][j] = "florida";
+                }
+                System.out.print(arr[i][j]+" ");
+            }
+        }
     }
 }
 
