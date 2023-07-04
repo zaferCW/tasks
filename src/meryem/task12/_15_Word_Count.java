@@ -17,8 +17,8 @@ String str="Removes white space from both ends of a string";
 
         System.out.println("arr.length = " + arr.length);
 
-        String arr = "Removes white space from both ends of a string";
-        String[] kelime = arr.trim().split("\\s+");// bu methodda stringin içine girip kaç kelime oldugunu gezer..
+        String  arr1 = "Removes white space from both ends of a string";
+        String[] kelime = arr1.trim().split("\\s+");// bu methodda stringin içine girip kaç kelime oldugunu gezer..
         int kelimesayisi = kelime.length;
         System.out.println("Kelime sayisi = " + kelimesayisi);
 
