@@ -1,4 +1,4 @@
-package task12;
+package hasancln18.task12;
 
 public class Task11 {
     public static void main(String[] args) {

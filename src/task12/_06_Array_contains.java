@@ -1,6 +1,4 @@
-package task12;
-
-import java.util.Arrays;
+package hasancln18.task12;
 
 public class _06_Array_contains {
 

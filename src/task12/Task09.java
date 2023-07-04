@@ -1,6 +1,5 @@
-package task12;
+package hasancln18.task12;
 
-import java.io.InputStream;
 import java.util.Scanner;
 
 public class Task09 {

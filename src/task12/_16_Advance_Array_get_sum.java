@@ -1,6 +1,4 @@
-package task12;
-
-import java.util.Arrays;
+package hasancln18.task12;
 
 public class _16_Advance_Array_get_sum {
 

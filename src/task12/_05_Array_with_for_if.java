@@ -1,4 +1,4 @@
-package task12;
+package hasancln18.task12;
 
 public class _05_Array_with_for_if {
 

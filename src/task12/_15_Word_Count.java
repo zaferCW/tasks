@@ -1,7 +1,4 @@
-package task12;
-
-import java.lang.reflect.Array;
-import java.util.ArrayList;
+package hasancln18.task12;
 
 public class _15_Word_Count {
 

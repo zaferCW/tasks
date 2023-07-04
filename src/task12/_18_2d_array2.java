@@ -1,6 +1,4 @@
-package task12;
-
-import java.lang.reflect.Array;
+package hasancln18.task12;
 
 public class _18_2d_array2 {
 

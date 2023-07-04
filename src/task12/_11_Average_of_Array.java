@@ -1,4 +1,4 @@
-package task12;
+package hasancln18.task12;
 
 public class _11_Average_of_Array {
 
