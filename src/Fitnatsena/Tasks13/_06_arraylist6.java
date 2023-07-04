@@ -1,5 +1,7 @@
 package Fitnatsena.Tasks13;
 
+import java.util.ArrayList;
+
 public class _06_arraylist6 {
 
     /*
@@ -13,13 +15,7 @@ public class _06_arraylist6 {
     Return 2 olmalı.
      */
 
-    public static void main(String[] args) {
-
-
-
-
-    }
-
-
-
 }
+
+
+

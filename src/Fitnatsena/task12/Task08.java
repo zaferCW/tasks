@@ -12,6 +12,7 @@ public class Task08 {
 
         for (int i = 0; i < 7; i++) {
             sayı[i] = str.nextInt();
+          //  sayı []={1,2,3,4,5,6
         }
         for (int i = 0; i < 7; i++) {
             System.out.println("sayı[i] = " + sayı[i]);
