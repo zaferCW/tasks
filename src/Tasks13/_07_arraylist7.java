@@ -1,5 +1,8 @@
 package Tasks13;
 
+import java.util.ArrayList;
+import java.util.Arrays;
+
 public class _07_arraylist7 {
 
     /*
@@ -20,10 +23,34 @@ public class _07_arraylist7 {
 
     public static void main(String[] args) {
 
+        ArrayList<Integer> arrayList1 = new ArrayList<>(Arrays.asList(1,2,3,4,5));
+        ArrayList <Integer> arrayList2 = new ArrayList<>(Arrays.asList(6,7,12,3,1));
+
+        common_values(arrayList1, arrayList2);
+        ArrayList <Integer> result = common_values(arrayList1, arrayList2);
+        System.out.println("ortak degerler = " + result);
 
 
 
     }
+
+    public static ArrayList <Integer> common_values(ArrayList<Integer> arrayList1, ArrayList<Integer> arrayList2) {
+
+        ArrayList<Integer> commonValues = new ArrayList<>();
+
+        for (Integer num1 : arrayList1) {
+            for (Integer num2 : arrayList2) {
+                if (num1.equals(num2)) {
+                    commonValues.add(num1);
+                    break;
+                }
+            }
+        }
+        return commonValues;
+    }
+
+
+
 
 
 }

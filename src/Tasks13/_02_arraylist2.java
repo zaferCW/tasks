@@ -1,5 +1,8 @@
 package Tasks13;
 
+import java.util.ArrayList;
+import java.util.Arrays;
+
 public class _02_arraylist2 {
 
       /*
@@ -15,9 +18,25 @@ public class _02_arraylist2 {
 
     public static void main(String[] args) {
 
+        ArrayList<Integer> numbers = new ArrayList<>(Arrays.asList(1,2,3,4,5));
+
+        int sum = getSum(numbers);
+        System.out.println(sum);
+
 
 
     }
+
+    private static Integer getSum(ArrayList<Integer> numbers) {
+        int sum = 0;
+        for (int i = 0; i < numbers.size(); i++) {
+            sum += numbers.get(i);
+        }
+        return sum;
+    }
+
+
+
 
 
 }
