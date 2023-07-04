@@ -18,12 +18,9 @@ public class _08_arraylist8 {
 
     public static void main(String[] args) {
 
-        public static void main (String[]args){
-
             ArrayList<Integer> numbers = new ArrayList<>(Arrays.asList(5, 3, 4, 6, 7, 9));
             secondMax(numbers);
 
-        }
 
     }
 
