@@ -12,6 +12,7 @@ public class Task16_KelimeOyunu02 {
 
 
     public static void main(String[] args) {
+
         basla();
     }
 
@@ -117,6 +118,7 @@ public class Task16_KelimeOyunu02 {
         System.out.println("1. Oyuncunun Puanı : " + puan1);
         System.out.println("2. Oyuncunun Puanı : " + puan2);
         System.out.println();
+
 
     }
 }

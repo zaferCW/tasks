@@ -56,6 +56,7 @@ public class Task15_UcusProject03 {
     public static void totalbill(double agediscount, double flightdiscount, double fiyat) {
         double sum = agediscount * flightdiscount * fiyat;
         System.out.println("Bilet Fiyatı = " + sum);
+
     }
 
 }
