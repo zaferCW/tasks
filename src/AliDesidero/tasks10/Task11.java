@@ -1,5 +1,7 @@
 package AliDesidero.tasks10;
 
+import java.util.Scanner;
+
 public class Task11 {
 
     public static void main(String[] args) {
@@ -21,9 +23,25 @@ public class Task11 {
     İpucu harfleri değiştirin ve ekrana yazdırın.
     */
 
+        Scanner input = new Scanner(System.in);
+        System.out.print("Bir metin giriniz: ");
+        String str = input.nextLine();
+
+        hackerDili(str);
+
+    }
+
+    private static void hackerDili(String str) {
+
+        str = str.replace('s', '5');
+        str = str.replace('a', '4');
+        str = str.replace('e', '3');
+        str = str.replace('i', '1');
+        str = str.replace('o', '0');
+        System.out.println(str);
+    }
 
     }
 
 
 
-}
