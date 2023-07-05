@@ -1,5 +1,7 @@
 package Rumeysa.Task13R;
 
+import java.util.ArrayList;
+
 public class _09_2dArray_with_arraylis {
 
     /*
@@ -17,6 +19,20 @@ public class _09_2dArray_with_arraylis {
      */
 
     public static void main(String[] args) {
+
+        int [][] numbers = {{1,2,3},{4,5,6},{7,8,9}};
+
+        ArrayList<Integer> newList = new ArrayList<>();
+        for (int[] num :numbers) {
+            for (int w:num) {
+                newList.add(w);
+            }
+        }
+        System.out.println("newList = " + newList);
+
+
+
+
 
     }
 }

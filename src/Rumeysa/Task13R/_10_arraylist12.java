@@ -1,5 +1,9 @@
 package Rumeysa.Task13R;
 
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.Collections;
+
 public class _10_arraylist12 {
 
     /*
@@ -19,12 +23,27 @@ public class _10_arraylist12 {
      */
 
     public static void main(String[] args) {
+        ArrayList<Integer> numbers = new ArrayList<>(Arrays.asList(1 , 5 , 22, 10 ,20 ,14 , 8 , 25 , 30, 28));
+        int min = numbers.indexOf(20);
+        int max = numbers.indexOf(30);
 
+        rangeBtw(numbers,max,min);
 
-
+        System.out.println(numbers);
+        int count = rangeBtw(numbers,max,min);
+        System.out.println("count = " + count);
 
     }
 
+    private static int rangeBtw(ArrayList<Integer> numbers, int max, int min) {
+        Collections.sort(numbers);
+        int count = 0;
+        for (int a:numbers) {
+            if (numbers.indexOf(a) >= min & numbers.indexOf(a) <= max)
+                count++;
+        }
+    return count;
+    }
 
 
 }
