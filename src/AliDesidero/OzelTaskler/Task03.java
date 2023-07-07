@@ -1,4 +1,4 @@
-package OzelTaskler;
+package AliDesidero.OzelTaskler;
 
 public class Task03 {
     public static void main(String[] args) {

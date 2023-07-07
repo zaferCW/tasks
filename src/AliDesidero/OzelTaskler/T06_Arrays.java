@@ -1,6 +1,4 @@
-package OzelTaskler;
-
-import java.util.Arrays;
+package AliDesidero.OzelTaskler;
 
 public class T06_Arrays {
     public static void main(String[] args) {

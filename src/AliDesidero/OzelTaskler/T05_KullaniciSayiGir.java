@@ -1,6 +1,4 @@
-package OzelTaskler;
-
-import java.util.Scanner;
+package AliDesidero.OzelTaskler;
 
 public class T05_KullaniciSayiGir {
 

@@ -1,7 +1,4 @@
-package OzelTaskler;
-
-import java.util.Arrays;
-import java.util.Scanner;
+package AliDesidero.OzelTaskler;
 
 public class T04_AnagramKontrol {
 

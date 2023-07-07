@@ -1,4 +1,4 @@
-package OzelTaskler;
+package AliDesidero.OzelTaskler;
 
 import java.util.*;
 import java.util.stream.Collectors;

@@ -1,4 +1,4 @@
-package OzelTaskler;
+package AliDesidero.OzelTaskler;
 
 public class T07_RomaRakamlari {
     /*  TASK :

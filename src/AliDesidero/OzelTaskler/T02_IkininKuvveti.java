@@ -1,6 +1,4 @@
-package OzelTaskler;
-
-import java.util.Scanner;
+package AliDesidero.OzelTaskler;
 
 public class T02_IkininKuvveti {
     public static void main(String[] args) {

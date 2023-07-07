@@ -1,7 +1,4 @@
-package OzelTaskler;
-
-import java.util.ArrayList;
-import java.util.Arrays;
+package AliDesidero.OzelTaskler;
 
 public class T10_ArrayList {
     public static void main(String[] args) {
