@@ -1,0 +1,392 @@
+Index: src/Tasks13/Tasks13/_07_arraylist7.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>package Tasks13.Tasks13;\r\n\r\npublic class _07_arraylist7 {\r\n\r\n    /*\r\n        common_values() isminde bir method oluşturun.\r\n        Parametre olarak 2 tane Integer ArrayList\r\n        Return tipi integer ArrayList olmalı\r\n         İki arraylist alın ve arraylist'teki tüm ortak değerleri döndürün\r\n        Örneğin;\r\n        ArrayList 1:    3 , 2 , 5 , 6\r\n        ArrayList 2:     5 , 8 , 9\r\n        return  5 olmalı\r\n\r\n        Örneğin;\r\n        ArrayList 1: 8,7,9,6,7\r\n        ArrayList 2: 6,7,12,3,1\r\n        return 6 ve 7 olmalı\r\n     */\r\n\r\n    public static void main(String[] args) {\r\n\r\n\r\n\r\n\r\n    }\r\n\r\n\r\n}\r\n
+===================================================================
+diff --git a/src/Tasks13/Tasks13/_07_arraylist7.java b/src/Tasks13/Tasks13/_07_arraylist7.java
+--- a/src/Tasks13/Tasks13/_07_arraylist7.java	
++++ b/src/Tasks13/Tasks13/_07_arraylist7.java	
+@@ -1,12 +1,14 @@
+ package Tasks13.Tasks13;
+ 
++import java.util.ArrayList;
++
+ public class _07_arraylist7 {
+ 
+     /*
+         common_values() isminde bir method oluşturun.
+         Parametre olarak 2 tane Integer ArrayList
+         Return tipi integer ArrayList olmalı
+-         İki arraylist alın ve arraylist'teki tüm ortak değerleri döndürün
++        İki arraylist alın ve arraylist'teki tüm ortak değerleri döndürün
+         Örneğin;
+         ArrayList 1:    3 , 2 , 5 , 6
+         ArrayList 2:     5 , 8 , 9
+@@ -19,11 +21,29 @@
+      */
+ 
+     public static void main(String[] args) {
++        ArrayList<Integer> arrayList1 = new ArrayList<>();
++        arrayList1.add(3);
++        arrayList1.add(2);
++        arrayList1.add(5);
++        arrayList1.add(6);
+ 
++        ArrayList<Integer> arrayList2 = new ArrayList<>();
++        arrayList2.add(5);
++        arrayList2.add(8);
++        arrayList2.add(9);
+ 
++        ArrayList<Integer> ortakSayi = comon_values(arrayList1, arrayList2);
++        System.out.println("ortak sayi : " + ortakSayi);
+ 
++    }
+ 
++    private static ArrayList<Integer> comon_values(ArrayList<Integer> arrayList1, ArrayList<Integer> arrayList2) {
++        ArrayList<Integer> ortakSayi = new ArrayList<>();
++        for (int number : arrayList1) {
++            if (arrayList2.contains(number)) {
++                ortakSayi.add(number);
++            }
++        }
++        return ortakSayi;
+     }
+-
+-
+ }
+Index: src/Tasks13/Tasks13/_08_arraylist8.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>package Tasks13.Tasks13;\r\n\r\npublic class _08_arraylist8 {\r\n\r\n    /*\r\n        secondMax()  isminde bir method oluşturun.\r\n        Parametre olarak integer ArrayList.\r\n        Return tipi int olmalı.\r\n        ArrayList'teki en yüksek (maximum) 2. değeri bulun ve onu döndürün\r\n        ÖRN;\r\n        ArrayList   --  5,3,4,6,7\r\n        CEVAP : 6\r\n     */\r\n\r\n    public static void main(String[] args) {\r\n\r\n\r\n\r\n\r\n    }\r\n\r\n\r\n}\r\n
+===================================================================
+diff --git a/src/Tasks13/Tasks13/_08_arraylist8.java b/src/Tasks13/Tasks13/_08_arraylist8.java
+--- a/src/Tasks13/Tasks13/_08_arraylist8.java	
++++ b/src/Tasks13/Tasks13/_08_arraylist8.java	
+@@ -1,23 +1,0 @@
+-package Tasks13.Tasks13;
+-
+-public class _08_arraylist8 {
+-
+-    /*
+-        secondMax()  isminde bir method oluşturun.
+-        Parametre olarak integer ArrayList.
+-        Return tipi int olmalı.
+-        ArrayList'teki en yüksek (maximum) 2. değeri bulun ve onu döndürün
+-        ÖRN;
+-        ArrayList   --  5,3,4,6,7
+-        CEVAP : 6
+-     */
+-
+-    public static void main(String[] args) {
+-
+-
+-
+-
+-    }
+-
+-
+-}
+Index: src/Tasks13/Tasks13/_04_arraylist4.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>package Tasks13.Tasks13;\r\n\r\npublic class _04_arraylist4 {\r\n\r\n    /*\r\n        İsmi changeInArraylist() olan bir method oluşturun.\r\n        Parametre olarak String ArrayList, String s1, String s2\r\n           Arraylist'te s1'i s2 olarak değiştirin\r\n\r\n        Return String arrayList\r\n\r\n        Örneğin;\r\n        Arraylist  \"yellow\" , \"red\" , \"blue\" , \"red\" , \"blue\"\r\n        s1 = blue\r\n        s2 = yellow\r\n        Tüm blue 'ları yellow'a dönüştürün.\r\n        cevap: \"yellow\" , \"red\" , \"yellow\" , \"red\" , \"yellow\"\r\n     */\r\n\r\n    public static void main(String[] args) {\r\n\r\n\r\n\r\n\r\n    }\r\n\r\n\r\n}\r\n
+===================================================================
+diff --git a/src/Tasks13/Tasks13/_04_arraylist4.java b/src/Tasks13/Tasks13/_04_arraylist4.java
+--- a/src/Tasks13/Tasks13/_04_arraylist4.java	
++++ b/src/Tasks13/Tasks13/_04_arraylist4.java	
+@@ -1,5 +1,7 @@
+ package Tasks13.Tasks13;
+ 
++import java.util.ArrayList;
++
+ public class _04_arraylist4 {
+ 
+     /*
+@@ -18,11 +20,27 @@
+      */
+ 
+     public static void main(String[] args) {
++        ArrayList<String> arrayList = new ArrayList<>() ;
++        arrayList.add("yellow");
++        arrayList.add("red") ;
++        arrayList.add("blue") ;
++        arrayList.add("red") ;
++        arrayList.add("blue");
+ 
++        String s1 = "blue" ;
++        String s2 = "yellow" ;
+ 
++        ArrayList<String > degisimList = degistirArrayList(arrayList,s1,s2);
++        System.out.println("Degisen liste : " + degisimList);
++    }
+ 
+-
++    private static ArrayList<String> degistirArrayList(ArrayList<String> arrayList, String s1, String s2) {
++        for (int i =0 ; i <arrayList.size(); i ++ ) {
++            if (arrayList.get(i).equals(s1)) {
++                arrayList.set(i, s2);
++            }
++        }
++        return arrayList;
+     }
+-
+ 
+ }
+Index: src/Tasks13/Tasks13/_05_arraylist5.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>package Tasks13.Tasks13;\r\n\r\npublic class _05_arraylist5 {\r\n\r\n    /*\r\n        rotateList() isminde bir method oluşturun.\r\n        Parametre olarak String ArrayList\r\n        ArrayList'in dizilişini terse döndürün. (Tersten yazdırın)\r\n        Tersten yazılmış halini return edin.\r\n        Arraylist =  \"New jersey\" ,\"New york\" , \"Atlanta\", \"Florida\" ,\"Ohio\"\r\n        cevap: \"Ohio\" , \"Florida\" ,\"Atlanta\",\"New york\" ,\"New jersey\"\r\n     */\r\n\r\n    public static void main(String[] args) {\r\n\r\n\r\n    }\r\n\r\n\r\n}\r\n\r\n
+===================================================================
+diff --git a/src/Tasks13/Tasks13/_05_arraylist5.java b/src/Tasks13/Tasks13/_05_arraylist5.java
+--- a/src/Tasks13/Tasks13/_05_arraylist5.java	
++++ b/src/Tasks13/Tasks13/_05_arraylist5.java	
+@@ -1,21 +1,31 @@
+-package Tasks13.Tasks13;
++import java.util.ArrayList;
++
++import java.util.Collections;
+ 
+ public class _05_arraylist5 {
+-
+     /*
+         rotateList() isminde bir method oluşturun.
+         Parametre olarak String ArrayList
+         ArrayList'in dizilişini terse döndürün. (Tersten yazdırın)
+         Tersten yazılmış halini return edin.
+-        Arraylist =  "New jersey" ,"New york" , "Atlanta", "Florida" ,"Ohio"
+-        cevap: "Ohio" , "Florida" ,"Atlanta","New york" ,"New jersey"
++        ArrayList = "New jersey", "New york", "Atlanta", "Florida", "Ohio"
++        Cevap: "Ohio", "Florida", "Atlanta", "New york", "New jersey"
+      */
+ 
+     public static void main(String[] args) {
+-
++        ArrayList<String> arrayList = new ArrayList<>();
++        arrayList.add("New jersey");
++        arrayList.add("New york");
++        arrayList.add("Atlanta");
++        arrayList.add("Florida");
++        arrayList.add("Ohio");
+ 
++        ArrayList<String> reversedList = rotateList(arrayList);
++        System.out.println("Tersten yazılmış hali: " + reversedList);
+     }
+ 
+-
+-}
+-
++    public static ArrayList<String> rotateList(ArrayList<String> arrayList) {
++        Collections.reverse(arrayList);
++        return arrayList;
++    }
++}
+\ No newline at end of file
+Index: src/Tasks13/Tasks13/_01_arraylist1.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>package Tasks13.Tasks13;\r\n\r\npublic class _01_arraylist1 {\r\n\r\n    /*\r\n        ismi getCount() olan bir method oluşturun.\r\n        Parametre olarak bir String ArayList  ve  bir tane String\r\n\r\n        Return tipi int olmalı.\r\n\r\n        ArrayList'teki bir değerin kaç kez tekrarlandığını belirtin ve döndürün.\r\n        Örneğin;\r\n        ArrayList = Orange , Kiwi , Peach , Banana , Orange\r\n        String Orange:\r\n        Count = 2 olmalı. (Orange 2 kez yazılmış)\r\n         */\r\n\r\n    public static void main(String[] args) {\r\n\r\n\r\n\r\n\r\n    }\r\n\r\n\r\n}\r\n
+===================================================================
+diff --git a/src/Tasks13/Tasks13/_01_arraylist1.java b/src/Tasks13/Tasks13/_01_arraylist1.java
+--- a/src/Tasks13/Tasks13/_01_arraylist1.java	
++++ b/src/Tasks13/Tasks13/_01_arraylist1.java	
+@@ -1,5 +1,7 @@
+ package Tasks13.Tasks13;
+ 
++import java.util.ArrayList;
++
+ public class _01_arraylist1 {
+ 
+     /*
+@@ -16,11 +18,27 @@
+          */
+ 
+     public static void main(String[] args) {
++        ArrayList<String> arrayList = new ArrayList<>();
++        arrayList.add("Orange");
++        arrayList.add("Kiwi");
++        arrayList.add("Peach");
++        arrayList.add("Banana");
++        arrayList.add("Orange");
+ 
++        String ekle = "Orange" ;
++        int count = getCount(arrayList, ekle);
++        System.out.println("Count : " + count);
++    }
+ 
+-
++    public static int getCount(ArrayList<String> arrayList, String ekle) {
++        int count = 0;
++        for (String elemanlar : arrayList) {
++            if (elemanlar.equals(ekle)) {
++                count++;
++            }
++        }
++        return count;
+ 
+     }
+-
+ 
+ }
+Index: src/Tasks13/Tasks13/_06_arraylist6.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>package Tasks13.Tasks13;\r\n\r\npublic class _06_arraylist6 {\r\n\r\n    /*\r\n    hillNum() isminde bir method oluşturun.\r\n    Parametre olarak Integer ArrayList\r\n    Return tipi int,\r\n    Eğer sayı, önceki sayıdan küçük ve bir sonraki sayıdan büyük ise, o sayıyı yazdırın.\r\n    Örneğin;\r\n    ArrayList  5,4,6,2,1\r\n    2, 6'dan küçük ve 1 den büyüktür.\r\n    Return 2 olmalı.\r\n     */\r\n\r\n    public static void main(String[] args) {\r\n\r\n\r\n\r\n\r\n    }\r\n\r\n\r\n\r\n}\r\n
+===================================================================
+diff --git a/src/Tasks13/Tasks13/_06_arraylist6.java b/src/Tasks13/Tasks13/_06_arraylist6.java
+--- a/src/Tasks13/Tasks13/_06_arraylist6.java	
++++ b/src/Tasks13/Tasks13/_06_arraylist6.java	
+@@ -1,5 +1,7 @@
+ package Tasks13.Tasks13;
+ 
++import java.util.ArrayList;
++
+ public class _06_arraylist6 {
+ 
+     /*
+@@ -14,12 +16,33 @@
+      */
+ 
+     public static void main(String[] args) {
++        ArrayList<Integer> arrayList = new ArrayList<>();
++        arrayList.add(5);
++        arrayList.add(4);
++        arrayList.add(6);
++        arrayList.add(2);
++        arrayList.add(1);
++        int hillNumber = hillNum(arrayList);
++        System.out.println("Hill number: " + hillNumber);
++    }
+ 
++    private static int hillNum(ArrayList<Integer> arrayList) {
++        int hillNumber = 0;
++        for (int i = 1; i < arrayList.size() - 1; i++) { // burda listenin 2.elemanindan baslamasi için yapildi .
++            int simdikiDurum = arrayList.get(i);
++            int oncekiDurum = arrayList.get(i - 1);
++            int ileriDurum = arrayList.get(i + 1);
+ 
++            if (simdikiDurum < oncekiDurum && simdikiDurum > ileriDurum) {
++                hillNumber = simdikiDurum;
++                break;
++            }
++        }
++        return hillNumber;
++    }
++}
+ 
+ 
+-    }
+ 
+ 
+ 
+-}
+Index: src/Tasks13/Tasks13/_02_arraylist2.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>package Tasks13.Tasks13;\r\n\r\npublic class _02_arraylist2 {\r\n\r\n      /*\r\n        getSum() isminde bir method oluşturun.\r\n        Parametresi ArrayList olmalı\r\n        Return tipi int olmalı.\r\n        ArrayList teki tüm sayıları birbiri ile toplayın.\r\n        return olarak toplam sonucu döndürün.\r\n        Örneğin;\r\n        Arraylist = 1,2,3,4,5\r\n        return 15 olmalı\r\n         */\r\n\r\n    public static void main(String[] args) {\r\n\r\n\r\n\r\n    }\r\n\r\n\r\n}\r\n
+===================================================================
+diff --git a/src/Tasks13/Tasks13/_02_arraylist2.java b/src/Tasks13/Tasks13/_02_arraylist2.java
+--- a/src/Tasks13/Tasks13/_02_arraylist2.java	
++++ b/src/Tasks13/Tasks13/_02_arraylist2.java	
+@@ -1,23 +1,36 @@
+ package Tasks13.Tasks13;
+ 
++import java.util.ArrayList;
++
+ public class _02_arraylist2 {
+-
+-      /*
+-        getSum() isminde bir method oluşturun.
+-        Parametresi ArrayList olmalı
+-        Return tipi int olmalı.
+-        ArrayList teki tüm sayıları birbiri ile toplayın.
+-        return olarak toplam sonucu döndürün.
+-        Örneğin;
+-        Arraylist = 1,2,3,4,5
+-        return 15 olmalı
+-         */
++    //getSum() isminde bir method oluşturun.
++    //        Parametresi ArrayList olmalı
++    //        Return tipi int olmalı.
++    //        ArrayList teki tüm sayıları birbiri ile toplayın.
++    //        return olarak toplam sonucu döndürün.
++    //        Örneğin;
++    //        Arraylist = 1,2,3,4,5
++    //        return 15 olmalı...
+ 
+     public static void main(String[] args) {
++        ArrayList<Integer> arrayList = new ArrayList<>();
++        arrayList.add(1);
++        arrayList.add(2);
++        arrayList.add(3);
++        arrayList.add(4);
++        arrayList.add(5);
+ 
++        int sum = getSum(arrayList);
++        System.out.println("Sum: " + sum);
++    }
+ 
++    public static int getSum(ArrayList<Integer> arrayList) {
++        int sum = 0;
+ 
+-    }
++        for (int number : arrayList) {
++            sum += number;
++        }
+ 
+-
+-}
++        return sum;
++    }
++}
+\ No newline at end of file
+Index: src/Tasks13/Tasks13/_03_arraylist3.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>package Tasks13.Tasks13;\r\n\r\npublic class _03_arraylist3 {\r\n\r\n    /*\r\n        getLength() isminde bir method oluşturun.\r\n        Parametre olarak String ArrayList\r\n        Return tipi Integer ArrayList\r\n        ArrayList içindeki her bir Stringin uzunluğunu bulunuz.\r\n\r\n        Tüm elementlerin uzunluğunu döndürün\r\n\r\n        Örneğin;\r\n        ArrayList  :  \"New jersey\" ,\"New york\" , \"Ohio\" , \"Florida\" , \"Boston\"\r\n        Tüm Stringlerin uzunluklarını yazdırın;\r\n        cevap: 10 ,  8 , 4 , 7 , 6 olmalı\r\n     */\r\n\r\n    public static void main(String[] args) {\r\n\r\n\r\n\r\n\r\n    }\r\n\r\n\r\n}
+===================================================================
+diff --git a/src/Tasks13/Tasks13/_03_arraylist3.java b/src/Tasks13/Tasks13/_03_arraylist3.java
+--- a/src/Tasks13/Tasks13/_03_arraylist3.java	
++++ b/src/Tasks13/Tasks13/_03_arraylist3.java	
+@@ -1,5 +1,7 @@
+ package Tasks13.Tasks13;
+ 
++import java.util.ArrayList;
++
+ public class _03_arraylist3 {
+ 
+     /*
+@@ -13,15 +15,31 @@
+         Örneğin;
+         ArrayList  :  "New jersey" ,"New york" , "Ohio" , "Florida" , "Boston"
+         Tüm Stringlerin uzunluklarını yazdırın;
+-        cevap: 10 ,  8 , 4 , 7 , 6 olmalı
++        cevap: 10 ,  8 , 4 , 7 , 6 olmalı..
+      */
+ 
+     public static void main(String[] args) {
++        ArrayList<String> arrayList = new ArrayList<>();
++        arrayList.add("New jersey");
++        arrayList.add("New York");
++        arrayList.add("Ohio");
++        arrayList.add("Florida");
++        arrayList.add("Boston");
+ 
++        ArrayList<Integer> uzunluk = getLenght(arrayList);
++        System.out.println("String uzunluk : " + uzunluk);
+ 
++    }
+ 
++    private static ArrayList<Integer> getLenght(ArrayList<String> arrayList) {
++        ArrayList<Integer> uzunluk = new ArrayList<>();
+ 
+-    }
++        for (String str : arrayList) {
++            int lenght = str.length();
++            uzunluk.add(lenght);
+ 
++        }
++        return uzunluk;
++    }
+ 
+ }
+\ No newline at end of file

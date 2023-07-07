@@ -1,0 +1,55 @@
+Index: src/task12/Task19.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>package task12;\r\n\r\npublic class Task19 {\r\n    public static void main(String[] args) {\r\n\r\n        //Task-> Asagidaki multi dimensional array'lerin ic array'lerinde ayni index'e sahip\r\n        // elemanlarin toplamini ekrana yazdiran bir program yaziniz. (Zor soru)\r\n        // arr1 = { {1,2}, {3,4,5}, {6} } ve arr2 = { {7,8,9}, {10,11}, {12} }\r\n        int arr1[][]={ {1,2}, {3,4,5}, {6} };\r\n        int arr2[][]={ {7,8,9}, {10,11}, {12} };\r\n        int sum=0;\r\n\r\n\r\n        System.out.println(sum);\r\n    }\r\n}\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/task12/Task19.java b/src/task12/Task19.java
+--- a/src/task12/Task19.java	
++++ b/src/task12/Task19.java	
+@@ -6,11 +6,21 @@
+         //Task-> Asagidaki multi dimensional array'lerin ic array'lerinde ayni index'e sahip
+         // elemanlarin toplamini ekrana yazdiran bir program yaziniz. (Zor soru)
+         // arr1 = { {1,2}, {3,4,5}, {6} } ve arr2 = { {7,8,9}, {10,11}, {12} }
+-        int arr1[][]={ {1,2}, {3,4,5}, {6} };
+-        int arr2[][]={ {7,8,9}, {10,11}, {12} };
+-        int sum=0;
++        int arr1[][] = {{1, 2}, {3, 4, 5}, {6}};
++        int arr2[][] = {{7, 8, 9}, {10, 11}, {12}};
++
++        // İç dizi elemanlarinin toplamini hesaplamak için tüm dizi boyutlarini kontrol ediyoruz.
++        for (int i = 0; i < arr1.length && i < arr2.length; i++) {
++            int sum = 0;
+ 
++            // iç dizi elemanlarinin toplami
++            for (int j = 0; j < arr1[i].length && j < arr2[i].length; j++) {
++                sum += arr1[i][j] + arr2[i][j];
++
++            }
++            System.out.println("İndex : " +  i + "Toplam içerisi : " + sum );
++        }
+ 
+-        System.out.println(sum);
++
+     }
+ }
+Index: .idea/misc.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"ProjectRootManager\" version=\"2\" languageLevel=\"JDK_11\" default=\"true\" project-jdk-name=\"11\" project-jdk-type=\"JavaSDK\">\r\n    <output url=\"file://$PROJECT_DIR$/out\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/misc.xml b/.idea/misc.xml
+--- a/.idea/misc.xml	
++++ b/.idea/misc.xml	
+@@ -1,6 +1,6 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+ <project version="4">
+-  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
++  <component name="ProjectRootManager" version="2" languageLevel="JDK_16" project-jdk-name="openjdk-20" project-jdk-type="JavaSDK">
+     <output url="file://$PROJECT_DIR$/out" />
+   </component>
+ </project>
+\ No newline at end of file
