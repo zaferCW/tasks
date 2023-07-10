@@ -1,5 +1,8 @@
 package Tasks13;
 
+import java.util.ArrayList;
+import java.util.Arrays;
+
 public class _04_arraylist4 {
 
     /*
@@ -19,10 +22,27 @@ public class _04_arraylist4 {
 
     public static void main(String[] args) {
 
+        ArrayList<String> colors = new ArrayList<>(Arrays.asList("yellow" , "red" , "blue" , "red" , "blue"));
+        String s1 = "blue";
+        String s2 = "yellow";
 
+        System.out.println(changeInArraylist(colors, s1, s2));
 
 
     }
+
+    public static ArrayList<String> changeInArraylist(ArrayList<String> colors, String s1, String s2) {
+        for (int i = 0; i < colors.size(); i++) {
+            if (colors.get(i).equals(s1)) {
+                colors.set(i, s2);
+            }
+        }
+        return colors;
+    }
+
+
+
+
 
 
 }
