@@ -2,7 +2,8 @@ package MustafaAba.tasks12;
 
 import java.util.Scanner;
 
-import static tasks12._03_Create_array3_int.toplaArray;
+import static MustafaAba.tasks12._03_Create_array3_int.toplaArray;
+
 
 public class Task04 {
     public static void main(String[] args) {

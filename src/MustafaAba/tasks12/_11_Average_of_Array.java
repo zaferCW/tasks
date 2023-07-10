@@ -1,7 +1,7 @@
 package MustafaAba.tasks12;
 
 
-import static tasks12._03_Create_array3_int.toplaArray;
+import static MustafaAba.tasks12._03_Create_array3_int.toplaArray;
 
 public class _11_Average_of_Array {
 

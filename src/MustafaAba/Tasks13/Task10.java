@@ -4,6 +4,7 @@ package MustafaAba.Tasks13;
 import Tasks13.Task08;
 
 import java.util.ArrayList;
+import java.util.Scanner;
 
 public class Task10 {
 
@@ -18,7 +19,16 @@ public class Task10 {
         ArrayList<Integer> numList = new ArrayList<>();
         ArrayList<Integer> newNumList = new ArrayList<>();
 
-        numList = Task08.getUser();
+
+            Scanner input = new Scanner(System.in);
+            System.out.println("Kaç adet sayı gireceksiniz: ");
+            int boyut = input.nextInt();
+            System.out.println("Sayıları giriniz: ");
+            for (int i = 0; i < boyut; i++) {
+                numList.add(input.nextInt());
+            }
+
+
 
         for (Integer w : numList) {
             if (!(newNumList.contains(w))) {
@@ -29,6 +39,7 @@ public class Task10 {
         System.out.println("newNumList = " + newNumList);
 
     }
+
 
 }
 
