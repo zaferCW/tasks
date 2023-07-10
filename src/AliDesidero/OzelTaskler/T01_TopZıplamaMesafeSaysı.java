@@ -1,6 +1,6 @@
 package AliDesidero.OzelTaskler;
 
-public class T01_TopZiplama {
+public class T01_TopZıplamaMesafeSaysı {
 
    /*
     Bir top belirli yükseklikten atılmaktadır.
