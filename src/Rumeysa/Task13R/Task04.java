@@ -1,5 +1,9 @@
 package Rumeysa.Task13R;
 
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.List;
+
 public class Task04 {
     public static void main(String[] args) {
         /* TASK :
@@ -11,6 +15,13 @@ public class Task04 {
          * OUTPUT : [Veli,Omer]
          */
 
+        List<String> names = new ArrayList<>(Arrays.asList("Ali", "Veli", "Zeynep", "Fatma", "Mehmet"));
+
+        for (int i = 0; i < names.size(); i++) {
+            if (names.get(i).toLowerCase().contains("a"))
+                names.remove(names.get(i));
+        }
+        System.out.println("names = " + names);
 
 
 

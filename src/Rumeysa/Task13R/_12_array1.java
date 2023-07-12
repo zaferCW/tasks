@@ -20,10 +20,24 @@ public class _12_array1 {
 
     public static void main(String[] args) {
 
-
+        int[] numbers = {1, 2, 3, 4};
+        dupicate(numbers);
+        boolean sonuc = dupicate(numbers);
+        System.out.println("sonuc = " + sonuc);
 
 
     }
 
+    private static boolean dupicate(int[] numbers) {
+        for (int i = 0; i < numbers.length - 1; i++) {
+            for (int j = i + 1; j < numbers.length; j++) {
+                if (numbers[i] == numbers[j]) {
+                    return true;
+                }
+            }
+        }
+        return false;
 
+
+    }
 }

@@ -1,5 +1,8 @@
 package Rumeysa.Task13R;
 
+import java.util.ArrayList;
+import java.util.Collections;
+
 public class Task05 {
     public static void main(String[] args) {
 
@@ -11,11 +14,20 @@ public class Task05 {
            Output:[Ali, Ayse, Can, Hasan, Suzan, Veli]
          */
 
+        String [][] names = {{"Ali","Veli","Ayse"},{"Hasan","Can",},{"Suzan"}};
+        ArrayList<String> newNames = new ArrayList<>();
+
+        for (String[] name : names) {
+            for (String name2 : name) {
+                newNames.add(name2);
+            }
+        }
+
+        //Collections.addAll(newNames, name);
+
+        Collections.sort(newNames);
+        System.out.println("newNames = " + newNames);
 
 
     }//main sonu
-
-
-
-
 }
