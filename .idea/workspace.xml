@@ -4,14 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="82867c73-8d45-4cdb-9c44-80e8516d85b9" name="Changes" comment="özeltaskler eklendi Ali">
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_01_07_2023_20_03_[Changes]1/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_01_07_2023_20_03__Changes_1.xml" beforeDir="false" />
+    <list default="true" id="82867c73-8d45-4cdb-9c44-80e8516d85b9" name="Changes" comment="özeltaskler güncellendi">
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_03_07_2023_21_36_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_03_07_2023_21_36__Changes_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_03_07_2023_23_03_[Changes]/T06_Arrays.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_03_07_2023_23_03_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_03_07_2023_23_03__Changes_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_03_07_2023_23_05_[Changes]/T06_Arrays.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_03_07_2023_23_05_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_03_07_2023_23_05__Changes_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_03_07_2023_23_02_[Changes]/T06_Arrays.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_03_07_2023_23_02_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_03_07_2023_23_02__Changes_.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AliDesidero/OzelTaskler/T01_TopZiplama.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AliDesidero/OzelTaskler/T01_TopZıplamaMesafeSaysı.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AliDesidero/OzelTaskler/T08_ArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AliDesidero/OzelTaskler/T08_ArrayList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AliDesidero/OzelTaskler/T10_ArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AliDesidero/OzelTaskler/T10_ArrayList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AliDesidero/OzelTaskler/Task03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AliDesidero/OzelTaskler/Task03.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -157,7 +162,14 @@
       <option name="project" value="LOCAL" />
       <updated>1688765151623</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="özeltaskler güncellendi">
+      <created>1688989146468</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1688989146468</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -174,6 +186,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="ilk" />
     <MESSAGE value="özeltaskler eklendi Ali" />
-    <option name="LAST_COMMIT_MESSAGE" value="özeltaskler eklendi Ali" />
+    <MESSAGE value="özeltaskler güncellendi" />
+    <option name="LAST_COMMIT_MESSAGE" value="özeltaskler güncellendi" />
   </component>
 </project>

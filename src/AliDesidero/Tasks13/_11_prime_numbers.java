@@ -43,7 +43,6 @@ public class _11_prime_numbers {
                 return false;
             }
         }
-
         return true;
     }
 }

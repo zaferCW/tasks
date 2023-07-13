@@ -10,10 +10,10 @@ public class Task10 {
          */
         int[] arr = {1, 2, -3, 4, -5, -6};
         System.out.print("girilen sayilar: ");
-        printarr(arr);
+        yazdir(arr);
         degisenSayilar(arr);
         System.out.print("Degisen numaralar : ");
-        printarr(arr);
+        yazdir(arr);
     }
 
     private static void degisenSayilar(int[] arr) { // bu class da sayilar değiştirildi .
@@ -22,7 +22,7 @@ public class Task10 {
         }
     }
 
-    private static void printarr(int[] arr) {// bu methodda bir int dizisi ekrana yazdirildi ..
+    private static void yazdir (int[] arr) {// bu methodda bir int dizisi ekrana yazdirildi ..
         for (int i = 0; i < arr.length; i++) {
             System.out.print(arr[i]);
             if (i != arr.length - 1) {
