@@ -1,5 +1,8 @@
 package zeynepA.Tasks13;
 
+import java.util.ArrayList;
+import java.util.List;
+
 public class _04_arraylist4 {
 
     /*
@@ -20,7 +23,30 @@ public class _04_arraylist4 {
     public static void main(String[] args) {
 
 
+        ArrayList<String> colors = new ArrayList<>(List.of("yellow" , "red" , "blue" , "red" , "blue"));
 
+        System.out.println("arrayLıst ılk halı= " + colors);
+
+        String s1="blue";
+        String s2="yellow";
+
+        changeInArraylist2(colors,s1,s2);
+
+        System.out.println("arrayLıst son halı = " + colors);
+    }
+
+    private static ArrayList<String> changeInArraylist2(ArrayList<String> list, String s1, String s2) {
+
+        for (int i = 0; i < list.size(); i++) {
+
+            if (list.get(i).equals(s1)){
+
+                list.set(i,s2);
+            }
+
+        }
+
+        return list;
 
     }
 

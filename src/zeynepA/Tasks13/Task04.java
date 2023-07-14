@@ -1,5 +1,9 @@
 package zeynepA.Tasks13;
 
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.List;
+
 public class Task04 {
     public static void main(String[] args) {
         /* TASK :
@@ -11,8 +15,17 @@ public class Task04 {
          * OUTPUT : [Veli,Omer]
          */
 
+        List<String> name = new ArrayList<>(Arrays.asList("Ali","Veli","Ayse","Fatma","Omer"));
 
+        List<String> isim = new ArrayList<>();
 
+        for (String w : name) {
 
+            if (!w.contains("a") && !w.contains("A")){
+
+                isim.add(w);
+            }
+        }
+        System.out.println("isim = " + isim);
     }
 }

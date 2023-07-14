@@ -1,5 +1,9 @@
 package zeynepA.Tasks13;
 
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.Scanner;
+
 public class Task01_Market {
     /* TASK :
      * Bir bakkalın 7 günlük tüm kazançlarını günlük olarak gösteren bir program yazınız.
@@ -18,6 +22,55 @@ public class Task01_Market {
      * 			 for döngüsü ile tüm günleri ortalama kazanç ile karşılaştır
      * 			 ortalama kazançtan aşağıysa o günleri return yap.
      * */
+
+    static Scanner input = new Scanner(System.in);
+    static ArrayList<String> gunler = new ArrayList<>(Arrays.asList("Pazartesi", "Salı", "Carsamba", "Persembe", "Cuma", "Cumartesi", "Pazar"));
+    static ArrayList<Integer> gunlukKazanc = new ArrayList<>();
+    static double ortalama;
+    public static void main(String[] args) {
+
+            int i = 0;
+
+            while (i < 7) {
+                System.out.print(gunler.get(i)+" günkü kazancını giriniz:\t ");
+                gunlukKazanc.add(input.nextInt());
+                i++;
+            }
+
+        ortalama=OrtalamaKazanc(gunlukKazanc);
+        System.out.println("ortalama = " + ortalama);
+        System.out.println("Ortalamanın Üstünde Kazanılan Günler: "+ortalamaUstuKazancGunleri(gunlukKazanc));
+        System.out.println("Ortalamanın Altında Kazanılan Günler: "+ortalamaAltiKazancGunleri(gunlukKazanc));
+
+    }
+
+    private static ArrayList<String> ortalamaAltiKazancGunleri(ArrayList<Integer> gunlukKazanc) {
+        ArrayList<String> ortalamaAltiKazancGunleri=new ArrayList<>();
+        for (int i = 0; i <gunlukKazanc.size() ; i++) {
+            if (gunlukKazanc.get(i)<ortalama) {
+                ortalamaAltiKazancGunleri.add(gunler.get(i));
+            }
+        }
+        return ortalamaAltiKazancGunleri;
+    }
+
+    private static ArrayList<String> ortalamaUstuKazancGunleri(ArrayList<Integer> gunlukKazanc) {
+        ArrayList<String> ortalamaUstuKazancGunleri=new ArrayList<>();
+        for (int i = 0; i <gunlukKazanc.size() ; i++) {
+            if (gunlukKazanc.get(i)>ortalama) {
+                ortalamaUstuKazancGunleri.add(gunler.get(i));
+            }
+        }
+        return ortalamaUstuKazancGunleri;
+    }
+
+    private static double OrtalamaKazanc(ArrayList<Integer> gunlukKazanc) {
+        double toplam = 0;
+        for (int i = 0; i < gunlukKazanc.size(); i++) {
+            toplam += gunlukKazanc.get(i);
+        }
+        return toplam/7;
+    }
 }
 
 

@@ -1,5 +1,8 @@
 package zeynepA.Tasks13;
 
+import java.util.ArrayList;
+import java.util.Arrays;
+
 public class _10_arraylist12 {
 
     /*
@@ -20,11 +23,34 @@ public class _10_arraylist12 {
 
     public static void main(String[] args) {
 
+        ArrayList<Integer> listnumber = new ArrayList<>(Arrays.asList(1 , 5 , 22, 10 ,20 ,14 , 8 , 25 , 30, 28));
+
+        int min =20;
+        int max =30;
+        int count = rangeBtw(listnumber, min, max);
+
+        System.out.println(min +  " ile " + max + "arasında bulunan değerlerin sayisi = " + count);
+    }
+
+    private static int rangeBtw(ArrayList<Integer> listnumber, int min, int max) {
+
+        int count=0;
+
+        for (int w : listnumber ) {
+
+            if (w >= min && w <= max){
+
+                count++;
+            }
+        }
+        return count;
+
+
+
 
 
 
     }
-
 
 
 }

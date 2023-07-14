@@ -1,5 +1,8 @@
 package zeynepA.Tasks13;
 
+import java.util.ArrayList;
+import java.util.List;
+
 public class _03_arraylist3 {
 
     /*
@@ -18,8 +21,28 @@ public class _03_arraylist3 {
 
     public static void main(String[] args) {
 
+        ArrayList<String> country = new ArrayList<>(List.of("New jersey" ,"New york" , "Ohio" , "Florida" , "Boston"));
 
+        System.out.println("country = " + country);
 
+        ArrayList<Integer> lengthList = Length(country);
+
+        System.out.println("lengthList = " + lengthList);
+
+    }
+
+    private static ArrayList<Integer> Length(ArrayList<String> list) {
+
+        ArrayList<Integer> lengthList=new ArrayList<>();
+
+        for (String str : list){
+
+            int lenght=str.length();
+
+            lengthList.add(lenght);
+
+        }
+        return lengthList;
 
     }
 

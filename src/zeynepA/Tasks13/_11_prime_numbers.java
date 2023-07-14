@@ -1,5 +1,7 @@
 package zeynepA.Tasks13;
 
+import java.util.Scanner;
+
 public class _11_prime_numbers {
 
     /*
@@ -18,7 +20,16 @@ public class _11_prime_numbers {
     public static void main(String[] args) {
 
 
+        Scanner input = new Scanner(System.in);
+        System.out.println("Pozitif bir sayi giriniz");
+        int sayi = input.nextInt();
 
+        primeNumbers(sayi);
+
+
+    }
+
+    private static void primeNumbers(int sayi) {
     }
 }
 

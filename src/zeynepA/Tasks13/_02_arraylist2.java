@@ -1,5 +1,7 @@
 package zeynepA.Tasks13;
 
+import java.util.ArrayList;
+
 public class _02_arraylist2 {
 
       /*
@@ -15,8 +17,31 @@ public class _02_arraylist2 {
 
     public static void main(String[] args) {
 
+        ArrayList<Integer> listNum = new ArrayList<>();
+
+        listNum.add(1);
+        listNum.add(2);
+        listNum.add(3);
+        listNum.add(4);
+        listNum.add(5);
+
+       int sayiToplam= getSum(listNum);
+
+        System.out.println("sayiToplam = " + sayiToplam);
 
 
+    }
+
+    private static int getSum(ArrayList<Integer> num) {
+       int toplam =0;
+
+        for (int i : num) {
+
+            toplam+= i;
+
+        }
+
+        return toplam;
     }
 
 

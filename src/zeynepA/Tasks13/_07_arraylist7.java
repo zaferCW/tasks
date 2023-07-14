@@ -1,5 +1,8 @@
 package zeynepA.Tasks13;
 
+import java.util.ArrayList;
+import java.util.Arrays;
+
 public class _07_arraylist7 {
 
     /*
@@ -20,10 +23,29 @@ public class _07_arraylist7 {
 
     public static void main(String[] args) {
 
+        ArrayList<Integer> list1 = new ArrayList<>(Arrays.asList(8,7,9,6,7));
 
+        ArrayList<Integer> list2 = new ArrayList<>(Arrays.asList(6,7,12,3,1));
 
+       ArrayList<Integer> ortakSayilar = common_values(list1, list2);
+
+        System.out.println("ortakSayilar = " + ortakSayilar);
 
     }
 
+    private static ArrayList<Integer> common_values(ArrayList<Integer> list1, ArrayList<Integer> list2) {
+
+        ArrayList<Integer> ortakSayilar = new ArrayList<>();
+
+        for (Integer num : list1 ) {
+
+                if (list2.contains(num) ) {
+
+                    ortakSayilar.add(num);
+                }
+            }
+
+        return ortakSayilar;
+    }
 
 }
