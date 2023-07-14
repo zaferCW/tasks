@@ -5,17 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="82867c73-8d45-4cdb-9c44-80e8516d85b9" name="Changes" comment="özeltaskler güncellendi">
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_03_07_2023_21_36_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_03_07_2023_21_36__Changes_.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_03_07_2023_23_03_[Changes]/T06_Arrays.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_03_07_2023_23_03_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_03_07_2023_23_03__Changes_.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_03_07_2023_23_05_[Changes]/T06_Arrays.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_03_07_2023_23_05_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_03_07_2023_23_05__Changes_.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_03_07_2023_23_02_[Changes]/T06_Arrays.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_03_07_2023_23_02_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_03_07_2023_23_02__Changes_.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -31,7 +20,7 @@
     </option>
   </component>
   <component name="Git.Merge.Settings">
-    <option name="BRANCH" value="origin/master" />
+    <option name="BRANCH" value="origin/Ali" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
@@ -40,6 +29,7 @@
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="2" />
@@ -134,8 +124,8 @@
         <item itemvalue="Application.Task03" />
         <item itemvalue="Application.T10_ArrayList" />
         <item itemvalue="Application.T08_ArrayList" />
-        <item itemvalue="Application.T01_TopZıplamaMesafeSaysı" />
         <item itemvalue="Application.T06_Arrays" />
+        <item itemvalue="Application.T01_TopZıplamaMesafeSaysı" />
       </list>
     </recent_temporary>
   </component>

@@ -1,0 +1,199 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"82867c73-8d45-4cdb-9c44-80e8516d85b9\" name=\"Changes\" comment=\"ozel taks eklendi\">\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Class\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Merge.Settings\">\r\n    <option name=\"BRANCH\" value=\"origin/meryem\" />\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"GithubProjectSettings\">\r\n    <option name=\"branchProtectionPatterns\">\r\n      <list>\r\n        <option value=\"master\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"MarkdownSettingsMigration\">\r\n    <option name=\"stateVersion\" value=\"1\" />\r\n  </component>\r\n  <component name=\"ProjectCodeStyleSettingsMigration\">\r\n    <option name=\"version\" value=\"2\" />\r\n  </component>\r\n  <component name=\"ProjectId\" id=\"2RWuFZEVAlvsV9qx1hsdYOYBcK2\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\">\r\n    <ConfirmationsSetting value=\"2\" id=\"Add\" />\r\n  </component>\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\"><![CDATA[{\r\n  \"keyToString\": {\r\n    \"RunOnceActivity.OpenProjectViewOnStart\": \"true\",\r\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\r\n    \"SHARE_PROJECT_CONFIGURATION_FILES\": \"true\",\r\n    \"last_opened_file_path\": \"C:/Users/pc/IdeaProjects/Tasks/src\"\r\n  }\r\n}]]></component>\r\n  <component name=\"RecentsManager\">\r\n    <key name=\"CopyFile.RECENT_KEYS\">\r\n      <recent name=\"C:\\Users\\pc\\IdeaProjects\\Tasks\\src\" />\r\n      <recent name=\"C:\\Users\\Q-3442 HASAN\\IdeaProjects\\tasks\\src\\hasancln18\" />\r\n    </key>\r\n    <key name=\"CopyClassDialog.RECENTS_KEY\">\r\n      <recent name=\"OzelTaskler\" />\r\n    </key>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"82867c73-8d45-4cdb-9c44-80e8516d85b9\" name=\"Changes\" comment=\"\" />\r\n      <created>1687378057423</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1687378057423</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"ilk\">\r\n      <created>1687378363945</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1687378363945</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"s\">\r\n      <created>1688501364853</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1688501364853</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00003\" summary=\"ozel taks eklendi\">\r\n      <created>1688584676681</created>\r\n      <option name=\"number\" value=\"00003\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1688584676681</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"4\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State />\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"ilk\" />\r\n    <MESSAGE value=\"s\" />\r\n    <MESSAGE value=\"ozel taks eklendi\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"ozel taks eklendi\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 0be6138490cfc9ad064e2398f33d1eb47cc0ad7b)
++++ b/.idea/workspace.xml	(date 1689367783477)
+@@ -4,7 +4,7 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="82867c73-8d45-4cdb-9c44-80e8516d85b9" name="Changes" comment="ozel taks eklendi">
++    <list default="true" id="82867c73-8d45-4cdb-9c44-80e8516d85b9" name="Changes" comment="özeltaskler güncellendi">
+       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+@@ -20,49 +20,115 @@
+     </option>
+   </component>
+   <component name="Git.Merge.Settings">
+-    <option name="BRANCH" value="origin/meryem" />
++    <option name="BRANCH" value="origin/master" />
+   </component>
+   <component name="Git.Settings">
++    <option name="RECENT_BRANCH_BY_REPOSITORY">
++      <map>
++        <entry key="$PROJECT_DIR$" value="master" />
++      </map>
++    </option>
+     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+-  </component>
+-  <component name="GithubProjectSettings">
+-    <option name="branchProtectionPatterns">
+-      <list>
+-        <option value="master" />
+-      </list>
+-    </option>
+-  </component>
+-  <component name="MarkdownSettingsMigration">
+-    <option name="stateVersion" value="1" />
++    <option name="UPDATE_TYPE" value="REBASE" />
+   </component>
+   <component name="ProjectCodeStyleSettingsMigration">
+     <option name="version" value="2" />
+   </component>
+   <component name="ProjectId" id="2RWuFZEVAlvsV9qx1hsdYOYBcK2" />
+-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+-    <ConfirmationsSetting value="2" id="Add" />
+-  </component>
++  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+   <component name="ProjectViewState">
+     <option name="hideEmptyMiddlePackages" value="true" />
+     <option name="showLibraryContents" value="true" />
+   </component>
+-  <component name="PropertiesComponent"><![CDATA[{
+-  "keyToString": {
+-    "RunOnceActivity.OpenProjectViewOnStart": "true",
+-    "RunOnceActivity.ShowReadmeOnStart": "true",
+-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+-    "last_opened_file_path": "C:/Users/pc/IdeaProjects/Tasks/src"
++  <component name="PropertiesComponent">{
++  &quot;keyToString&quot;: {
++    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
++    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
++    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
++    &quot;last_opened_file_path&quot;: &quot;C:/Users/Q-3442 HASAN/IdeaProjects/tasks/src/hasancln18&quot;
+   }
+-}]]></component>
++}</component>
+   <component name="RecentsManager">
+     <key name="CopyFile.RECENT_KEYS">
+-      <recent name="C:\Users\pc\IdeaProjects\Tasks\src" />
+       <recent name="C:\Users\Q-3442 HASAN\IdeaProjects\tasks\src\hasancln18" />
+-    </key>
+-    <key name="CopyClassDialog.RECENTS_KEY">
+-      <recent name="OzelTaskler" />
+     </key>
+   </component>
++  <component name="RunManager" selected="Application.Task03">
++    <configuration name="T01_TopZıplamaMesafeSaysı" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
++      <option name="MAIN_CLASS_NAME" value="AliDesidero.OzelTaskler.T01_TopZıplamaMesafeSaysı" />
++      <module name="tasks" />
++      <extension name="coverage">
++        <pattern>
++          <option name="PATTERN" value="AliDesidero.OzelTaskler.*" />
++          <option name="ENABLED" value="true" />
++        </pattern>
++      </extension>
++      <method v="2">
++        <option name="Make" enabled="true" />
++      </method>
++    </configuration>
++    <configuration name="T06_Arrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
++      <option name="MAIN_CLASS_NAME" value="AliDesidero.OzelTaskler.T06_Arrays" />
++      <module name="tasks" />
++      <extension name="coverage">
++        <pattern>
++          <option name="PATTERN" value="AliDesidero.OzelTaskler.*" />
++          <option name="ENABLED" value="true" />
++        </pattern>
++      </extension>
++      <method v="2">
++        <option name="Make" enabled="true" />
++      </method>
++    </configuration>
++    <configuration name="T08_ArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
++      <option name="MAIN_CLASS_NAME" value="AliDesidero.OzelTaskler.T08_ArrayList" />
++      <module name="tasks" />
++      <extension name="coverage">
++        <pattern>
++          <option name="PATTERN" value="AliDesidero.OzelTaskler.*" />
++          <option name="ENABLED" value="true" />
++        </pattern>
++      </extension>
++      <method v="2">
++        <option name="Make" enabled="true" />
++      </method>
++    </configuration>
++    <configuration name="T10_ArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
++      <option name="MAIN_CLASS_NAME" value="AliDesidero.OzelTaskler.T10_ArrayList" />
++      <module name="tasks" />
++      <extension name="coverage">
++        <pattern>
++          <option name="PATTERN" value="AliDesidero.OzelTaskler.*" />
++          <option name="ENABLED" value="true" />
++        </pattern>
++      </extension>
++      <method v="2">
++        <option name="Make" enabled="true" />
++      </method>
++    </configuration>
++    <configuration name="Task03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
++      <option name="MAIN_CLASS_NAME" value="AliDesidero.OzelTaskler.Task03" />
++      <module name="tasks" />
++      <extension name="coverage">
++        <pattern>
++          <option name="PATTERN" value="AliDesidero.OzelTaskler.*" />
++          <option name="ENABLED" value="true" />
++        </pattern>
++      </extension>
++      <method v="2">
++        <option name="Make" enabled="true" />
++      </method>
++    </configuration>
++    <recent_temporary>
++      <list>
++        <item itemvalue="Application.Task03" />
++        <item itemvalue="Application.T10_ArrayList" />
++        <item itemvalue="Application.T08_ArrayList" />
++        <item itemvalue="Application.T06_Arrays" />
++        <item itemvalue="Application.T01_TopZıplamaMesafeSaysı" />
++      </list>
++    </recent_temporary>
++  </component>
+   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+   <component name="TaskManager">
+     <task active="true" id="Default" summary="Default task">
+@@ -79,19 +145,19 @@
+       <option name="project" value="LOCAL" />
+       <updated>1687378363945</updated>
+     </task>
+-    <task id="LOCAL-00002" summary="s">
+-      <created>1688501364853</created>
++    <task id="LOCAL-00002" summary="özeltaskler eklendi Ali">
++      <created>1688765151623</created>
+       <option name="number" value="00002" />
+       <option name="presentableId" value="LOCAL-00002" />
+       <option name="project" value="LOCAL" />
+-      <updated>1688501364853</updated>
++      <updated>1688765151623</updated>
+     </task>
+-    <task id="LOCAL-00003" summary="ozel taks eklendi">
+-      <created>1688584676681</created>
++    <task id="LOCAL-00003" summary="özeltaskler güncellendi">
++      <created>1688989146468</created>
+       <option name="number" value="00003" />
+       <option name="presentableId" value="LOCAL-00003" />
+       <option name="project" value="LOCAL" />
+-      <updated>1688584676681</updated>
++      <updated>1688989146468</updated>
+     </task>
+     <option name="localTasksCounter" value="4" />
+     <servers />
+@@ -109,8 +175,8 @@
+   </component>
+   <component name="VcsManagerConfiguration">
+     <MESSAGE value="ilk" />
+-    <MESSAGE value="s" />
+-    <MESSAGE value="ozel taks eklendi" />
+-    <option name="LAST_COMMIT_MESSAGE" value="ozel taks eklendi" />
++    <MESSAGE value="özeltaskler eklendi Ali" />
++    <MESSAGE value="özeltaskler güncellendi" />
++    <option name="LAST_COMMIT_MESSAGE" value="özeltaskler güncellendi" />
+   </component>
+ </project>
+\ No newline at end of file
