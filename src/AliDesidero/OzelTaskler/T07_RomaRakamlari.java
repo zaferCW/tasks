@@ -9,7 +9,7 @@ public class T07_RomaRakamlari {
 		   		System.out.println(fromRomans("DCCCV"));
 		   	Output: DCCCV   805
 
-
+A///Li
 		   		M + [C M] + [X L] + V   ---->   1945
 		   		The chars in the brackets are in ascending order.
 		   		 Parantez içindeki karakterler artan sıradadır (C-100, M-1000) --->
