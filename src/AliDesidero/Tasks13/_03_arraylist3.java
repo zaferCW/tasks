@@ -34,7 +34,9 @@ public class _03_arraylist3 {
 
         for (String str : arrayList) {
             int length = str.length();
+
             lengthList.add(length);
+
         }
 
         return lengthList;

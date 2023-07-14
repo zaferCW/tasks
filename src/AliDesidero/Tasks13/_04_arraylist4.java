@@ -1,5 +1,11 @@
 package AliDesidero.Tasks13;
 
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.List;
+
+
+
 public class _04_arraylist4 {
 
     /*
@@ -17,8 +23,28 @@ public class _04_arraylist4 {
         cevap: "yellow" , "red" , "yellow" , "red" , "yellow"
      */
 
+    public static void main(String[] args) {
 
-}
+
+        ArrayList<String> arrayList = new ArrayList<>(List.of("yellow", "red", "blue", "red", "blue"));
+        System.out.println("arrayList = " + arrayList);
+
+        String s1 = "blue";
+        String s2 = "yellow";
+        changeInArraylist1(arrayList, s1, s2);
+        System.out.println("arrayList = " + arrayList);
+
+    }
+
+    private static ArrayList <String> changeInArraylist1(ArrayList<String> arrayList, String s1, String s2) {
+
+        for (int i = 0; i < arrayList.size(); i++) {
+            if (arrayList.get(i).equals(s1)) {
+                arrayList.set(i, s2);
+            }
+        }
+        return arrayList;
+}}
 
 
 

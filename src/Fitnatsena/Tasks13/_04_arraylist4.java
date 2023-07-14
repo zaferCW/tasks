@@ -27,28 +27,28 @@ public class _04_arraylist4 {
         arrayLıst.add("blue");
         arrayLıst.add("red");
         arrayLıst.add("blue");
-        
+
+        System.out.println("arrayLıst ılk halı= " + arrayLıst);
+
         String s1="blue";
         String s2="yellow";
-        
-        ArrayList<String>yenıLıst=changeInArraylist(arrayLıst,s1,s2);
 
-        System.out.println("yenıLıst = " + yenıLıst);
+        changeInArraylist2(arrayLıst,s1,s2);
+
+        System.out.println("arrayLıst son halı = " + arrayLıst);
     }
 
-    private static ArrayList<String> changeInArraylist(ArrayList<String> arrayLıst, String s1, String s2) {
+    private static ArrayList<String> changeInArraylist2(ArrayList<String> arrayLıst, String s1, String s2) {
 
         for (int i = 0; i < arrayLıst.size(); i++) {
 
             if (arrayLıst.get(i).equals(s1)){
 
                 arrayLıst.set(i,s2);
-
-            }
-            
-        }
-        return arrayLıst;
     }
 
+    }
 
-}
+        return arrayLıst;
+
+}}

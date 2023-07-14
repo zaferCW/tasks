@@ -22,6 +22,8 @@ public class _03_arraylist3 {
     public static void main(String[] args) {
         ArrayList<String> arraylıst=new ArrayList<>(List.of("New jersey" ,"New york" , "Ohio" , "Florida" , "Boston"));
 
+        System.out.println("arraylıst = " + arraylıst);
+
         ArrayList<Integer> lengthList = Length(arraylıst);
 
         System.out.println("lengthList = " + lengthList);
@@ -42,11 +44,23 @@ public class _03_arraylist3 {
 
 
     }
-return lengthList;
+     return lengthList;
+
+
+
+           //2.yol
+          // for (int i = 0; i <arraylıst.size() ; i++) {
+          //  String str=arraylıst.get(i);
+          //  int lenght=str.length();
+          //  lengthList.add(lenght);
+
+
+
+
+        }
 
 }
 
 
-}
 
 
