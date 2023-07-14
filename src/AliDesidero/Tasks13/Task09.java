@@ -1,6 +1,7 @@
 package AliDesidero.Tasks13;
 
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.List;
 
 public class Task09 {
@@ -10,14 +11,9 @@ public class Task09 {
    toplamını bulan code create ediniz.
     */
     public static void main(String[] args) {
-        List<Integer> liste = new ArrayList<>();
-        liste.add(2);
-        liste.add(4);
-        liste.add(6);
-        liste.add(8);
-        liste.add(10);
+        List<Integer> arr = new ArrayList<>(Arrays.asList(2,4,6,8,10));
 
-        int toplam = karelerinToplaminiBul(liste);
+        int toplam = karelerinToplaminiBul(arr);
         System.out.println("Karelerin toplamı: " + toplam);
     }
 

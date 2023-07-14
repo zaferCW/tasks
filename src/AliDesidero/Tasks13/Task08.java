@@ -8,15 +8,15 @@ public class Task08 {
         // Task-> Girilen sayıların içinde ortalamadan buyuk olanları print eden METHOD create ediniz.
 
         public static void main(String[] args) {
-            Scanner scanner = new Scanner(System.in);
+            Scanner input = new Scanner(System.in);
 
             System.out.print("Kaç adet sayı gireceksiniz? ");
-            int sayiAdedi = scanner.nextInt();
+            int sayiAdedi = input.nextInt();
 
-            List<Integer> sayilar = new ArrayList<>();
+            List <Integer> sayilar = new ArrayList<>();
             for (int i = 0; i < sayiAdedi; i++) {
                 System.out.print("Sayı " + (i + 1) + ": ");
-                int sayi = scanner.nextInt();
+                int sayi = input.nextInt();
                 sayilar.add(sayi);
             }
 
@@ -26,11 +26,11 @@ public class Task08 {
 
     public static List<Integer> filtreleOrtalamadanBuyuk(List<Integer> sayilar) {
         int toplam = 0;
-        for (int sayi : sayilar) {
-            toplam += sayi;
+        for (int alinanSayilar : sayilar) {
+            toplam += alinanSayilar;
         }
 
-        int ortalamayaGoreSayac = 0;
+       //  int ortalamayaGoreSayac = 0;
         double ortalama = (double) toplam / sayilar.size();
 
         List<Integer> buyukSayilar = new ArrayList<>();

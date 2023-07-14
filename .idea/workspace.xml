@@ -4,8 +4,27 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="82867c73-8d45-4cdb-9c44-80e8516d85b9" name="Changes" comment="özeltaskler güncellendi">
+    <list default="true" id="82867c73-8d45-4cdb-9c44-80e8516d85b9" name="Changes" comment="task20 changed">
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_01_07_2023_20_03__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_01_07_2023_20_03__Changes_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_07_07_2023_22_04_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_07_07_2023_22_04__Changes_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_07_07_2023_22_05_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_07_07_2023_22_05_[Changes]1/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_07_07_2023_22_05__Changes_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_07_07_2023_22_05__Changes_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_14_07_2023_21_21__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_14_07_2023_21_21__Changes_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_14_07_2023_21_22__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_14_07_2023_21_22__Changes_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_14_07_2023_21_43__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_14_07_2023_21_43__Changes_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_14_07_2023_21_46__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_14_07_2023_21_46__Changes_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_14_07_2023_21_47__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_14_07_2023_21_47__Changes_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_14_07_2023_21_53__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_14_07_2023_21_53__Changes_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_14_07_2023_21_21__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_14_07_2023_21_21__Changes_.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AliDesidero/Tasks13/Task07.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AliDesidero/Tasks13/Task07.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AliDesidero/Tasks13/Task08.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AliDesidero/Tasks13/Task08.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AliDesidero/Tasks13/Task09.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AliDesidero/Tasks13/Task09.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AliDesidero/Tasks13/Task10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AliDesidero/Tasks13/Task10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tasks13/Task07.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tasks13/Task07.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +54,9 @@
     <option name="version" value="2" />
   </component>
   <component name="ProjectId" id="2RWuFZEVAlvsV9qx1hsdYOYBcK2" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -53,59 +74,7 @@
       <recent name="C:\Users\Q-3442 HASAN\IdeaProjects\tasks\src\hasancln18" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Task03">
-    <configuration name="T01_TopZıplamaMesafeSaysı" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AliDesidero.OzelTaskler.T01_TopZıplamaMesafeSaysı" />
-      <module name="tasks" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="AliDesidero.OzelTaskler.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="T06_Arrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AliDesidero.OzelTaskler.T06_Arrays" />
-      <module name="tasks" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="AliDesidero.OzelTaskler.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="T08_ArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AliDesidero.OzelTaskler.T08_ArrayList" />
-      <module name="tasks" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="AliDesidero.OzelTaskler.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="T10_ArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AliDesidero.OzelTaskler.T10_ArrayList" />
-      <module name="tasks" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="AliDesidero.OzelTaskler.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Task10">
     <configuration name="Task03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AliDesidero.OzelTaskler.Task03" />
       <module name="tasks" />
@@ -119,13 +88,65 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Task07" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AliDesidero.Tasks13.Task07" />
+      <module name="tasks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AliDesidero.Tasks13.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task08" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AliDesidero.Tasks13.Task08" />
+      <module name="tasks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AliDesidero.Tasks13.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task09" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AliDesidero.Tasks13.Task09" />
+      <module name="tasks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AliDesidero.Tasks13.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AliDesidero.Tasks13.Task10" />
+      <module name="tasks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AliDesidero.Tasks13.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Task10" />
+        <item itemvalue="Application.Task09" />
+        <item itemvalue="Application.Task08" />
+        <item itemvalue="Application.Task07" />
         <item itemvalue="Application.Task03" />
-        <item itemvalue="Application.T10_ArrayList" />
-        <item itemvalue="Application.T08_ArrayList" />
-        <item itemvalue="Application.T06_Arrays" />
-        <item itemvalue="Application.T01_TopZıplamaMesafeSaysı" />
       </list>
     </recent_temporary>
   </component>
