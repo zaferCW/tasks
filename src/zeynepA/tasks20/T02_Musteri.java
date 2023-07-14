@@ -1,4 +1,4 @@
-package Task20;
+package zeynepA.tasks20;
 
 public class T02_Musteri {
 
