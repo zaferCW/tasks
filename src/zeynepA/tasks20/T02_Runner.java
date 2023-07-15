@@ -12,6 +12,20 @@ public class T02_Runner {
 
      */
 
+    public static void main(String[] args) {
+
+        T02_Musteri musteri= new T02_Musteri();
+
+        musteri.getUser();
+
+        System.out.println("musteri.name = " + musteri.name);
+
+        System.out.println("Toplam tüketim = " + musteri.hesap.toplamTuketim);
+        System.out.println("Fatura = " + musteri.hesap.odenecekTutar());
+
+
+    }
+
 
 
 }
