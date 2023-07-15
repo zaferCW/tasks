@@ -33,6 +33,8 @@ public class Task04 {
              for (int j = 0; j < names.get(i).length(); j++) {
                  if (harf.equalsIgnoreCase(names.get(i).substring(j,j+1))) {
                      names.remove(i);
+                     i--;
+                     break;
                  }
              }
 
