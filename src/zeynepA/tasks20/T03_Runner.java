@@ -12,5 +12,16 @@ public class T03_Runner {
 
      */
 
+    public static void main(String[] args) {
+
+        T03_Lesson obj = new T03_Lesson("Fizik",7);
+
+
+
+
+
+
+    }
+
 
 }

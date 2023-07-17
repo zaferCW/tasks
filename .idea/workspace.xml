@@ -4,8 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="82867c73-8d45-4cdb-9c44-80e8516d85b9" name="Changes" comment="tasks 20 added">
+    <list default="true" id="82867c73-8d45-4cdb-9c44-80e8516d85b9" name="Changes" comment="tasks 2 project solution added">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/zeynepA/tasks20/T03_Lesson.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zeynepA/tasks20/T03_Lesson.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/zeynepA/tasks20/T03_Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zeynepA/tasks20/T03_Runner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/zeynepA/tasks20/T03_Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zeynepA/tasks20/T03_Student.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +63,7 @@
       <recent name="C:\Users\Q-3442 HASAN\IdeaProjects\tasks\src\hasancln18" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.T03_Runner">
     <configuration name="Cache" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="zeynepA.haftalikTaskler.Cache" />
       <module name="Tasks" />
@@ -74,9 +77,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="T03_Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zeynepA.tasks20.T03_Runner" />
+      <module name="tasks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="zeynepA.tasks20.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Cache" />
+        <item itemvalue="Application.T03_Runner" />
         <item itemvalue="Application.Cache" />
         <item itemvalue="Application.Cache" />
         <item itemvalue="Application.Cache" />
