@@ -5,6 +5,7 @@ import java.util.ArrayList;
 public class T03_Student {
 
     String studentName;
+
     int studentMaxCredit;
 
     ArrayList<T03_Lesson> derslerList= new ArrayList<>();

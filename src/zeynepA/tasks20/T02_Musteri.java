@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class T02_Musteri {
 
     String name;
+
     T02_ElektrikHesabi hesap = new T02_ElektrikHesabi();
 
     public T02_Musteri() {

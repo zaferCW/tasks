@@ -10,6 +10,7 @@ public class T03_Lesson {
     }
 
     public T03_Lesson(String name, int credit) {
+
         this.lessonName = name;
         this.lessonCredit = credit;
     }

@@ -9,6 +9,7 @@ public class T04_Runner {
      vites 5 den büyük ve 1 den küçük olamaz.
      yukarıdaki methodları seçtirilen islemYap methodu ile T01_Runner class'da obj ile methodları çalıştırınız
     Trick -> Kullanıcıya metodlarla iligli bir menü veriniz.
+
      */
 
 

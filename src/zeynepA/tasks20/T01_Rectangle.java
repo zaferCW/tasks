@@ -7,7 +7,6 @@ public class T01_Rectangle {
     double cevre (double width, double length){
 
         return 2*(width+length);
-
     }
 double alan (double width, double length){
 

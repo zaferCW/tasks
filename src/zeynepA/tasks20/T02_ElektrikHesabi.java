@@ -9,7 +9,6 @@ public class T02_ElektrikHesabi {
     int tuketimEkle(int tuketilenEnerji){
 
         return toplamTuketim+= tuketilenEnerji;
-
     }
     double odenecekTutar(){
 

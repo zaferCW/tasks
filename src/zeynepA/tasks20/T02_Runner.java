@@ -9,7 +9,6 @@ public class T02_Runner {
 
     Müsteri Class: fields: name T02_ElektrikHesabi class obj.
     T01_Runner Class obj ile enz 2  aylık elektrik tüketim faturası print eden code create ediniz
-
      */
 
     public static void main(String[] args) {
