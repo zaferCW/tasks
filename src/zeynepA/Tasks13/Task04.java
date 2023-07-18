@@ -13,6 +13,7 @@ public class Task04 {
          *
          * INPUT : list1={"Ali","Veli","Ayse","Fatma","Omer"}
          * OUTPUT : [Veli,Omer]
+
          */
 
         List<String> name = new ArrayList<>(Arrays.asList("Ali","Veli","Ayse","Fatma","Omer"));

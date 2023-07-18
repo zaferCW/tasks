@@ -17,6 +17,7 @@ public class _11_prime_numbers {
         Explanation(Açıklama): 10'dan küçük 4 adet asal sayı vardır. (2,3,5,7)
      */
 
+
     public static void main(String[] args) {
 
 

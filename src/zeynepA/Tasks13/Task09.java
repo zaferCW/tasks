@@ -9,6 +9,7 @@ public class Task09 {
     /* TASK :
    Bir integer list oluşturunuz ve bu list’deki tum sayıların karesinin
    toplamını bulan code create ediniz.
+
     */
 
         List<Integer> listNum = new ArrayList<>();

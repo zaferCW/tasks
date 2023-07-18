@@ -3,7 +3,8 @@ package zeynepA.Tasks13;
 import java.util.ArrayList;
 import java.util.Arrays;
 
-public class _07_arraylist7 {
+public class
+_07_arraylist7 {
 
     /*
         common_values() isminde bir method oluşturun.

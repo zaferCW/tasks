@@ -13,6 +13,7 @@ public class _02_arraylist2 {
         Örneğin;
         Arraylist = 1,2,3,4,5
         return 15 olmalı
+
          */
 
     public static void main(String[] args) {

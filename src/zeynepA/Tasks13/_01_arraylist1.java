@@ -6,6 +6,7 @@ import java.util.ArrayList;
 public class _01_arraylist1 {
 
     /*
+
         ismi getCount() olan bir method oluşturun.
         Parametre olarak bir String ArayList  ve  bir tane String
 

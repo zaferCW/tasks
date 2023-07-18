@@ -21,6 +21,7 @@ public class _10_arraylist12 {
     min ve max aralığı da  dahil (Örnek1 'deki 20 ve 30 da dahildir.)
      */
 
+
     public static void main(String[] args) {
 
         ArrayList<Integer> listnumber = new ArrayList<>(Arrays.asList(1 , 5 , 22, 10 ,20 ,14 , 8 , 25 , 30, 28));

@@ -9,6 +9,7 @@ public class Task06 {
         sadece tek elemanlarını ayrı diziye bir metodda atayarak
          yazdırınız.
 
+
         */
         Scanner input = new Scanner(System.in);
 

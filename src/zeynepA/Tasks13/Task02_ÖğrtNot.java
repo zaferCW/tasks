@@ -9,6 +9,7 @@ public class Task02_ÖğrtNot {
          Bir öğretmenden girmek istediği kadar notu alınız, ve
          ortalamayı geçen öğrenci sayısını bulan code create ediniz.
 
+
          */
 
             Scanner input = new Scanner(System.in);

@@ -13,6 +13,7 @@ public class _05_arraylist5 {
         Tersten yazılmış halini return edin.
         Arraylist =  "New jersey" ,"New york" , "Atlanta", "Florida" ,"Ohio"
         cevap: "Ohio" , "Florida" ,"Atlanta","New york" ,"New jersey"
+
      */
 
     public static void main(String[] args) {

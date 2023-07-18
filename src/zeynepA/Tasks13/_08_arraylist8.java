@@ -13,6 +13,7 @@ public class _08_arraylist8 {
         ArrayList'teki en yüksek (maximum) 2. değeri bulun ve onu döndürün
         ÖRN;
         ArrayList   --  5,3,4,6,7
+
         CEVAP : 6
      */
 

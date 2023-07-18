@@ -18,6 +18,7 @@ public class _04_arraylist4 {
         s2 = yellow
         Tüm blue 'ları yellow'a dönüştürün.
         cevap: "yellow" , "red" , "yellow" , "red" , "yellow"
+
      */
 
     public static void main(String[] args) {

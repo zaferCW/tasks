@@ -23,6 +23,7 @@ public class Task01_Market {
      * 			 ortalama kazançtan aşağıysa o günleri return yap.
      * */
 
+
     static Scanner input = new Scanner(System.in);
     static ArrayList<String> gunler = new ArrayList<>(Arrays.asList("Pazartesi", "Salı", "Carsamba", "Persembe", "Cuma", "Cumartesi", "Pazar"));
     static ArrayList<Integer> gunlukKazanc = new ArrayList<>();

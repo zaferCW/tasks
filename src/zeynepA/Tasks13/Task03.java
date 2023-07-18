@@ -8,6 +8,7 @@ public class Task03 {
     public static void main(String[] args) {
         // Task ->  bir listte istenen sayının varlığı kontrol eden code create ediniz.
 
+
         ArrayList<Integer> numList = new ArrayList<>(Arrays.asList(1,25,3,4,55,34,65,69,12,5,7,6,9,10));
 
         Scanner input =new Scanner(System.in);

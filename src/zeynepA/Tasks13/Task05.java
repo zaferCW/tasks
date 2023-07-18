@@ -10,6 +10,7 @@ public class Task05 {
         listeye kopyalayan ve harf sırasına göre yazdıran bir METHOD yazınız.
         Ex : Input : {{Ali,Veli,Ayse},{Hasan,Can},{Suzan}}
            Output:[Ali, Ayse, Can, Hasan, Suzan, Veli]
+
          */
 
         String [][] arrName ={{"Ali","Veli","Ayşe"},{"Hasan","Can"},{"Suzan"}};

@@ -14,6 +14,7 @@ public class _06_arraylist6 {
     ArrayList 5,4,6,2,1
     2, 6'dan küçük ve 1 den büyüktür.
     Return 2 olmalı.
+
      */
 
     public static void main(String[] args) {
