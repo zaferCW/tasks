@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="82867c73-8d45-4cdb-9c44-80e8516d85b9" name="Changes" comment="tasks 2 project solution added">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/zeynepA/tasks20/T03_Lesson.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zeynepA/tasks20/T03_Lesson.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/zeynepA/tasks20/T03_Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zeynepA/tasks20/T03_Runner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/zeynepA/tasks20/T03_Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zeynepA/tasks20/T03_Student.java" afterDir="false" />
-    </list>
+    <list default="true" id="82867c73-8d45-4cdb-9c44-80e8516d85b9" name="Changes" comment="T03 project ..." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -144,7 +139,14 @@
       <option name="project" value="LOCAL" />
       <updated>1689366674984</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="T03 project ...">
+      <created>1689626330416</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1689626330417</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -164,6 +166,7 @@
     <MESSAGE value="ozel taks eklendi" />
     <MESSAGE value="tasks 13 solutions added" />
     <MESSAGE value="tasks 20 added" />
-    <option name="LAST_COMMIT_MESSAGE" value="tasks 20 added" />
+    <MESSAGE value="T03 project ..." />
+    <option name="LAST_COMMIT_MESSAGE" value="T03 project ..." />
   </component>
 </project>
