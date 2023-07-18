@@ -60,6 +60,9 @@
       <recent name="C:\Users\pc\IdeaProjects\Tasks\src" />
       <recent name="C:\Users\Q-3442 HASAN\IdeaProjects\tasks\src\hasancln18" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="OzelTaskler" />
+    </key>
   </component>
   <component name="RunManager" selected="Application._03_arraylist3">
     <configuration name="Fitnatsena.Tasks13._03_arraylist3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -160,7 +163,14 @@
       <option name="project" value="LOCAL" />
       <updated>1688501364853</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="ozel taks eklendi">
+      <created>1688584676681</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1688584676681</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
