@@ -1,5 +1,7 @@
 package Rumeysa.Task20;
 
+import java.util.Scanner;
+
 public class T04_Runner {
     /*
     Task 04->
@@ -10,10 +12,11 @@ public class T04_Runner {
      yukarıdaki methodları seçtirilen islemYap methodu ile T01_Runner class'da obj ile methodları çalıştırınız
     Trick -> Kullanıcıya metodlarla iligli bir menü veriniz.
      */
+    public static void main(String[] args) {
 
-
-
-
+        T04_Bisiklet obj = new T04_Bisiklet();
+        obj.islemYap();
+    }
 
 
 
