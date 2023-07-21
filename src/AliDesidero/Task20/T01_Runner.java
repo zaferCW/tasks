@@ -1,4 +1,4 @@
-package Task20;
+package AliDesidero.Task20;
 
 public class T01_Runner {
      /*
@@ -8,5 +8,7 @@ public class T01_Runner {
     */
 
 
+    public static void main(String[] args) {
 
+    }
 }
