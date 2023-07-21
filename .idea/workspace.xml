@@ -4,20 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="82867c73-8d45-4cdb-9c44-80e8516d85b9" name="Changes" comment="tasks eklendi">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Tasks/Rumeysa/Task13R/Task02_ÖğrtNot.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/Rumeysa/Task13R/Task02_ÖğrtNot.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Rumeysa/Task20/T01_Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Rumeysa/Task20/T01_Rectangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Rumeysa/Task20/T01_Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Rumeysa/Task20/T01_Runner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Rumeysa/Task20/T02_ElektrikHesabi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Rumeysa/Task20/T02_ElektrikHesabi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Rumeysa/Task20/T02_Musteri.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Rumeysa/Task20/T02_Musteri.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Rumeysa/Task20/T02_Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Rumeysa/Task20/T02_Runner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Rumeysa/Task20/T03_Lesson.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Rumeysa/Task20/T03_Lesson.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Rumeysa/Task20/T03_Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Rumeysa/Task20/T03_Runner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Rumeysa/Task20/T03_Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Rumeysa/Task20/T03_Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Rumeysa/Task20/T04_Bisiklet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Rumeysa/Task20/T04_Bisiklet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Rumeysa/Task20/T04_Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Rumeysa/Task20/T04_Runner.java" afterDir="false" />
-    </list>
+    <list default="true" id="82867c73-8d45-4cdb-9c44-80e8516d85b9" name="Changes" comment="task 20 solved" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -190,7 +177,14 @@
       <option name="project" value="LOCAL" />
       <updated>1689427364040</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="task 20 solved">
+      <created>1689812555806</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1689812555806</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -209,6 +203,7 @@
     <MESSAGE value="s" />
     <MESSAGE value="ozel taks eklendi" />
     <MESSAGE value="tasks eklendi" />
-    <option name="LAST_COMMIT_MESSAGE" value="tasks eklendi" />
+    <MESSAGE value="task 20 solved" />
+    <option name="LAST_COMMIT_MESSAGE" value="task 20 solved" />
   </component>
 </project>
