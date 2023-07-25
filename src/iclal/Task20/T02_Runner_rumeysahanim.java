@@ -1,4 +1,4 @@
-package iclal.Task20.;
+package iclal.Task20;
 
 public class T02_Runner_rumeysahanim {
     /*
