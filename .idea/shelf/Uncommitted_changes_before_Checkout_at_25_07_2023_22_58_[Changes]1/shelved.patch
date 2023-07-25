@@ -1,0 +1,70 @@
+Index: src/task12/Task05.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>package hasancln18.task12;\r\n\r\nimport java.util.Scanner;\r\n\r\npublic class Task05 {\r\n\r\n\r\n    public static void main(String[] args) {\r\n        // Task-> girilen int değeri tersten print eden code create ediniz.\r\n        Scanner input = new Scanner(System.in) ;\r\n\r\n        System.out.println(\"Bir deger giriniz : \");\r\n        int numara = input.nextInt();\r\n\r\n        String ters = new StringBuilder(String.valueOf(numara)).reverse().toString();\r\n        System.out.println(\"tersten hali : \"+ ters);\r\n\r\n\r\n\r\n\r\n\r\n    }\r\n\r\n}\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/task12/Task05.java b/src/task12/Task05.java
+--- a/src/task12/Task05.java	
++++ b/src/task12/Task05.java	
+@@ -1,4 +1,4 @@
+-package hasancln18.task12;
++package task12;
+ 
+ import java.util.Scanner;
+ 
+Index: src/hasancln18/task12/_15_Word_Count.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/hasancln18/task12/_15_Word_Count.java b/src/hasancln18/task12/_15_Word_Count1.java
+rename from src/hasancln18/task12/_15_Word_Count.java
+rename to src/hasancln18/task12/_15_Word_Count1.java
+--- a/src/hasancln18/task12/_15_Word_Count.java	
++++ b/src/hasancln18/task12/_15_Word_Count1.java	
+@@ -1,6 +1,6 @@
+ package hasancln18.task12;
+ 
+-public class _15_Word_Count {
++public class _15_Word_Count1 {
+ 
+     public static void main(String[] args) {
+ 
+Index: src/hasancln18/task12/Task05.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>package hasancln18.task12;\r\n\r\npublic class Task05 {\r\n\r\n\r\n    public static void main(String[] args) {\r\n        // Task-> girilen int değeri tersten print eden code create ediniz.\r\n\r\n\r\n\r\n\r\n\r\n    }\r\n\r\n}\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/hasancln18/task12/Task05.java b/src/hasancln18/task12/Task05.java
+--- a/src/hasancln18/task12/Task05.java	
++++ b/src/hasancln18/task12/Task05.java	
+@@ -1,14 +1,22 @@
+ package hasancln18.task12;
+ 
++import java.util.Scanner;
++
+ public class Task05 {
++    static Scanner input=new Scanner(System.in);
+ 
+ 
+     public static void main(String[] args) {
+         // Task-> girilen int değeri tersten print eden code create ediniz.
+-
++        System.out.println("bir sayı giriniz...");
++        int sayi= input.nextInt();
++        System.out.println("girdiğiniz syının tersi: ");
++        while (sayi!=0){
++            int b=sayi%10;
++            sayi=sayi/10;
++            System.out.print(b);
+ 
+-
+-
++        }
+ 
+     }
+ 
