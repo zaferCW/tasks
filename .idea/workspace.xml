@@ -4,8 +4,277 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="82867c73-8d45-4cdb-9c44-80e8516d85b9" name="Changes" comment="deneme commit">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="82867c73-8d45-4cdb-9c44-80e8516d85b9" name="Changes" comment="tasks deneme commit">
+      <change afterPath="$PROJECT_DIR$/src/iclal/Task20/T01_Rectangle_rumeysahanim.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/iclal/Task20/T01_Runner_rumeysahanim.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/iclal/Task20/T02_ElektrikHesabi_rumeysahanim.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/iclal/Task20/T02_Musteri_rumeysahanim.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/iclal/Task20/T02_Runner_rumeysahanim.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/iclal/Task20/T03_Lesson_rumeysahanim.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/iclal/Task20/T03_Runner_rumeysahanim.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/iclal/Task20/T03_Student_rumeysahanim.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/iclal/Task20/T04_Bisiklet_rumeysahanim.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/iclal/Task20/T04_Bisiklet_tahabey.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/iclal/Task20/T04_Runner_rumeysahanim.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/iclal/Task20/T04_Runner_tahabey.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/AliDesidero/task12/Task01.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/AliDesidero/task12/Task01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/AliDesidero/task12/Task02.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/AliDesidero/task12/Task02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/AliDesidero/task12/Task03.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/AliDesidero/task12/Task03.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/AliDesidero/task12/Task04.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/AliDesidero/task12/Task04.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/AliDesidero/task12/Task05.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/AliDesidero/task12/Task05.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/AliDesidero/task12/Task06.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/AliDesidero/task12/Task06.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/AliDesidero/task12/Task08.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/AliDesidero/task12/Task08.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/AliDesidero/task12/Task09.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/AliDesidero/task12/Task09.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/AliDesidero/task12/Task10.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/AliDesidero/task12/Task10.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/AliDesidero/task12/Task11.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/AliDesidero/task12/Task11.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/AliDesidero/task12/Task12.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/AliDesidero/task12/Task12.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/AliDesidero/task12/Task13.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/AliDesidero/task12/Task13.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/AliDesidero/task12/Task14.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/AliDesidero/task12/Task14.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/AliDesidero/task12/Task15.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/AliDesidero/task12/Task15.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/AliDesidero/task12/Task16.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/AliDesidero/task12/Task16.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/AliDesidero/task12/Task17.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/AliDesidero/task12/Task17.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/AliDesidero/task12/Task18.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/AliDesidero/task12/Task18.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/AliDesidero/task12/Task19.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/AliDesidero/task12/Task19.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/AliDesidero/task12/_01_Create_array.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/AliDesidero/task12/_01_Create_array.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/AliDesidero/task12/_02_Create_array2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/AliDesidero/task12/_02_Create_array2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/AliDesidero/task12/_03_Create_array3_int.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/AliDesidero/task12/_03_Create_array3_int.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/AliDesidero/task12/_04_Create_Array_String.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/AliDesidero/task12/_04_Create_Array_String.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/AliDesidero/task12/_05_Array_with_for_if.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/AliDesidero/task12/_05_Array_with_for_if.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/AliDesidero/task12/_07_array_max_value.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/AliDesidero/task12/_07_array_max_value.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/AliDesidero/task12/_08_array_min_value.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/AliDesidero/task12/_08_array_min_value.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/AliDesidero/task12/_09_array_second_max.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/AliDesidero/task12/_09_array_second_max.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/AliDesidero/task12/_10_reverse_String.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/AliDesidero/task12/_10_reverse_String.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/AliDesidero/task12/_12_Array_no14.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/AliDesidero/task12/_12_Array_no14.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/AliDesidero/task12/_13_Advance_zeroFront.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/AliDesidero/task12/_13_Advance_zeroFront.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/AliDesidero/task12/_14_String_method_replace.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/AliDesidero/task12/_14_String_method_replace.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/AliDesidero/task12/_15_Word_Count.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/AliDesidero/task12/_15_Word_Count.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/AliDesidero/task12/_16_Advance_Array_get_sum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/AliDesidero/task12/_16_Advance_Array_get_sum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/AliDesidero/task12/_17_2d_Array.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/AliDesidero/task12/_17_2d_Array.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/AliDesidero/task12/_18_2d_array2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/AliDesidero/task12/_18_2d_array2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/AliDesidero/task12/_19_2d_Array_3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/AliDesidero/task12/_19_2d_Array_3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/AliDesidero/task12/_20_Arrayboth_Ends.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/AliDesidero/task12/_20_Arrayboth_Ends.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/AliDesidero/task12/_21_Array_reverse.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/AliDesidero/task12/_21_Array_reverse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/AliDesidero/tasks10/Odev01Medium.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/AliDesidero/tasks10/Odev01Medium.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/AliDesidero/tasks10/Odev02.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/AliDesidero/tasks10/Odev02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/AliDesidero/tasks10/Odev03.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/AliDesidero/tasks10/Odev03.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/AliDesidero/tasks10/Odev06Easy.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/AliDesidero/tasks10/Odev06Easy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/AliDesidero/tasks10/Task01.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/AliDesidero/tasks10/Task01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/AliDesidero/tasks10/Task02.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/AliDesidero/tasks10/Task02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/AliDesidero/tasks10/Task03.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/AliDesidero/tasks10/Task03.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/AliDesidero/tasks10/Task05.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/AliDesidero/tasks10/Task05.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/AliDesidero/tasks10/Task06.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/AliDesidero/tasks10/Task06.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/AliDesidero/tasks10/Task07.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/AliDesidero/tasks10/Task07.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/AliDesidero/tasks10/Task08.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/AliDesidero/tasks10/Task08.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/AliDesidero/tasks10/Task09.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/AliDesidero/tasks10/Task09.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/AliDesidero/tasks10/Task11.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/AliDesidero/tasks10/Task11.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/AliDesidero/tasks10/Task12.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/AliDesidero/tasks10/Task12.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/AliDesidero/tasks10/Task13.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/AliDesidero/tasks10/Task13.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/AliDesidero/tasks10/Task14.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/AliDesidero/tasks10/Task14.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/AliDesidero/tasks10/Task15_UcusProject02.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/AliDesidero/tasks10/Task15_UcusProject02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/AliDesidero/tasks10/Task15_UcusProject03.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/AliDesidero/tasks10/Task15_UcusProject03.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/AliDesidero/tasks10/Task16_KelimeOyunu01.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/AliDesidero/tasks10/Task16_KelimeOyunu01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/AliDesidero/tasks10/Task16_KelimeOyunu02.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/AliDesidero/tasks10/Task16_KelimeOyunu02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/Rumeysa/aa.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/Rumeysa/aa.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/Rumeysa/task12/Task01.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/Rumeysa/task12/Task01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/Rumeysa/task12/Task02.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/Rumeysa/task12/Task02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/Rumeysa/task12/Task03.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/Rumeysa/task12/Task03.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/Rumeysa/task12/Task04.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/Rumeysa/task12/Task04.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/Rumeysa/task12/Task05.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/Rumeysa/task12/Task05.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/Rumeysa/task12/Task06.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/Rumeysa/task12/Task06.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/Rumeysa/task12/Task08.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/Rumeysa/task12/Task08.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/Rumeysa/task12/Task09.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/Rumeysa/task12/Task09.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/Rumeysa/task12/Task10.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/Rumeysa/task12/Task10.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/Rumeysa/task12/Task11.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/Rumeysa/task12/Task11.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/Rumeysa/task12/Task12.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/Rumeysa/task12/Task12.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/Rumeysa/task12/Task13.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/Rumeysa/task12/Task13.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/Rumeysa/task12/Task14.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/Rumeysa/task12/Task14.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/Rumeysa/task12/Task15.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/Rumeysa/task12/Task15.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/Rumeysa/task12/Task16.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/Rumeysa/task12/Task16.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/Rumeysa/task12/Task17.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/Rumeysa/task12/Task17.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/Rumeysa/task12/Task18.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/Rumeysa/task12/Task18.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/Rumeysa/task12/Task19.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/Rumeysa/task12/Task19.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/Rumeysa/task12/_01_Create_array.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/Rumeysa/task12/_01_Create_array.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/Rumeysa/task12/_02_Create_array2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/Rumeysa/task12/_02_Create_array2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/Rumeysa/task12/_03_Create_array3_int.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/Rumeysa/task12/_03_Create_array3_int.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/Rumeysa/task12/_04_Create_Array_String.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/Rumeysa/task12/_04_Create_Array_String.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/Rumeysa/task12/_05_Array_with_for_if.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/Rumeysa/task12/_05_Array_with_for_if.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/Rumeysa/task12/_06_Array_contains.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/Rumeysa/task12/_06_Array_contains.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/Rumeysa/task12/_07_array_max_value.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/Rumeysa/task12/_07_array_max_value.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/Rumeysa/task12/_08_array_min_value.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/Rumeysa/task12/_08_array_min_value.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/Rumeysa/task12/_09_array_second_max.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/Rumeysa/task12/_09_array_second_max.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/Rumeysa/task12/_10_reverse_String.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/Rumeysa/task12/_10_reverse_String.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/Rumeysa/task12/_11_Average_of_Array.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/Rumeysa/task12/_11_Average_of_Array.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/Rumeysa/task12/_12_Array_no14.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/Rumeysa/task12/_12_Array_no14.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/Rumeysa/task12/_13_Advance_zeroFront.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/Rumeysa/task12/_13_Advance_zeroFront.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/Rumeysa/task12/_14_String_method_replace.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/Rumeysa/task12/_14_String_method_replace.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/Rumeysa/task12/_15_Word_Count.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/Rumeysa/task12/_15_Word_Count.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/Rumeysa/task12/_16_Advance_Array_get_sum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/Rumeysa/task12/_16_Advance_Array_get_sum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/Rumeysa/task12/_17_2d_Array.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/Rumeysa/task12/_17_2d_Array.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/Rumeysa/task12/_18_2d_array2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/Rumeysa/task12/_18_2d_array2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/Rumeysa/task12/_19_2d_Array_3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/Rumeysa/task12/_19_2d_Array_3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/Rumeysa/task12/_20_Arrayboth_Ends.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/Rumeysa/task12/_20_Arrayboth_Ends.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/Rumeysa/task12/_21_Array_reverse.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/Rumeysa/task12/_21_Array_reverse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/Tasks13/Task01_Market.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/Tasks13/Task01_Market.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/Tasks13/Task02_ÖğrtNot.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/Tasks13/Task02_ÖğrtNot.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/Tasks13/Task03.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/Tasks13/Task03.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/Tasks13/Task04.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/Tasks13/Task04.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/Tasks13/Task05.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/Tasks13/Task05.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/Tasks13/Task06.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/Tasks13/Task06.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/Tasks13/Task07.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/Tasks13/Task07.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/Tasks13/Task08.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/Tasks13/Task08.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/Tasks13/Task09.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/Tasks13/Task09.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/Tasks13/Task10.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/Tasks13/Task10.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/Tasks13/Task11_Fibonacci.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/Tasks13/Task11_Fibonacci.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/Tasks13/Task12_Manav.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/Tasks13/Task12_Manav.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/Tasks13/Task13.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/Tasks13/Task13.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/Tasks13/Task14.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/Tasks13/Task14.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/Tasks13/Tasks13/Task06.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/Tasks13/Tasks13/Task07.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/Tasks13/Tasks13/Task08.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/Tasks13/Tasks13/Task09.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/Tasks13/Tasks13/Task10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/Tasks13/Tasks13/Task11_Fibonacci.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/Tasks13/Tasks13/Task12_Manav.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/Tasks13/Tasks13/Task13.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/Tasks13/_01_arraylist1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/Tasks13/_01_arraylist1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/Tasks13/_02_arraylist2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/Tasks13/_02_arraylist2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/Tasks13/_03_arraylist3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/Tasks13/_03_arraylist3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/Tasks13/_04_arraylist4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/Tasks13/_04_arraylist4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/Tasks13/_05_arraylist5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/Tasks13/_05_arraylist5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/Tasks13/_06_arraylist6.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/Tasks13/_06_arraylist6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/Tasks13/_07_arraylist7.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/Tasks13/_07_arraylist7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/Tasks13/_08_arraylist8.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/Tasks13/_08_arraylist8.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/Tasks13/_09_2dArray_with_arraylis.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/Tasks13/_09_2dArray_with_arraylis.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/Tasks13/_10_arraylist12.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/Tasks13/_10_arraylist12.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/Tasks13/_11_prime_numbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/Tasks13/_11_prime_numbers.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/Tasks13/_12_array1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/Tasks13/_12_array1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/haftalikTaskler/Cache.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/haftalikTaskler/T02_IkininKuvveti.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/haftalikTaskler/T03_TasKagitMakas.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/haftalikTaskler/T04_AnagramKontrol.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/haftalikTaskler/T05_KullaniciSayiGir.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/haftalikTaskler/T07_RomaRakamlari.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/haftalikTaskler/T08_ArrayList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/haftalikTaskler/T09_ArrayList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/haftalikTaskler/T10_ArrayList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/haftalikTaskler/T11_ReversingStringCodes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/task12/_06_Array_contains.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/task12/_11_Average_of_Array.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/tasks10/Odev01Medium.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/tasks10/Odev02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/tasks10/Odev03.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/tasks10/Odev06Easy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/tasks10/Task01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/tasks10/Task02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/tasks10/Task03.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/tasks10/Task05.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/tasks10/Task06.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/tasks10/Task07.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/tasks10/Task08.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/tasks10/Task09.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/tasks10/Task11.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/tasks10/Task12.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/tasks10/Task13.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/tasks10/Task14.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/tasks10/Task15_UcusProject02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/tasks10/Task15_UcusProject03.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/tasks10/Task16_KelimeOyunu01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/tasks10/Task16_KelimeOyunu02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/zafer/aa.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/zafer/aa.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/zerrin/aa.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/zerrin/aa.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/zerrin/task12/Task01.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/zerrin/task12/Task01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/zerrin/task12/Task02.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/zerrin/task12/Task02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/zerrin/task12/Task03.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/zerrin/task12/Task03.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/zerrin/task12/Task04.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/zerrin/task12/Task04.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/zerrin/task12/Task05.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/zerrin/task12/Task05.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/zerrin/task12/Task06.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/zerrin/task12/Task06.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/zerrin/task12/Task08.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/zerrin/task12/Task08.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/zerrin/task12/Task09.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/zerrin/task12/Task09.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/zerrin/task12/Task10.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/zerrin/task12/Task10.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/zerrin/task12/Task11.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/zerrin/task12/Task11.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/zerrin/task12/Task12.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/zerrin/task12/Task12.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/zerrin/task12/Task13.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/zerrin/task12/Task13.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/zerrin/task12/Task14.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/zerrin/task12/Task14.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/zerrin/task12/Task15.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/zerrin/task12/Task15.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/zerrin/task12/Task16.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/zerrin/task12/Task16.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/zerrin/task12/Task17.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/zerrin/task12/Task17.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/zerrin/task12/Task18.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/zerrin/task12/Task18.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/zerrin/task12/Task19.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/zerrin/task12/Task19.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/zerrin/task12/_01_Create_array.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/zerrin/task12/_01_Create_array.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/zerrin/task12/_02_Create_array2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/zerrin/task12/_02_Create_array2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/zerrin/task12/_03_Create_array3_int.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/zerrin/task12/_03_Create_array3_int.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/zerrin/task12/_04_Create_Array_String.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/zerrin/task12/_04_Create_Array_String.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/zerrin/task12/_05_Array_with_for_if.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/zerrin/task12/_05_Array_with_for_if.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/zerrin/task12/_06_Array_contains.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/zerrin/task12/_06_Array_contains.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/zerrin/task12/_07_array_max_value.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/zerrin/task12/_07_array_max_value.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/zerrin/task12/_08_array_min_value.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/zerrin/task12/_08_array_min_value.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/zerrin/task12/_09_array_second_max.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/zerrin/task12/_09_array_second_max.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/zerrin/task12/_10_reverse_String.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/zerrin/task12/_10_reverse_String.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/zerrin/task12/_11_Average_of_Array.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/zerrin/task12/_11_Average_of_Array.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/zerrin/task12/_12_Array_no14.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/zerrin/task12/_12_Array_no14.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/zerrin/task12/_13_Advance_zeroFront.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/zerrin/task12/_13_Advance_zeroFront.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/zerrin/task12/_14_String_method_replace.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/zerrin/task12/_14_String_method_replace.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/zerrin/task12/_15_Word_Count.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/zerrin/task12/_15_Word_Count.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/zerrin/task12/_16_Advance_Array_get_sum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/zerrin/task12/_16_Advance_Array_get_sum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/zerrin/task12/_17_2d_Array.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/zerrin/task12/_17_2d_Array.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/zerrin/task12/_18_2d_array2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/zerrin/task12/_18_2d_array2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/zerrin/task12/_19_2d_Array_3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/zerrin/task12/_19_2d_Array_3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/zerrin/task12/_20_Arrayboth_Ends.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/zerrin/task12/_20_Arrayboth_Ends.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/zerrin/task12/_21_Array_reverse.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/zerrin/task12/_21_Array_reverse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/iclal/tasks10/C01_MethodCreation_iclal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/iclal/tasks10/C01_MethodCreation_iclal2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/iclal/tasks10/C01_MethodCreation_iclal3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/iclal/tasks10/C02_MethodCreation_iclal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/iclal/tasks10/C03_MethodCreation_iclal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/iclal/tasks10/C04_MethodOverloading_iclal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/iclal/tasks10/C04_MethodOverloading_iclal2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/iclal/tasks10/C05_CRUD_iclal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/iclal/tasks10/C05_Runner_iclal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/iclal/tasks10/C05_SwitchCaseMethods_iclal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/iclal/tasks10/C06_RecursiveMethod_iclal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/iclal/tasks10/C07_Palidrome_iclal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/iclal/tasks10/C08_AtmProject_alibey.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/iclal/tasks10/C08_AtmProject_iclal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/iclal/tasks10/C08_AtmProject_zaferhoca.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/iclal/tasks10/C09_UcuProject_furkan.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/iclal/tasks10/C09_UcuProject_iclal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/iclal/tasks10/Odev01Medium.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/iclal/tasks10/Odev02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/iclal/tasks10/Odev03.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/iclal/tasks10/Odev06Easy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/iclal/tasks10/Task01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/iclal/tasks10/Task01_iclal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/iclal/tasks10/Task02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/iclal/tasks10/Task02_iclal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/iclal/tasks10/Task03.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/iclal/tasks10/Task03_iclal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/iclal/tasks10/Task05.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/iclal/tasks10/Task05_iclal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/iclal/tasks10/Task05_iclal2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/iclal/tasks10/Task05_iclal3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/iclal/tasks10/Task06.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/iclal/tasks10/Task06_iclal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/iclal/tasks10/Task07.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/iclal/tasks10/Task07_iclal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/iclal/tasks10/Task07_iclal2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/iclal/tasks10/Task08.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/iclal/tasks10/Task08_iclal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/iclal/tasks10/Task09.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/iclal/tasks10/Task09_iclal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/iclal/tasks10/Task10eklmedieksikdegil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/iclal/tasks10/Task11.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/iclal/tasks10/Task11_iclal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/iclal/tasks10/Task12.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/iclal/tasks10/Task12_iclal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/iclal/tasks10/Task13.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/iclal/tasks10/Task13_iclal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/iclal/tasks10/Task14.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/iclal/tasks10/Task14_iclal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/iclal/tasks10/Task15_UcusProject02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/iclal/tasks10/Task15_UcusProject03.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/iclal/tasks10/Task16_KelimeOyunu01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/iclal/tasks10/Task16_KelimeOyunu02.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,9 +292,22 @@
     <option name="BRANCH" value="origin/meryem" />
   </component>
   <component name="Git.Settings">
+    <excluded-from-favorite>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="master" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </excluded-from-favorite>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="iclal4" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -49,14 +331,58 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/pc/IdeaProjects/Tasks/src&quot;
+    &quot;last_opened_file_path&quot;: &quot;/Users/igor/Desktop/JAVA/codes-zafer/tasks/src/iclal&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/iclal" />
       <recent name="C:\Users\pc\IdeaProjects\Tasks\src" />
       <recent name="C:\Users\Q-3442 HASAN\IdeaProjects\tasks\src\hasancln18" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/iclal/Task20" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="iclal.Task20" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.T02_Runner">
+    <configuration name="T02_Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="iclal.Task20.T02_Runner" />
+      <module name="tasks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="iclal.Task20.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="T04_Runner_tahabey" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="iclal.Task20.T04_Runner_tahabey" />
+      <module name="tasks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="iclal.Task20.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.T04_Runner_tahabey" />
+        <item itemvalue="Application.T02_Runner" />
+        <item itemvalue="Application.T04_Runner_tahabey" />
+        <item itemvalue="Application.T02_Runner" />
+        <item itemvalue="Application.T04_Runner_tahabey" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -85,11 +411,45 @@
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="User">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="*" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ID_WIDTH">
+                <map>
+                  <entry key="Table.Default.Author.ColumnIdWidth" value="74" />
+                  <entry key="Table.Default.Date.ColumnIdWidth" value="53" />
+                  <entry key="Table.Space.CommitStatus.ColumnIdWidth" value="49" />
+                </map>
+              </option>
+              <option name="FILTERS">
+                <map>
+                  <entry key="user">
+                    <value>
+                      <list>
+                        <option value="*" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -99,6 +459,7 @@
     <MESSAGE value="ilk" />
     <MESSAGE value="s" />
     <MESSAGE value="ozel taks eklendi" />
-    <option name="LAST_COMMIT_MESSAGE" value="ozel taks eklendi" />
+    <MESSAGE value="tasks deneme commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="tasks deneme commit" />
   </component>
 </project>
