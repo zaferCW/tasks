@@ -4,11 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="87c16577-ad06-41ee-ab96-8953c8d893fe" name="Changes" comment="task 24 added" />
+    <list default="true" id="87c16577-ad06-41ee-ab96-8953c8d893fe" name="Changes" comment="task 24 added">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Merge.Settings">
+    <option name="BRANCH" value="master" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
@@ -21,7 +26,114 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "last_opened_file_path": "C:/Users/Lenovo/IdeaProjects/tasks/src"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Lenovo\IdeaProjects\tasks\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.MustafaAba.tasks12.Task04">
+    <configuration name="MustafaAba.tasks12.Task04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MustafaAba.tasks12.Task04" />
+      <module name="Tasks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="MustafaAba.tasks12.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MustafaAba.task12.Task05" />
+      <module name="Tasks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="MustafaAba.task12.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task09" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MustafaAba.Tasks13.Task09" />
+      <module name="Tasks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="MustafaAba.Tasks13.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_01_arraylist1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MustafaAba.Tasks13._01_arraylist1" />
+      <module name="Tasks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="MustafaAba.Tasks13.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_11_Average_of_Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MustafaAba.tasks12._11_Average_of_Array" />
+      <module name="Tasks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="MustafaAba.tasks12.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="tasks" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="tasks" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Task09" />
+        <item itemvalue="Application.Task05" />
+        <item itemvalue="Application.MustafaAba.tasks12.Task04" />
+        <item itemvalue="Application._11_Average_of_Array" />
+        <item itemvalue="Application._01_arraylist1" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="TaskManager">
+    <task id="LOCAL-00001" summary="task 24 added">
+      <created>1689752405416</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1689752405416</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -46,5 +158,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="task 24 added" />
+    <option name="LAST_COMMIT_MESSAGE" value="task 24 added" />
   </component>
 </project>
