@@ -1,0 +1,1006 @@
+Index: src/hasancln18/task12/_01_Create_array.java
+===================================================================
+diff --git a/src/hasancln18/task12/_01_Create_array.java b/src/hasancln18/task12/_01_Create_array.java
+deleted file mode 100644
+--- a/src/hasancln18/task12/_01_Create_array.java	(revision 19d68bcec840714ed54467a2ff776b5ff480590f)
++++ /dev/null	(revision 19d68bcec840714ed54467a2ff776b5ff480590f)
+@@ -1,21 +0,0 @@
+-package hasancln18.task12;
+-
+-import java.lang.reflect.Array;
+-import java.util.Arrays;
+-
+-public class _01_Create_array {
+-
+-    public static void main(String[] args) {
+-        /*
+-        String Array (Dizi) oluşturunuz.
+-        elemanları : Apple, Orange , Banana, Kiwi
+-        Array'leri tüm elemanları yazdırınız.
+-         */
+-
+-        //Kodu aşağıya yazınız.
+-        String [] dizi={"elema","armut"};
+-        System.out.println("Arrays.toString(dizi) = " + Arrays.toString(dizi));
+-
+-
+-    }
+-}
+Index: src/hasancln18/task12/_02_Create_array2.java
+===================================================================
+diff --git a/src/hasancln18/task12/_02_Create_array2.java b/src/hasancln18/task12/_02_Create_array2.java
+deleted file mode 100644
+--- a/src/hasancln18/task12/_02_Create_array2.java	(revision 19d68bcec840714ed54467a2ff776b5ff480590f)
++++ /dev/null	(revision 19d68bcec840714ed54467a2ff776b5ff480590f)
+@@ -1,23 +0,0 @@
+-package hasancln18.task12;
+-
+-public class _02_Create_array2 {
+-
+-    public static void main(String[] args) {
+-
+-    /*          int Array oluşturun.
+-                elemanları : 13, 15,14,16,16
+-                Arrayin elemanlarını yazdırın.
+-     */
+-        // Kodu aşağıya yazınız..
+-
+-
+-    }
+-}
+-
+-
+-
+-
+-
+-
+-
+-
+Index: src/hasancln18/task12/_03_Create_array3_int.java
+===================================================================
+diff --git a/src/hasancln18/task12/_03_Create_array3_int.java b/src/hasancln18/task12/_03_Create_array3_int.java
+deleted file mode 100644
+--- a/src/hasancln18/task12/_03_Create_array3_int.java	(revision 19d68bcec840714ed54467a2ff776b5ff480590f)
++++ /dev/null	(revision 19d68bcec840714ed54467a2ff776b5ff480590f)
+@@ -1,16 +0,0 @@
+-package hasancln18.task12;
+-
+-public class _03_Create_array3_int {
+-
+-    public static void main(String[] args) {
+-
+-    /*    İnt Array oluştur ve elemanları   : 25,30,30,35,100
+-          Array in elemanlarının toplamını yazdır.
+-          Cevap 220 olmalı.
+-     */
+-
+-        //Kodu aşağıya yazınız..
+-
+-
+-    }
+-}
+\ No newline at end of file
+Index: src/hasancln18/task12/_04_Create_Array_String.java
+===================================================================
+diff --git a/src/hasancln18/task12/_04_Create_Array_String.java b/src/hasancln18/task12/_04_Create_Array_String.java
+deleted file mode 100644
+--- a/src/hasancln18/task12/_04_Create_Array_String.java	(revision 19d68bcec840714ed54467a2ff776b5ff480590f)
++++ /dev/null	(revision 19d68bcec840714ed54467a2ff776b5ff480590f)
+@@ -1,17 +0,0 @@
+-package hasancln18.task12;
+-
+-public class _04_Create_Array_String {
+-
+-    public static void main(String[] args) {
+-
+-        /*
+-        String array  oluşturun ve elemanları: "new jersey" , "new york", "boston","California"
+-        Array'daki eleman sayısını yazdırınız.
+-        Cevap 4 olmalı.
+-         */
+-
+-        // Kodu aşağıya yazınız..
+-
+-
+-    }
+-}
+Index: src/hasancln18/task12/_05_Array_with_for_if.java
+===================================================================
+diff --git a/src/hasancln18/task12/_05_Array_with_for_if.java b/src/hasancln18/task12/_05_Array_with_for_if.java
+deleted file mode 100644
+--- a/src/hasancln18/task12/_05_Array_with_for_if.java	(revision 19d68bcec840714ed54467a2ff776b5ff480590f)
++++ /dev/null	(revision 19d68bcec840714ed54467a2ff776b5ff480590f)
+@@ -1,19 +0,0 @@
+-package hasancln18.task12;
+-
+-public class _05_Array_with_for_if {
+-
+-    public static void main(String[] args) {
+-
+-        /*
+-        int Array oluşturun ve elemanları : 5,6,8,12,14,19
+-        Eğer sayı çiftse topla, tekse çıkar.
+-        Örneğin:
+-         -5 + 6 + 8 + 12 + 14 - 19 = 16
+-        Toplamlarını yazdırın.
+-         */
+-
+-        //Kodu aşağıya yazınız.
+-
+-
+-    }
+-}
+Index: src/hasancln18/task12/_06_Array_contains.java
+===================================================================
+diff --git a/src/hasancln18/task12/_06_Array_contains.java b/src/hasancln18/task12/_06_Array_contains.java
+deleted file mode 100644
+--- a/src/hasancln18/task12/_06_Array_contains.java	(revision 19d68bcec840714ed54467a2ff776b5ff480590f)
++++ /dev/null	(revision 19d68bcec840714ed54467a2ff776b5ff480590f)
+@@ -1,18 +0,0 @@
+-package hasancln18.task12;
+-
+-public class _06_Array_contains {
+-
+-    public static void main(String[] args) {
+-
+-        /*
+-        String array oluşturun ve elemanları : Apple , Orange , Banana , Pineapple
+-        Apple elemanının bu Array'a ait olup olmadığını kontrol edin.
+-        Eğer aitse "true" çevirin.
+-        Loops (döngüler) kullanın.
+-         */
+-
+-        //Kodu aşağıya yazınız..
+-
+-
+-    }
+-}
+Index: src/hasancln18/task12/_07_array_max_value.java
+===================================================================
+diff --git a/src/hasancln18/task12/_07_array_max_value.java b/src/hasancln18/task12/_07_array_max_value.java
+deleted file mode 100644
+--- a/src/hasancln18/task12/_07_array_max_value.java	(revision 19d68bcec840714ed54467a2ff776b5ff480590f)
++++ /dev/null	(revision 19d68bcec840714ed54467a2ff776b5ff480590f)
+@@ -1,17 +0,0 @@
+-package hasancln18.task12;
+-
+-public class _07_array_max_value {
+-
+-    public static void main(String[] args) {
+-
+-        /*
+-            int Array oluşturun ve elemanları : 12,2,5,15,8
+-            En büyük değeri yazdırınız.
+-         */
+-
+-        // code start here
+-
+-
+-    }
+-}
+-
+Index: src/hasancln18/task12/_08_array_min_value.java
+===================================================================
+diff --git a/src/hasancln18/task12/_08_array_min_value.java b/src/hasancln18/task12/_08_array_min_value.java
+deleted file mode 100644
+--- a/src/hasancln18/task12/_08_array_min_value.java	(revision 19d68bcec840714ed54467a2ff776b5ff480590f)
++++ /dev/null	(revision 19d68bcec840714ed54467a2ff776b5ff480590f)
+@@ -1,17 +0,0 @@
+-package hasancln18.task12;
+-
+-public class _08_array_min_value {
+-
+-    public static void main(String[] args) {
+-
+-        /*
+-        int Array oluşturun ve elemanları : 14 , 19 , 5 , 21
+-        En küçük (minimum) sayıyı yazdırınız.
+-         */
+-
+-        // Kodu aşağıya yazınız..
+-
+-
+-    }
+-}
+-
+Index: src/hasancln18/task12/_09_array_second_max.java
+===================================================================
+diff --git a/src/hasancln18/task12/_09_array_second_max.java b/src/hasancln18/task12/_09_array_second_max.java
+deleted file mode 100644
+--- a/src/hasancln18/task12/_09_array_second_max.java	(revision 19d68bcec840714ed54467a2ff776b5ff480590f)
++++ /dev/null	(revision 19d68bcec840714ed54467a2ff776b5ff480590f)
+@@ -1,17 +0,0 @@
+-package hasancln18.task12;
+-
+-public class _09_array_second_max {
+-
+-    public static void main(String[] args) {
+-
+-        /*
+-        int Array oluşturun ve elemanları : 15 , 25, 22, 18, 30
+-        Arraydaki en büyük 2. elemanı yazdıran bir program yazın.
+-         */
+-
+-        // Kodu aşağıya yazınız..
+-
+-
+-
+-    }
+-}
+Index: src/hasancln18/task12/_10_reverse_String.java
+===================================================================
+diff --git a/src/hasancln18/task12/_10_reverse_String.java b/src/hasancln18/task12/_10_reverse_String.java
+deleted file mode 100644
+--- a/src/hasancln18/task12/_10_reverse_String.java	(revision 19d68bcec840714ed54467a2ff776b5ff480590f)
++++ /dev/null	(revision 19d68bcec840714ed54467a2ff776b5ff480590f)
+@@ -1,14 +0,0 @@
+-package hasancln18.task12;
+-
+-public class _10_reverse_String {
+-
+-    public static void main(String[] args) {
+-
+-        /*
+-        Bir String oluşturun : "Hello World"
+-        Stringi tersten yazdırın ve print edin.
+-        Cevap böyle olmalı :  "dlroW olleH"
+-         */
+-
+-    }
+-}
+\ No newline at end of file
+Index: src/hasancln18/task12/_11_Average_of_Array.java
+===================================================================
+diff --git a/src/hasancln18/task12/_11_Average_of_Array.java b/src/hasancln18/task12/_11_Average_of_Array.java
+deleted file mode 100644
+--- a/src/hasancln18/task12/_11_Average_of_Array.java	(revision 19d68bcec840714ed54467a2ff776b5ff480590f)
++++ /dev/null	(revision 19d68bcec840714ed54467a2ff776b5ff480590f)
+@@ -1,16 +0,0 @@
+-package hasancln18.task12;
+-
+-public class _11_Average_of_Array {
+-
+-    public static void main(String[] args) {
+-
+-        /*
+-        int Array oluşturun ve elemanları : 12, 14 , 21 ,23 , 10 ,4
+-        Array'in ortalamasını alınız.
+-         */
+-
+-        //Kodu aşağıya yazınız.
+-
+-
+-    }
+-}
+\ No newline at end of file
+Index: src/hasancln18/task12/_12_Array_no14.java
+===================================================================
+diff --git a/src/hasancln18/task12/_12_Array_no14.java b/src/hasancln18/task12/_12_Array_no14.java
+deleted file mode 100644
+--- a/src/hasancln18/task12/_12_Array_no14.java	(revision 19d68bcec840714ed54467a2ff776b5ff480590f)
++++ /dev/null	(revision 19d68bcec840714ed54467a2ff776b5ff480590f)
+@@ -1,27 +0,0 @@
+-package hasancln18.task12;
+-
+-public class _12_Array_no14 {
+-
+-    public static void main(String[] args) {
+-
+-        /*
+-        int array oluşturun (intArr)
+-        Eğer 1 " ve" 4 elemanlarına aynı anda sahip değilse true dönsün.
+-        Eğer 1 ve 4 elemanlarına aynı anda sahipse false dönsün.
+-
+-        no14([1, 2, 3]) → true
+-        no14([1, 2, 3, 4]) → false
+-        no14([2, 3, 4]) → true
+-
+-        bir array oluşturun ve elemanları : 1,2,3,4
+-        Sonuç false olmalı
+-        NOT: Array elemanlarını 1,2,3 olarak değiştirirseniz sonuç doğru olmalı
+-         */
+-
+-        // code start here
+-
+-
+-
+-
+-    }
+-}
+\ No newline at end of file
+Index: src/hasancln18/task12/_13_Advance_zeroFront.java
+===================================================================
+diff --git a/src/hasancln18/task12/_13_Advance_zeroFront.java b/src/hasancln18/task12/_13_Advance_zeroFront.java
+deleted file mode 100644
+--- a/src/hasancln18/task12/_13_Advance_zeroFront.java	(revision 19d68bcec840714ed54467a2ff776b5ff480590f)
++++ /dev/null	(revision 19d68bcec840714ed54467a2ff776b5ff480590f)
+@@ -1,23 +0,0 @@
+-package hasancln18.task12;
+-
+-public class _13_Advance_zeroFront {
+-
+-    public static void main(String[] args) {
+-
+-      /*
+-
+-   Verilen Array tam olarak aynı sayıları içeren, ancak tüm sıfırların dizinin başında gruplandırılması
+-   için yeniden düzenlenmiş bir Array döndürün.
+-   Sıfır olmayan sayıların sırası önemli değildir.
+-   Böylece {1, 0, 0, 1} {0, 0, 1, 1} olur. Verilen diziyi değiştirebilir ve döndürebilir veya yeni bir dizi oluşturabilirsiniz.
+-
+-   Bu şekilde bir Array oluşturunuz: 1,0,0,1,0
+-   Sonuç böyle olmalı :  0,0,0,1,1
+-
+-       */
+-
+-        // Kodu aşağıya yazınız..
+-
+-
+-    }
+-}
+\ No newline at end of file
+Index: src/hasancln18/task12/_14_String_method_replace.java
+===================================================================
+diff --git a/src/hasancln18/task12/_14_String_method_replace.java b/src/hasancln18/task12/_14_String_method_replace.java
+deleted file mode 100644
+--- a/src/hasancln18/task12/_14_String_method_replace.java	(revision 19d68bcec840714ed54467a2ff776b5ff480590f)
++++ /dev/null	(revision 19d68bcec840714ed54467a2ff776b5ff480590f)
+@@ -1,16 +0,0 @@
+-package hasancln18.task12;
+-
+-public class _14_String_method_replace {
+-
+-    public static void main(String[] args) {
+-
+-        /*
+-        Bu String'i oluşturunuz.  "Hello World"
+-        "o" harfleri yerine "K" yerleştiriniz.
+-        Sonuç bu şekilde olmalıdır:
+-        HellK WKrld
+-         */
+-
+-
+-    }
+-}
+\ No newline at end of file
+Index: src/hasancln18/task12/_15_Word_Count.java
+===================================================================
+diff --git a/src/hasancln18/task12/_15_Word_Count.java b/src/hasancln18/task12/_15_Word_Count.java
+deleted file mode 100644
+--- a/src/hasancln18/task12/_15_Word_Count.java	(revision 19d68bcec840714ed54467a2ff776b5ff480590f)
++++ /dev/null	(revision 19d68bcec840714ed54467a2ff776b5ff480590f)
+@@ -1,16 +0,0 @@
+-package hasancln18.task12;
+-
+-public class _15_Word_Count {
+-
+-    public static void main(String[] args) {
+-
+-        /*
+-        Bu String'i oluşturun. "Removes white space from both ends of a string"
+-        String'deki kelime sayısını yazdırınız.
+-         */
+-
+-        //Kodu aşağıya yazınız.
+-
+-
+-    }
+-}
+\ No newline at end of file
+Index: src/hasancln18/task12/_16_Advance_Array_get_sum.java
+===================================================================
+diff --git a/src/hasancln18/task12/_16_Advance_Array_get_sum.java b/src/hasancln18/task12/_16_Advance_Array_get_sum.java
+deleted file mode 100644
+--- a/src/hasancln18/task12/_16_Advance_Array_get_sum.java	(revision 19d68bcec840714ed54467a2ff776b5ff480590f)
++++ /dev/null	(revision 19d68bcec840714ed54467a2ff776b5ff480590f)
+@@ -1,17 +0,0 @@
+-package hasancln18.task12;
+-
+-public class _16_Advance_Array_get_sum {
+-
+-    public static void main(String[] args) {
+-
+-        /*
+-        Bu şekilde bir String oluşturunuz.  "$12 $23 $10 $2 $5 $2"
+-        $ işaretlerini kaldırın ve sayıları toplayın.
+-        Sayıların toplamını yazdırın.
+-         */
+-
+-        //Kodu aşağıya yazınız.
+-
+-
+-    }
+-}
+\ No newline at end of file
+Index: src/hasancln18/task12/_17_2d_Array.java
+===================================================================
+diff --git a/src/hasancln18/task12/_17_2d_Array.java b/src/hasancln18/task12/_17_2d_Array.java
+deleted file mode 100644
+--- a/src/hasancln18/task12/_17_2d_Array.java	(revision 19d68bcec840714ed54467a2ff776b5ff480590f)
++++ /dev/null	(revision 19d68bcec840714ed54467a2ff776b5ff480590f)
+@@ -1,19 +0,0 @@
+-package hasancln18.task12;
+-
+-public class _17_2d_Array {
+-
+-    public static void main(String[] args) {
+-
+-        /*
+-        Şu şekilde olan bir 2D int Array'î oluşturunuz.  [{2,3,2} , {4,1,5} , {7,2,5}]
+-        Bütün 2'leri 6'yla değiştirin.
+-        Array'i yazdırınız.
+-         */
+-
+-        //Kodu aşağıya yazınız.
+-
+-
+-
+-
+-    }
+-}
+\ No newline at end of file
+Index: src/hasancln18/task12/_18_2d_array2.java
+===================================================================
+diff --git a/src/hasancln18/task12/_18_2d_array2.java b/src/hasancln18/task12/_18_2d_array2.java
+deleted file mode 100644
+--- a/src/hasancln18/task12/_18_2d_array2.java	(revision 19d68bcec840714ed54467a2ff776b5ff480590f)
++++ /dev/null	(revision 19d68bcec840714ed54467a2ff776b5ff480590f)
+@@ -1,18 +0,0 @@
+-package hasancln18.task12;
+-
+-public class _18_2d_array2 {
+-
+-    public static void main(String[] args) {
+-
+-        /*
+-        Şu şekilde olan bir 2D int Array'i oluşturunuz.  [{5,2,1} , {10,2,3,6} , {1,2}]
+-        2D array'de olan elemanları toplayınız.
+-        toplamı yazdırınız.
+-        Sonuç 32 olmalıdır.
+-         */
+-
+-        //Kodu aşağıya yazınız.
+-
+-
+-    }
+-}
+\ No newline at end of file
+Index: src/hasancln18/task12/_19_2d_Array_3.java
+===================================================================
+diff --git a/src/hasancln18/task12/_19_2d_Array_3.java b/src/hasancln18/task12/_19_2d_Array_3.java
+deleted file mode 100644
+--- a/src/hasancln18/task12/_19_2d_Array_3.java	(revision 19d68bcec840714ed54467a2ff776b5ff480590f)
++++ /dev/null	(revision 19d68bcec840714ed54467a2ff776b5ff480590f)
+@@ -1,21 +0,0 @@
+-package hasancln18.task12;
+-
+-public class _19_2d_Array_3 {
+-
+-    public static void main(String[] args) {
+-
+-        /*
+-        Aşağıdaki gibi olan bir 2D String Array oluşturunuz.
+-        [{"new jersey","atlanta","ohio"} ,
+-        {"Pittsburgh" ,"ohio","new york","ohio"} ,
+-        {"ohio","new york"}]
+-        Bütün ohio'ları Florida'yla değiştiriniz.
+-        Array'i yazdırınız.
+-
+-         */
+-
+-
+-
+-    }
+-}
+-
+Index: src/hasancln18/task12/_20_Arrayboth_Ends.java
+===================================================================
+diff --git a/src/hasancln18/task12/_20_Arrayboth_Ends.java b/src/hasancln18/task12/_20_Arrayboth_Ends.java
+deleted file mode 100644
+--- a/src/hasancln18/task12/_20_Arrayboth_Ends.java	(revision 19d68bcec840714ed54467a2ff776b5ff480590f)
++++ /dev/null	(revision 19d68bcec840714ed54467a2ff776b5ff480590f)
+@@ -1,19 +0,0 @@
+-package hasancln18.task12;
+-
+-public class _20_Arrayboth_Ends {
+-
+-    public static void main(String[] args) {
+-
+-     /*
+-     Oluşturacağınız int array'ini, length'i(eleman sayısı) 2 olan ve int array'inin(ilk oluşturduğunuz array)
+-     ilk ve son elementlerini kapsayan yeni array'e return edin.
+-
+-    Oluşturacağınız int array'i =   ([1, 2, 3, 4])
+-
+-    Sonuç bu şekilde olmalıdır. [1, 4]
+-      */
+-        //Kodu aşağıya yazınız..
+-
+-
+-    }
+-}
+\ No newline at end of file
+Index: src/hasancln18/task12/_21_Array_reverse.java
+===================================================================
+diff --git a/src/hasancln18/task12/_21_Array_reverse.java b/src/hasancln18/task12/_21_Array_reverse.java
+deleted file mode 100644
+--- a/src/hasancln18/task12/_21_Array_reverse.java	(revision 19d68bcec840714ed54467a2ff776b5ff480590f)
++++ /dev/null	(revision 19d68bcec840714ed54467a2ff776b5ff480590f)
+@@ -1,20 +0,0 @@
+-package hasancln18.task12;
+-
+-public class _21_Array_reverse {
+-
+-    public static void main(String[] args) {
+-
+-        /*
+-        Girilen 123 Intiger'ının basamaklarını ters çevirin.
+-        Örnek:
+-        Input(girdi): 123
+-        Output(çıktı): 321
+-         */
+-
+-        //Kodu aşağıya yazınız.
+-
+-
+-    }
+-}
+-
+-
+Index: src/hasancln18/abc.java
+===================================================================
+diff --git a/src/hasancln18/abc.java b/src/hasancln18/abc.java
+deleted file mode 100644
+--- a/src/hasancln18/abc.java	(revision 19d68bcec840714ed54467a2ff776b5ff480590f)
++++ /dev/null	(revision 19d68bcec840714ed54467a2ff776b5ff480590f)
+@@ -1,4 +0,0 @@
+-package hasancln18;
+-
+-public class abc {
+-}
+Index: src/hasancln18/task12/Task01.java
+===================================================================
+diff --git a/src/hasancln18/task12/Task01.java b/src/hasancln18/task12/Task01.java
+deleted file mode 100644
+--- a/src/hasancln18/task12/Task01.java	(revision 19d68bcec840714ed54467a2ff776b5ff480590f)
++++ /dev/null	(revision 19d68bcec840714ed54467a2ff776b5ff480590f)
+@@ -1,33 +0,0 @@
+-package hasancln18.task12;
+-
+-import java.util.Arrays;
+-import java.util.Scanner;
+-
+-public class Task01 {
+-    public static void main(String[] args) {
+-        //Task-> kullanıcidan alınan değerlerle bir int array elemanlarını bukukten kucuge   print eden code create ediniz.
+-
+-        Scanner input=new Scanner(System.in);
+-
+-        System.out.println("kac elamanli array istersin");
+-        int boyut=input.nextInt();
+-
+-        int [] arr=new int[boyut];//kullaniciidan alinan deger yeni array in boyutu olarak belirlendi
+-
+-        for (int i = 0; i < boyut ; i++) {
+-            System.out.println(i+1 +". nci degeri gir");
+-            arr[i]=input.nextInt();//boyut kadar kullanicindan deger alinarak arr array inin elemanlari atandi
+-        }
+-        System.out.println("seniin istedigin array budur = "+ Arrays.toString(arr));
+-
+-        Arrays.sort(arr);//burada array kucukten buyuge siralandi
+-
+-        for (int i = arr.length-1/*en buyuk eleman en sagda oldugu icin ordan basladik*/; i >=0 ; i--) {
+-            System.out.print( arr[i]+" ");
+-        }
+-
+-
+-
+-
+-    }
+-}
+Index: src/hasancln18/task12/Task02.java
+===================================================================
+diff --git a/src/hasancln18/task12/Task02.java b/src/hasancln18/task12/Task02.java
+deleted file mode 100644
+--- a/src/hasancln18/task12/Task02.java	(revision 19d68bcec840714ed54467a2ff776b5ff480590f)
++++ /dev/null	(revision 19d68bcec840714ed54467a2ff776b5ff480590f)
+@@ -1,29 +0,0 @@
+-package hasancln18.task12;
+-
+-import java.util.Arrays;
+-import java.util.Scanner;
+-
+-public class Task02 {
+-    public static void main(String[] args) {
+-        //task-> girilen int array elemanları toplamını print eden code create ediniz.
+-
+-        Scanner input=new Scanner(System.in);
+-
+-        System.out.println("kac elamanli array istersin");
+-        int boyut=input.nextInt();
+-
+-        int [] arr=new int[boyut];//kullaniciidan alinan deger yeni array in boyutu olarak belirlendi
+-        int toplam=0;
+-
+-        for (int i = 0; i < boyut ; i++) {
+-            System.out.println(i+1 +". nci degeri gir");
+-            arr[i]=input.nextInt();//boyut kadar kullanicindan deger alinarak arr array inin elemanlari atandi
+-            toplam+=arr[i];
+-        }
+-        System.out.println("seniin istedigin array budur = "+ Arrays.toString(arr));//seniin istedigin array budur = [10, 20, 30]
+-        System.out.println("toplam = " + toplam);//toplam = 60
+-
+-
+-
+-    }
+-}
+Index: src/hasancln18/task12/Task03.java
+===================================================================
+diff --git a/src/hasancln18/task12/Task03.java b/src/hasancln18/task12/Task03.java
+deleted file mode 100644
+--- a/src/hasancln18/task12/Task03.java	(revision 19d68bcec840714ed54467a2ff776b5ff480590f)
++++ /dev/null	(revision 19d68bcec840714ed54467a2ff776b5ff480590f)
+@@ -1,19 +0,0 @@
+-package hasancln18.task12;
+-
+-public class Task03 {
+-
+-    public static void main(String[] args) {
+-		
+-		 /*
+-       Task-> Verilen  bir arrayin tum elemanlarini
+-        bir soldaki konuma print eden code create ediniz
+-       input:  [1,2, 3]
+-        output [2, 3, 1]
+-        */
+-// arraydeki her bir elemani index degeri kadar artiralim
+-
+-
+-
+-    }
+-
+-}
+Index: src/hasancln18/task12/Task04.java
+===================================================================
+diff --git a/src/hasancln18/task12/Task04.java b/src/hasancln18/task12/Task04.java
+deleted file mode 100644
+--- a/src/hasancln18/task12/Task04.java	(revision 19d68bcec840714ed54467a2ff776b5ff480590f)
++++ /dev/null	(revision 19d68bcec840714ed54467a2ff776b5ff480590f)
+@@ -1,15 +0,0 @@
+-package hasancln18.task12;
+-
+-import java.util.Scanner;
+-
+-public class Task04 {
+-    public static void main(String[] args) {
+-        // task-> girilen bir int array elamanlarından  ortlamadan buyuk olan eleman sayısını print eden code create ediniz
+-        Scanner sc = new Scanner(System.in);
+-
+-
+-
+-    }
+-
+-
+-}
+Index: src/hasancln18/task12/Task05.java
+===================================================================
+diff --git a/src/hasancln18/task12/Task05.java b/src/hasancln18/task12/Task05.java
+deleted file mode 100644
+--- a/src/hasancln18/task12/Task05.java	(revision 19d68bcec840714ed54467a2ff776b5ff480590f)
++++ /dev/null	(revision 19d68bcec840714ed54467a2ff776b5ff480590f)
+@@ -1,15 +0,0 @@
+-package hasancln18.task12;
+-
+-public class Task05 {
+-
+-
+-    public static void main(String[] args) {
+-        // Task-> girilen int değeri tersten print eden code create ediniz.
+-
+-
+-
+-
+-
+-    }
+-
+-}
+Index: src/hasancln18/task12/Task06.java
+===================================================================
+diff --git a/src/hasancln18/task12/Task06.java b/src/hasancln18/task12/Task06.java
+deleted file mode 100644
+--- a/src/hasancln18/task12/Task06.java	(revision 19d68bcec840714ed54467a2ff776b5ff480590f)
++++ /dev/null	(revision 19d68bcec840714ed54467a2ff776b5ff480590f)
+@@ -1,11 +0,0 @@
+-package hasancln18.task12;
+-
+-public class Task06 {
+-    public static void main(String[] args) {
+-        // Task-> verilen bir int arrayi elemanlrını buyukten kucuge siralayip return eden METHOD create ediniz
+-
+-
+-    }
+-
+-
+-}
+Index: src/hasancln18/task12/Task08.java
+===================================================================
+diff --git a/src/hasancln18/task12/Task08.java b/src/hasancln18/task12/Task08.java
+deleted file mode 100644
+--- a/src/hasancln18/task12/Task08.java	(revision 19d68bcec840714ed54467a2ff776b5ff480590f)
++++ /dev/null	(revision 19d68bcec840714ed54467a2ff776b5ff480590f)
+@@ -1,10 +0,0 @@
+-package hasancln18.task12;
+-
+-public class Task08 {
+-    public static void main(String[] args) {
+-        //Task-> girilen 7 elemanlı bir int  arrayın tek elemanlarını print eden code create ediniz.
+-
+-
+-
+-    }
+-}
+Index: src/hasancln18/task12/Task09.java
+===================================================================
+diff --git a/src/hasancln18/task12/Task09.java b/src/hasancln18/task12/Task09.java
+deleted file mode 100644
+--- a/src/hasancln18/task12/Task09.java	(revision 19d68bcec840714ed54467a2ff776b5ff480590f)
++++ /dev/null	(revision 19d68bcec840714ed54467a2ff776b5ff480590f)
+@@ -1,9 +0,0 @@
+-package hasancln18.task12;
+-
+-public class Task09 {
+-    public static void main(String[] args) {
+-        // Task -> Kullanıcıdan alacağınız 5 adet sayıyı , girişi sırasına göre tersten print eden code create ediniz
+-
+-
+-    }
+-}
+Index: src/hasancln18/task12/Task10.java
+===================================================================
+diff --git a/src/hasancln18/task12/Task10.java b/src/hasancln18/task12/Task10.java
+deleted file mode 100644
+--- a/src/hasancln18/task12/Task10.java	(revision 19d68bcec840714ed54467a2ff776b5ff480590f)
++++ /dev/null	(revision 19d68bcec840714ed54467a2ff776b5ff480590f)
+@@ -1,19 +0,0 @@
+-package hasancln18.task12;
+-
+-public class Task10 {
+-
+-    public static void main(String[] args) {
+-        /* TASK :
+-        bir int Array elemanlarinin işaretini(+-)degistiren  bir method create ediniz.
+-        input : 1,2,-3,4,-5,-6
+-        output :-1,-2,3,-4,5,6
+-
+-         */
+-
+-
+-
+-
+-    }
+-
+-
+-}
+Index: src/hasancln18/task12/Task11.java
+===================================================================
+diff --git a/src/hasancln18/task12/Task11.java b/src/hasancln18/task12/Task11.java
+deleted file mode 100644
+--- a/src/hasancln18/task12/Task11.java	(revision 19d68bcec840714ed54467a2ff776b5ff480590f)
++++ /dev/null	(revision 19d68bcec840714ed54467a2ff776b5ff480590f)
+@@ -1,15 +0,0 @@
+-package hasancln18.task12;
+-
+-public class Task11 {
+-    public static void main(String[] args) {
+-        /*
+-		 TASK :
+-		 $ ve  £  isareti olanlarin toplamlarini ayri ayri bulup yazdıran java code create ediniz.
+-        String str = "$1 $23 $134 $2 $7 $24 £32 £40 £2 £65 £4 ";
+-        */
+-
+-
+-
+-
+-    }
+-}
+Index: src/hasancln18/task12/Task12.java
+===================================================================
+diff --git a/src/hasancln18/task12/Task12.java b/src/hasancln18/task12/Task12.java
+deleted file mode 100644
+--- a/src/hasancln18/task12/Task12.java	(revision 19d68bcec840714ed54467a2ff776b5ff480590f)
++++ /dev/null	(revision 19d68bcec840714ed54467a2ff776b5ff480590f)
+@@ -1,18 +0,0 @@
+-package hasancln18.task12;
+-
+-public class Task12 {
+-
+-    public static void main(String[] args) {
+-		/* TASK :
+-        given an int array and find the squares of the elements
+-        (Verilen bir int dizisi icin elemanlarin karelerini print eden code create ediniz.)
+-        Example:{2,6,4,5,8,9}
+-        output:{4,36,16,25,64,81}
+-        */
+-
+-
+-
+-
+-    }
+-
+-}
+Index: src/hasancln18/task12/Task13.java
+===================================================================
+diff --git a/src/hasancln18/task12/Task13.java b/src/hasancln18/task12/Task13.java
+deleted file mode 100644
+--- a/src/hasancln18/task12/Task13.java	(revision 19d68bcec840714ed54467a2ff776b5ff480590f)
++++ /dev/null	(revision 19d68bcec840714ed54467a2ff776b5ff480590f)
+@@ -1,16 +0,0 @@
+-package hasancln18.task12;
+-
+-public class Task13 {
+-
+-    public static void main(String[] args) {
+-        /* TASK :
+-         Kullanicidan aldigimiz 8 elemanli arrayin icinde
+-        3 e bolunebilen sayi adedini print eden java code create ediniz (negatif sayilar da dahil olsun)
+-
+-         */
+-
+-
+-
+-    }
+-
+-}
+Index: src/hasancln18/task12/Task14.java
+===================================================================
+diff --git a/src/hasancln18/task12/Task14.java b/src/hasancln18/task12/Task14.java
+deleted file mode 100644
+--- a/src/hasancln18/task12/Task14.java	(revision 19d68bcec840714ed54467a2ff776b5ff480590f)
++++ /dev/null	(revision 19d68bcec840714ed54467a2ff776b5ff480590f)
+@@ -1,19 +0,0 @@
+-package hasancln18.task12;
+-
+-public class Task14 {
+-    public static void main(String[] args) {
+-        /*  TASK :
+-        Write a method which accepts  string as parameter and prints the sum of digits
+-        present in thr given string
+-        input :"ade1r4d3"
+-        output : 8
+-        trick : Use --> Character.isDigit()
+-                    --> Integer.valueOf()
+-         */
+-
+-
+-    }
+-
+-
+-}
+-
+Index: src/hasancln18/task12/Task15.java
+===================================================================
+diff --git a/src/hasancln18/task12/Task15.java b/src/hasancln18/task12/Task15.java
+deleted file mode 100644
+--- a/src/hasancln18/task12/Task15.java	(revision 19d68bcec840714ed54467a2ff776b5ff480590f)
++++ /dev/null	(revision 19d68bcec840714ed54467a2ff776b5ff480590f)
+@@ -1,27 +0,0 @@
+-package hasancln18.task12;
+-
+-public class Task15 {
+-    public static void main(String[] args) {
+-        //task-> MDarr  tum elemalarının çarpımını print eden code create edinz
+-        int [][] arrMD={ {1,2,3 }, { 9,8} };
+-
+-        int carpim=1;
+-
+-        for (int kat = 0; kat <arrMD.length ; kat++) {
+-            for (int daire = 0; daire < arrMD[kat].length ; daire++) {
+-                carpim*=arrMD[kat][daire];
+-            }
+-        }
+-        System.out.println("carpim = " + carpim);
+-
+-
+-//        for (int i = 0; i <arrMD.length ; i++) {
+-//            for (int j = 0; j < arrMD[i].length ; j++) {
+-//
+-//            }
+-//        }
+-
+-
+-
+-    }
+-}
+Index: src/hasancln18/task12/Task16.java
+===================================================================
+diff --git a/src/hasancln18/task12/Task16.java b/src/hasancln18/task12/Task16.java
+deleted file mode 100644
+--- a/src/hasancln18/task12/Task16.java	(revision 19d68bcec840714ed54467a2ff776b5ff480590f)
++++ /dev/null	(revision 19d68bcec840714ed54467a2ff776b5ff480590f)
+@@ -1,25 +0,0 @@
+-package hasancln18.task12;
+-
+-public class Task16 {
+-    public static void main(String[] args) {
+-        // task->  Mdarr'deki son elemanların çarpımını print eden code create ediniz
+-
+-        int carpim=1;
+-        int[][] MDarr = {{1, 2, 3}, {4, 5, 6,8}, {7, 8, 9, 0,2,3,2}};
+-
+-        for (int i = 0; i < MDarr.length; i++) {
+-
+-            carpim*=   MDarr[i][MDarr[i].length - 1];//her dairenin son elemani al
+-
+-            System.out.println("MDarr[i][MDarr[i].length - 1] = " + MDarr[i][MDarr[i].length - 1]);
+-
+-        }
+-        System.out.println("carpim = " + carpim);
+-
+-        //3 u nasil aliriz
+-        System.out.println("MDarr[0][2] = " + MDarr[0][2]);//3
+-        System.out.println("MDarr[0][MDarr.length-1] = " + MDarr[0][MDarr.length - 1]);///3
+-
+-
+-    }
+-}
+Index: src/hasancln18/task12/Task17.java
+===================================================================
+diff --git a/src/hasancln18/task12/Task17.java b/src/hasancln18/task12/Task17.java
+deleted file mode 100644
+--- a/src/hasancln18/task12/Task17.java	(revision 19d68bcec840714ed54467a2ff776b5ff480590f)
++++ /dev/null	(revision 19d68bcec840714ed54467a2ff776b5ff480590f)
+@@ -1,11 +0,0 @@
+-package hasancln18.task12;
+-
+-public class Task17 {
+-    public static void main(String[] args) {
+-        // task-> sayi arr'deki en buyk elemanı print eden code create ediniz...
+-        int sayi[][]={{1,2,3},{19,-8},{24,10,-41}};//24
+-
+-
+-
+-    }
+-}
+Index: src/hasancln18/task12/Task18.java
+===================================================================
+diff --git a/src/hasancln18/task12/Task18.java b/src/hasancln18/task12/Task18.java
+deleted file mode 100644
+--- a/src/hasancln18/task12/Task18.java	(revision 19d68bcec840714ed54467a2ff776b5ff480590f)
++++ /dev/null	(revision 19d68bcec840714ed54467a2ff776b5ff480590f)
+@@ -1,13 +0,0 @@
+-package hasancln18.task12;
+-
+-public class Task18 {
+-    public static void main(String[] args) {
+-        // task-> sayi arr'deki iç arr'lerin toplamını yeni bir arr'ya atayıp print eden code create ediniz
+-        // input :int sayi[][]={{1,2,3},{19,-8},{24,10,-41}};
+-        // output : int yeniArr[]={6,11,-7}
+-        int sayi[][] = {{1, 2, 3}, {19, -8}, {24, 10, -41}};
+-
+-
+-
+-    }
+-}
+Index: src/hasancln18/task12/Task19.java
+===================================================================
+diff --git a/src/hasancln18/task12/Task19.java b/src/hasancln18/task12/Task19.java
+deleted file mode 100644
+--- a/src/hasancln18/task12/Task19.java	(revision 19d68bcec840714ed54467a2ff776b5ff480590f)
++++ /dev/null	(revision 19d68bcec840714ed54467a2ff776b5ff480590f)
+@@ -1,16 +0,0 @@
+-package hasancln18.task12;
+-
+-public class Task19 {
+-    public static void main(String[] args) {
+-
+-        //Task-> Asagidaki multi dimensional array'lerin ic array'lerinde ayni index'e sahip
+-        // elemanlarin toplamini ekrana yazdiran bir program yaziniz. (Zor soru)
+-        // arr1 = { {1,2}, {3,4,5}, {6} } ve arr2 = { {7,8,9}, {10,11}, {12} }
+-        int arr1[][]={ {1,2}, {3,4,5}, {6} };
+-        int arr2[][]={ {7,8,9}, {10,11}, {12} };
+-        int sum=0;
+-
+-
+-        System.out.println(sum);
+-    }
+-}
