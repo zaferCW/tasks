@@ -1,0 +1,14 @@
+Index: src/zeynepA/ABC.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/zeynepA/ABC.java b/src/zeynepA/ABC.java
+deleted file mode 100644
+--- a/src/zeynepA/ABC.java	
++++ /dev/null	
+@@ -1,4 +0,0 @@
+-package zeynepA;
+-
+-public class ABC {
+-}
