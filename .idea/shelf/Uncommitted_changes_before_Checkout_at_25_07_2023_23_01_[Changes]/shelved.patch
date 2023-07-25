@@ -1,0 +1,76 @@
+Index: .idea/workspace.xml
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+deleted file mode 100644
+--- a/.idea/workspace.xml	(revision dd9e095cdd4976871a4feaaea8610c592b49902a)
++++ /dev/null	(revision dd9e095cdd4976871a4feaaea8610c592b49902a)
+@@ -1,54 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<project version="4">
+-  <component name="AutoImportSettings">
+-    <option name="autoReloadType" value="SELECTIVE" />
+-  </component>
+-  <component name="ChangeListManager">
+-    <list default="true" id="2821944e-0b1d-49e0-8478-c73134d785c8" name="Changes" comment="All tasks added" />
+-    <option name="SHOW_DIALOG" value="false" />
+-    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+-    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+-    <option name="LAST_RESOLUTION" value="IGNORE" />
+-  </component>
+-  <component name="FileTemplateManagerImpl">
+-    <option name="RECENT_TEMPLATES">
+-      <list>
+-        <option value="Class" />
+-      </list>
+-    </option>
+-  </component>
+-  <component name="Git.Settings">
+-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src/zeynepA" />
+-  </component>
+-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+-    <ConfirmationsSetting value="2" id="Add" />
+-  </component>
+-  <component name="PropertiesComponent"><![CDATA[{
+-  "keyToString": {
+-    "last_opened_file_path": "C:/Users/zeyne/IdeaProjects/tasks/src/zeynepA"
+-  }
+-}]]></component>
+-  <component name="RecentsManager">
+-    <key name="CreateClassDialog.RecentsKey">
+-      <recent name="zeynepA.task12" />
+-    </key>
+-    <key name="CopyFile.RECENT_KEYS">
+-      <recent name="C:\Users\zeyne\IdeaProjects\tasks\src\zeynepA" />
+-    </key>
+-  </component>
+-  <component name="TaskManager">
+-    <task id="LOCAL-00001" summary="All tasks added">
+-      <created>1689863335574</created>
+-      <option name="number" value="00001" />
+-      <option name="presentableId" value="LOCAL-00001" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1689863335574</updated>
+-    </task>
+-    <option name="localTasksCounter" value="2" />
+-    <servers />
+-  </component>
+-  <component name="VcsManagerConfiguration">
+-    <MESSAGE value="All tasks added" />
+-    <option name="LAST_COMMIT_MESSAGE" value="All tasks added" />
+-  </component>
+-</project>
+\ No newline at end of file
+Index: .idea/misc.xml
+===================================================================
+diff --git a/.idea/misc.xml b/.idea/misc.xml
+deleted file mode 100644
+--- a/.idea/misc.xml	(revision dd9e095cdd4976871a4feaaea8610c592b49902a)
++++ /dev/null	(revision dd9e095cdd4976871a4feaaea8610c592b49902a)
+@@ -1,6 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<project version="4">
+-  <component name="ProjectRootManager" version="2" default="true">
+-    <output url="file://$PROJECT_DIR$/out" />
+-  </component>
+-</project>
+\ No newline at end of file
