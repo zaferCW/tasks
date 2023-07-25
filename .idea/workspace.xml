@@ -4,55 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="82867c73-8d45-4cdb-9c44-80e8516d85b9" name="Changes" comment="tasks deneme commit">
-      <change afterPath="$PROJECT_DIR$/src/MeryemT/Tasks13/Task01_Market.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MeryemT/Tasks13/Task02_ÖğrtNot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MeryemT/Tasks13/Task03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MeryemT/Tasks13/Task04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MeryemT/Tasks13/Task05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MeryemT/Tasks13/Task06.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MeryemT/Tasks13/Task07.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MeryemT/Tasks13/Task08.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MeryemT/Tasks13/Task09.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MeryemT/Tasks13/Task10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MeryemT/Tasks13/Task11_Fibonacci.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MeryemT/Tasks13/Task12_Manav.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MeryemT/Tasks13/Task13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MeryemT/Tasks13/Task14.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MeryemT/Tasks13/_01_arraylist1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MeryemT/Tasks13/_02_arraylist2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MeryemT/Tasks13/_03_arraylist3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MeryemT/Tasks13/_04_arraylist4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MeryemT/Tasks13/_05_arraylist5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MeryemT/Tasks13/_06_arraylist6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MeryemT/Tasks13/_07_arraylist7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MeryemT/Tasks13/_08_arraylist8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MeryemT/Tasks13/_09_2dArray_with_arraylis.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MeryemT/Tasks13/_10_arraylist12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MeryemT/Tasks13/_11_prime_numbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MeryemT/Tasks13/_12_array1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MeryemT/task24/task01/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MeryemT/task24/task02/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MeryemT/task24/task03/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MeryemT/task26/task01/Ogrenci.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MeryemT/task26/task01/Okul.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MeryemT/task26/task01/OkulMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MeryemT/task26/task02/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MeryemT/task26/task02/Banka.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MeryemT/task26/task03/Ogrenci.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MeryemT/task26/task03/Okul.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MeryemT/task26/task03/OkulMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MeryemT/task26/task03/Task03.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MeryemT/task26/task06/Task06.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MeryemT/task26/task06/Task06_a.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MeryemT/task26/task07/Task07.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MeryemT/task26/task07/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MeryemT/task26/task07/UserMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MeryemT/task26/task08/Task08.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MeryemT/task26/task08/_02/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MeryemT/task26/task08/_02/BankaMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MeryemT/task26/task08/_02/Islemler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MeryemT/task26/task08/_02/MusteriEkle.java" afterDir="false" />
+    <list default="true" id="82867c73-8d45-4cdb-9c44-80e8516d85b9" name="Changes" comment="meryemt task24">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +23,7 @@
     </option>
   </component>
   <component name="Git.Merge.Settings">
-    <option name="BRANCH" value="iclal4" />
+    <option name="BRANCH" value="origin/MeryemT" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
@@ -94,14 +47,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/akara/IdeaProjects/tasksss/src/MeryemT"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/akara/IdeaProjects/tasksss/src/MeryemT&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\akara\IdeaProjects\tasksss\src\MeryemT" />
@@ -148,7 +101,21 @@
       <option name="project" value="LOCAL" />
       <updated>1688679914325</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="meryemt">
+      <created>1690319135444</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1690319135444</updated>
+    </task>
+    <task id="LOCAL-00006" summary="meryemt task24">
+      <created>1690321370444</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1690321370444</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -176,6 +143,8 @@
     <MESSAGE value="ozel taks eklendi" />
     <MESSAGE value="deneme commit" />
     <MESSAGE value="tasks10 commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="tasks10 commit" />
+    <MESSAGE value="meryemt" />
+    <MESSAGE value="meryemt task24" />
+    <option name="LAST_COMMIT_MESSAGE" value="meryemt task24" />
   </component>
 </project>

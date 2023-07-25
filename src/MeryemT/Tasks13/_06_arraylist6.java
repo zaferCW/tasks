@@ -1,5 +1,8 @@
 package MeryemT.Tasks13;
 
+import java.util.ArrayList;
+import java.util.List;
+
 public class _06_arraylist6 {
 
     /*
@@ -14,12 +17,38 @@ public class _06_arraylist6 {
      */
 
     public static void main(String[] args) {
+        ArrayList<Integer> list = new ArrayList<Integer>();
+        list = new ArrayList<Integer>(List.of(5, 4, 6, 2, 3));
+
+        int sonuc = hillNum(list);
+        System.out.println("sonuc = " + sonuc);
 
 
+    }//main sonu
+
+    private static int hillNum(ArrayList<Integer> list) {
+        int uygunSayi = 0;
+        for (int i = 1; i < list.size(); i++){
+            int karsilastirma=list.get(i);
+            int oncekiSayi=list.get(i-1);
+            int sonrakiSayi=list.get(i+1);
+            if (karsilastirma<oncekiSayi && karsilastirma>sonrakiSayi){
+                uygunSayi=karsilastirma;
+                System.out.println(karsilastirma+" "+oncekiSayi+" dan küçük "+sonrakiSayi+" dan büyüktür" );
+                break;
+            }
 
 
+        }return uygunSayi;
     }
 
 
+}//class sonu
 
-}
+
+
+
+
+
+
+

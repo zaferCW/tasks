@@ -1,5 +1,11 @@
 package MeryemT.Tasks13;
 
+import java.util.ArrayList;
+import java.util.List;
+import java.util.Scanner;
+
+
+
 public class Task01_Market {
     /* TASK :
      * Bir bakkalın 7 günlük tüm kazançlarını günlük olarak gösteren bir program yazınız.
@@ -18,7 +24,30 @@ public class Task01_Market {
      * 			 for döngüsü ile tüm günleri ortalama kazanç ile karşılaştır
      * 			 ortalama kazançtan aşağıysa o günleri return yap.
      * */
-}
+    static ArrayList<String> gunler = new ArrayList<String>(List.of("p.tesi", "salı", "çarşamba", "perşembe", "cuma", "c.tesi", "pazar"));
+    static ArrayList<Double> gunlukKazanc = new ArrayList<Double>();
+    static Scanner input = new Scanner(System.in);
+
+    public static void main(String[] args) {
+        int n = 0;
+        while (n < 7) {
+            System.out.println(gunler.get(n) + "  günün kazancını giriniz:");
+           double kazanc= input.nextDouble();
+            gunlukKazanc.add(kazanc);
+            n++;
+        }
+
+      getOrtalamaKazanc1();
+      // getOrtalamaninUstundeKazancGünleri1();
+    //   getOrtalamaninAltindaKazancGünleri1();
+
+    }//main sonu
+
+    private static void getOrtalamaKazanc1() {
+    }
+
+
+}//class son
 
 
 
