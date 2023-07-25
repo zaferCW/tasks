@@ -4,19 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="82867c73-8d45-4cdb-9c44-80e8516d85b9" name="Changes" comment="tasks10 commit">
-      <change afterPath="$PROJECT_DIR$/src/iclal/Task20/T01_Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/iclal/Task20/T01_Runner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/iclal/Task20/T02_ElektrikHesabi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/iclal/Task20/T02_Musteri.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/iclal/Task20/T02_Runner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/iclal/Task20/T03_Lesson.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/iclal/Task20/T03_Runner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/iclal/Task20/T03_Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/iclal/Task20/T04_Bisiklet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/iclal/Task20/T04_Runner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="82867c73-8d45-4cdb-9c44-80e8516d85b9" name="Changes" comment="tasks deneme commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
