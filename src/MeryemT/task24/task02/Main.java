@@ -1,5 +1,7 @@
 package MeryemT.task24.task02;
 
+import java.util.Scanner;
+
 public class Main {
 
 /* TODO
@@ -32,6 +34,97 @@ public class Main {
     Main class'ın içinde;
     userName rent is amountOfRent
      */
+static  Scanner input = new Scanner(System.in);
+    public static void main(String[] args) {
 
+        System.out.println("Your name:");
+        String name = input.nextLine();
+
+        rentApartments user = new rentApartments(name, input);
+
+        user.roomNumber();
+
+        System.out.println("Do you want balcony? (true/false)");
+        user.setBalconyOrNo(input.nextBoolean());
+
+
+
+        user.balcony();
+        System.out.println(user);
+
+
+    }
+
+}
+class rentApartments{
+
+    private String name;
+    private int roomCount;
+    private boolean balconyOrNo;
+    int rent;
+    Scanner input;
+    public rentApartments() {
+    }
+
+    public rentApartments(String name, Scanner input) {
+        this.name = name;
+        this.input = input;
+    }
+
+    public int roomNumber() {
+
+        do {
+            System.out.println("how many rooms do you want?");
+            roomCount = input.nextInt();
+            rent = 0;
+            if (roomCount == 0) {
+                rent = 1400;
+            } else if (roomCount == 1) {
+                rent = 1700;
+            } else if (roomCount == 2) {
+                rent = 2200;
+            } else if (roomCount == 3) {
+                rent = 2700;
+            } else {
+                System.out.println("Invalid room count. Please enter a valid value (0, 1, 2, or 3).");
+            }
+        } while (roomCount < 0 || roomCount > 3);
+        return rent;
+    }
+    public void balcony(){
+        if (balconyOrNo){
+            rent += 200;
+        }
+    }
+
+    public String getName() {
+        return name;
+    }
+
+    public void setName(String name) {
+        this.name = name;
+    }
+
+    public int getRoomCount(int i) {
+        return roomCount;
+    }
+
+    public void setRoomCount(int roomCount) {
+        this.roomCount = roomCount;
+
+    }
+
+    public boolean isBalconyOrNo() {
+        return balconyOrNo;
+    }
+
+    public void setBalconyOrNo(boolean balconyOrNo) {
+        this.balconyOrNo = balconyOrNo;
+    }
+
+    @Override
+    public String toString() {
+        return name + ", rent is " + rent;
+    }
 
 }
