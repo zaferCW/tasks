@@ -1,5 +1,8 @@
 package MeryemT.Tasks13;
 
+import java.util.ArrayList;
+import java.util.List;
+
 public class _03_arraylist3 {
 
     /*
@@ -17,11 +20,37 @@ public class _03_arraylist3 {
      */
 
     public static void main(String[] args) {
+        ArrayList<String> list;
+        list = new ArrayList<String>(List.of("New jersey", "New york", "Ohio", "Florida", "Boston"));
+        //  ArrayList<Integer> leghtlist = new ArrayList<Integer>();
+        //  leghtlist= getLength(list);
+        ArrayList<Integer> lengths = getLength(list);
+        System.out.println("lengths = " + lengths);
+
+    }//main son
+
+    private static ArrayList<Integer> getLength(ArrayList<String> list) {
+        ArrayList<Integer> lengths = new ArrayList<>();
+        for (int i = 0; i < list.size(); i++) {
+            // Her bir elemanı alıyoruz.
+            String str = list.get(i);
+
+            // String'in uzunluğunu buluyoruz.
+            int length = str.length();
+
+            // Uzunluğu lengths ArrayList'ine ekliyoruz.
+            lengths.add(length);
 
 
-
+            // Uzunlukları içeren lengths ArrayList'ini döndürüyoruz.
+        }
+        return lengths;
 
     }
+
+
+
+
 
 
 }
