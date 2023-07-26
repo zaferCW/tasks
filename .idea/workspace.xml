@@ -4,7 +4,28 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="82867c73-8d45-4cdb-9c44-80e8516d85b9" name="Changes" comment="task 24 added" />
+    <list default="true" id="82867c73-8d45-4cdb-9c44-80e8516d85b9" name="Changes" comment="task 24 added">
+      <change afterPath="$PROJECT_DIR$/src/Rumeysa/task26/task01/Ogrenci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Rumeysa/task26/task01/Okul.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Rumeysa/task26/task01/OkulMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Rumeysa/task26/task02/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Rumeysa/task26/task02/Banka.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Rumeysa/task26/task03/Ogrenci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Rumeysa/task26/task03/Okul.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Rumeysa/task26/task03/OkulMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Rumeysa/task26/task03/Task03.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Rumeysa/task26/task06/Task06.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Rumeysa/task26/task06/Task06_a.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Rumeysa/task26/task07/Task07.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Rumeysa/task26/task07/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Rumeysa/task26/task07/UserMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Rumeysa/task26/task08/Task08.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Rumeysa/task26/task08/_02/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Rumeysa/task26/task08/_02/BankaMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Rumeysa/task26/task08/_02/Islemler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Rumeysa/task26/task08/_02/MusteriEkle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -60,24 +81,25 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "/Users/rumeysaarsevenoglu/IdeaProjects/tasks1/src/Rumeysa/task24"
+    "last_opened_file_path": "/Users/rumeysaarsevenoglu/IdeaProjects/tasks1/src/Rumeysa"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/Rumeysa" />
       <recent name="$PROJECT_DIR$/src/Rumeysa/OzelTasklerR/okul_Proje" />
       <recent name="$PROJECT_DIR$/src/OzelTasklerR" />
       <recent name="C:\Users\pc\IdeaProjects\Tasks\src" />
       <recent name="C:\Users\Q-3442 HASAN\IdeaProjects\tasks\src\hasancln18" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.T04_Runner">
-    <configuration name="T01_Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Rumeysa.Task20.T01_Runner" />
+  <component name="RunManager" selected="Application.Banka">
+    <configuration name="Banka" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Rumeysa.task26.task02.Banka" />
       <module name="tasks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Rumeysa.Task20.*" />
+          <option name="PATTERN" value="Rumeysa.task26.task02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,12 +107,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="T02_Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Rumeysa.Task20.T02_Runner" />
+    <configuration name="OkulMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Rumeysa.task26.task01.OkulMain" />
       <module name="tasks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Rumeysa.Task20.*" />
+          <option name="PATTERN" value="Rumeysa.task26.task01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -139,11 +161,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Banka" />
+        <item itemvalue="Application.OkulMain" />
+        <item itemvalue="Application.Task11_Fibonacci" />
         <item itemvalue="Application.T04_Runner" />
         <item itemvalue="Application.T03_Runner" />
-        <item itemvalue="Application.T02_Runner" />
-        <item itemvalue="Application.T01_Runner" />
-        <item itemvalue="Application.Task11_Fibonacci" />
       </list>
     </recent_temporary>
   </component>
