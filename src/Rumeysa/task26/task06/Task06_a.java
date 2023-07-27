@@ -1,5 +1,7 @@
 package Rumeysa.task26.task06;
 
+import java.util.Random;
+
 public class Task06_a {
     public static void main(String[] args) {
         //    randomSayi isminde static void bir method create ediniz.
@@ -11,8 +13,14 @@ public class Task06_a {
 
 
 
+        randomSayi();
+
     }
 
+    private static void randomSayi() {
+        Random random = new Random(3);
+        System.out.println("random = " + random);
+    }
 
 
 }
