@@ -18,9 +18,11 @@ public class Task06_a {
     }
 
     private static void randomSayi() {
-        Random random = new Random(3);
-        System.out.println("random = " + random);
+        Random random = new Random();
+        int randomNum = random.nextInt(11);
+        System.out.println("random = " + randomNum);
     }
+
 
 
 }
