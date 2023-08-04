@@ -4,13 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="82867c73-8d45-4cdb-9c44-80e8516d85b9" name="Changes" comment="ch26, task 01-02 added">
+    <list default="true" id="82867c73-8d45-4cdb-9c44-80e8516d85b9" name="Changes" comment="ch26, task 08 added">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Rumeysa/task26/task06/Task06_a.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Rumeysa/task26/task06/Task06_a.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Rumeysa/task26/task08/_02/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Rumeysa/task26/task08/_02/Account.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Rumeysa/task26/task08/_02/BankaMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Rumeysa/task26/task08/_02/BankaMain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Rumeysa/task26/task08/_02/Islemler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Rumeysa/task26/task08/_02/Islemler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Rumeysa/task26/task08/_02/MusteriEkle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Rumeysa/task26/task08/_02/MusteriEkle.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -198,7 +194,14 @@
       <option name="project" value="LOCAL" />
       <updated>1690315368191</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="ch26, task 08 added">
+      <created>1691106421817</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1691106421817</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -219,6 +222,7 @@
     <MESSAGE value="tasks eklendi" />
     <MESSAGE value="task 20 solved" />
     <MESSAGE value="task 24 added" />
-    <option name="LAST_COMMIT_MESSAGE" value="task 24 added" />
+    <MESSAGE value="ch26, task 08 added" />
+    <option name="LAST_COMMIT_MESSAGE" value="ch26, task 08 added" />
   </component>
 </project>

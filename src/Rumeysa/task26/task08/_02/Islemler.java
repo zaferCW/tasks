@@ -58,6 +58,7 @@ public class Islemler extends Account {
         String lastName = input.nextLine();
         Account kullanici = new Account(name, lastName);
         users.add(kullanici);
+        System.out.println("hesabiniz olusturuldu lutfen giris yapiniz");
         hesapKontrol();
     }
 
