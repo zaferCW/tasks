@@ -1,5 +1,8 @@
 package Tasks13;
 
+import java.util.ArrayList;
+import java.util.Arrays;
+
 public class _01_arraylist1 {
 
     /*
@@ -17,9 +20,22 @@ public class _01_arraylist1 {
 
     public static void main(String[] args) {
 
+        ArrayList<String> fruits = new ArrayList<>(Arrays.asList("Orange" , "Kiwi" , "Peach" , "Banana" , "Orange"));
 
 
+        int count = getCount(fruits, "Orange");
+        System.out.println(count);
 
+
+    }
+
+    public static int getCount(ArrayList<String> a, String b) {
+        int count = 0;
+        for (String item : a) {
+            if (item.equals(b))
+                count++;
+        }
+        return count;
     }
 
 

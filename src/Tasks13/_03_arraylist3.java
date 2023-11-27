@@ -1,5 +1,8 @@
 package Tasks13;
 
+import java.util.ArrayList;
+import java.util.Arrays;
+
 public class _03_arraylist3 {
 
     /*
@@ -18,10 +21,27 @@ public class _03_arraylist3 {
 
     public static void main(String[] args) {
 
+        ArrayList<String> cities = new ArrayList<>(Arrays.asList("New jersey" ,"New york" , "Ohio" , "Florida" , "Boston"));
 
+        getLength(cities);
+        ArrayList <Integer> result =  getLength(cities);
+        System.out.println("sehir uzunluklari = " + result);
 
 
     }
+
+    public static ArrayList <Integer> getLength(ArrayList <String> cities) {
+        ArrayList<Integer> lengths = new ArrayList<>();
+        for (int i = 0; i < cities.size(); i++) {
+            lengths.add(cities.get(i).length());
+        }
+        return lengths;
+    }
+
+
+
+
+
 
 
 }
